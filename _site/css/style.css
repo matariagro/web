@@ -535,11 +535,6 @@ h6,
 .sdgs-carousel .sdgs-item:hover {
     background: #fff;
 }   
-@media screen and (max-width: 768px) {
-    width: 55px;
-    margin-right: 10px;
-    }
-}
 
 div.articles li {
     list-style:none;
@@ -556,11 +551,16 @@ ul
 }
 li
 {
-    padding-left:14px;
     min-height: 185px;
 }
 .img-thumbnail {
     float: left;
     width: 125px;
     margin-right: 10px;
+}
+
+.rounded {
+    float: left;
+    max-width: 550px;
+    margin-right: 20px !important;
 }
