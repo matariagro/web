@@ -546,7 +546,7 @@ ul.articles {
     margin-left: -10px;    
 }
 
-img.img-thumb {
+.img-thumbnail {
     float: left;
-    width: 85px;
+    width: 125px;
 }
