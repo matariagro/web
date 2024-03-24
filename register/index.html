@@ -5,5 +5,63 @@ subtitle: Pendaftaran Pelatihan Pertanian
 nav: Pendaftaran
 image: magrin.png
 ---
-
-Pendaftaran
+<h1>Formulir Pendaftaran</h1>
+<form id="my-form" name="pendaftaran" accept-charset="utf-8" action="https://formspree.io/f/mgeglgwp" method="post">
+<div class="row g-3">
+    <div class="col-md-12">
+        <div class="form-floating">
+		    <input type="text" name="name" class="form-control" id="full-name" placeholder="Nama Lengkap" required="">
+			<label for="full-name">Nama Lengkap</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">
+		    <input type="email" name="email" class="form-control" id="email" placeholder="Email valid" required="">
+		    <label for="email">Email</label>
+   		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">
+		    <select name="pelatihan" class="form-control" id="pelatihan" required="">
+		        <option value="" selected="" disabled="">Pilih Pelatihan</option>
+		        <option value="Pelatihan Pertanian Organik">Pelatihan Pertanian Organik</option>
+		        <option value="Sistem Pengendalian OPT">Sistem Pengendalian Hama Terpadu</option>
+		        <option value="Teknik Tata Kelola Air dan Irigasi">Teknik Tata Kelola Air dan Irigasi</option>
+		        <option value="Penanganan Panen dan PAsca Panen">Penanganan Panen dan PAsca Panen</option>
+		        <option value="Strategi Produk dan Pemasaran Pertanian">Strategi Produk dan Pemasaran Pertanian</option>        
+		    </select>
+		    <label for="pelatihan">Pelatihan yang mau diikuti?</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating"> 
+		    <select name="jumlah" class="form-control" id="jumlah" required="">
+		        <option value="0" selected="">0</option>
+		        <option value="1">1</option>
+		        <option value="2">2</option>
+		        <option value="3">3</option>
+		        <option value="4">4</option>
+		        <option value="5">5</option>
+		        <option value="6">6</option>
+		        <option value="7">7</option>
+		        <option value="8">8</option>
+		        <option value="9">9</option>
+		        <option value="10">10</option>                
+		    </select>
+		    <label for="jumlah">Jumlah Berapa Orang?</label>
+		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">		    
+    		<label for="message">Pesan</label><textarea name="message" class="form-control" placeholder="Tuliskan pesan disini" id="message" style="height: 100px"></textarea><label for="message">Pesan</label>
+ 		</div>
+	</div>
+	<div class="col-md-12">
+        <div class="form-floating">        
+    		<input type="hidden" name="_subject" id="email-subject" value="Pendaftaran">
+    	</div>
+    </div>
+    </div>	
+  </div>
+  <input type="submit" value="Daftar" class="btn btn-primary">
+</form>
