@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Artikel Terbaru
+title: Artikel Terbaru - Matari Agro Indonesia
 subtitle: Artikel Terbaru
 nav: Artikel 
 ---
 
 <h1>Artikel Terbaru</h1>
 
-<ul>
+<ul class="articles">
   {% for post in site.posts %}
   <li>
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <img src="{{ post.image }}" alt="{{ post.title }}">
+    <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" clas="img-thumb">
     <p>{{ post.excerpt }}</p>
   </li>
   {% endfor %}

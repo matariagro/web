@@ -1,7 +1,9 @@
 ---
 layout: post
 title: "Artikel Berita Terbaru"
-image: margin.png
+subtitle: Artikel
+nav: Artikel
+image: magrin.png
 ---
 
 Ini adalah potongan paragraf dari artikel berita terbaru. Artikel ini membahas topik-topik menarik yang sedang terjadi.

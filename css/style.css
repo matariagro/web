@@ -541,3 +541,12 @@ h6,
     }
 }
 
+ul.articles {
+    list-style-type: none !important;
+    margin-left: -10px;    
+}
+
+img.img-thumb {
+    float: left;
+    width: 85px;
+}
