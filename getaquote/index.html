@@ -1,0 +1,86 @@
+---
+layout: default
+title: Ajukan Penawaran ke Matari Agro Indonesia
+subtitle: Pengajuan Penawaran
+nav: Ajukan Penawaran 
+---
+
+<h1>Pengajuan Penawaran Kerjasama</h1>
+<p>Ajukan penawaran kerja sama bersama Matari Agro Indonesia, mitra terpercaya untuk mewujudkan pertanian yang lebih berkelanjutan dan produktif. Dengan tim ahli kami, kami siap memberikan solusi inovatif dan terintegrasi untuk meningkatkan hasil pertanian Anda. Mari bergabung dalam membangun masa depan pertanian Indonesia yang lebih cerah bersama Matari Agro Indonesia!.</p>
+
+                    <form id="my-form" action="https://formspree.io/f/mwkgndlk" method="POST" enctype="multipart/form-data">
+                        <div class="row g-3">
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap">
+                                    <label for="name">Nama Lengkap</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email">
+                                    <label for="email">Alamat Email</label>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="telephone" name="telephone" class="form-control" id="email" placeholder="Telephone/Handphone">
+                                    <label for="telephone">Telephone</label>
+                                </div>
+                            </div>                            
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek">
+                                    <label for="subject">Subyek</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+                                <div class="form-floating">
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <label for="message">Pesan</label>
+                                </div>
+                            </div>
+                            <div class="col-12">
+									<label for="formFileMultiple" class="form-label" for="upload"></label>
+									<input class="form-control" type="file" name="upload" placeholder="Upload" id="formFileMultiple" multiple>
+							</div>                            
+                            <div class="col-12">
+                                <button class="btn btn-primary py-3 px-4" type="submit">Kirim</button>
+                            </div>
+                            <p id="my-form-status"></p>
+                        </div>
+                    </form>
+
+<!-- Place this script at the end of the body tag -->
+<script>
+    var form = document.getElementById("my-form");
+    
+    async function handleSubmit(event) {
+      event.preventDefault();
+      var status = document.getElementById("my-form-status");
+      var data = new FormData(event.target);
+      fetch(event.target.action, {
+        method: form.method,
+        body: data,
+        headers: {
+            'Accept': 'application/json'
+        }
+      }).then(response => {
+        if (response.ok) {
+          status.innerHTML = "Terima kasih atas pesan Anda!";
+          form.reset()
+        } else {
+          response.json().then(data => {
+            if (Object.hasOwn(data, 'errors')) {
+              status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+            } else {
+              status.innerHTML = "Oops! Ada masalah pengiriman formulir"
+            }
+          })
+        }
+      }).catch(error => {
+        status.innerHTML = "Oops! Ada masalah pengiriman formulir"
+      });
+    }
+    form.addEventListener("submit", handleSubmit)
+</script>                    
