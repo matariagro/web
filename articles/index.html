@@ -9,9 +9,9 @@ nav: Artikel
 <div class="articles">
 <ul>
   {% for post in site.posts %}
-  <li>
+  <li class="articles-item">
     <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail">
+    <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb">
     {{ post.excerpt }}
   </li>
   {% endfor %}
