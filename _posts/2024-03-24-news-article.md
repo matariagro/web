@@ -5,7 +5,7 @@ image: margin.png
 ---
 
 Ini adalah potongan paragraf dari artikel berita terbaru. Artikel ini membahas topik-topik menarik yang sedang terjadi.
-<img ="{{ site.url }}/img/{{ page.image }}" />
+<img src="{{ site.url }}/img/{{ page.image }}" />
 Berikut adalah beberapa poin penting dari artikel ini:
 
 - Poin 1
