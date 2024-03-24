@@ -541,12 +541,26 @@ h6,
     }
 }
 
-ul.articles {
-    list-style-type: none !important;
-    margin-left: -10px;    
+div.articles li {
+    list-style:none;
+    background-image:none;
+    background-repeat:none;
+    background-position:0; 
+    display: block;
 }
-
+ul
+{
+    list-style-type:none;
+    padding:0px;
+    margin:0px;
+}
+li
+{
+    padding-left:14px;
+    min-height: 185px;
+}
 .img-thumbnail {
     float: left;
     width: 125px;
+    margin-right: 10px;
 }
