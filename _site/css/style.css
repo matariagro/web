@@ -567,6 +567,6 @@ li
 @media screen and (max-width: 768px) {
     .rounded {
         float: left;
-        max-width: 330px;
+        max-width: 310px;
     }
 }
