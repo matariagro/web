@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Tantangan petani mempertahankan produksi pangan dan ketidakpastian iklim"
-subtitle: Artikel
+subtitle: Artikel Matari Agro
 nav: Artikel
 date: 2024-03-24
 image: panen.jpg
