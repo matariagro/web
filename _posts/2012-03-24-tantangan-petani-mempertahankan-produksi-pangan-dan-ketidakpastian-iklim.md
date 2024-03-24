@@ -7,7 +7,6 @@ date: 2024-03-24
 image: panen.jpg
 ---
 
-<img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}">
 Dalam menghadapi perubahan iklim global yang cepat, petani padi di Indonesia menghadapi tantangan untuk mempertahankan produksi pangan. Peristiwa cuaca ekstrem seperti hujan lebat, banjir dan kekeringan mengancam hasil panen. Ditambah dengan kurangnya inovasi dan adopsi teknologi, mata pencaharian petani memburuk.
 
 Perubahan iklim yang tidak dapat diprediksi mengganggu siklus pertanian, terutama budidaya padi. Curah hujan yang ekstrem menyebabkan banjir dan merusak tanaman, sementara kekeringan yang ekstrem mengeringkan lahan dan merusak tanaman. Petani yang mengandalkan pola musiman tradisional sangat rentan terhadap fluktuasi cuaca yang tidak dapat diprediksi.
