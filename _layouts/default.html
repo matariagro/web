@@ -5,9 +5,16 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
-
+    {% if page.desk %}
+    <meta name="description" content="{{ page.desk }}">
+    {% else %}
+    <meta name="description" content="Matari Agro Indonesia adalah konsultan pertanian terkemuka di Indonesia, menyediakan layanan konsultasi dan pelatihan untuk meningkatkan produktivitas dan keberlanjutan pertanian. Hubungi kami hari ini!">
+    {% endif %}
+    {% if page.keys %}
+        <meta name="keywords" content="{{ page.keys }}">
+    {% else %}
+        <meta name="keywords" content="konsultan pertanian, pelatihan pertanian, pertanian berkelanjutan, manajemen pertanian, konsultasi investasi pertanian, teknologi pertanian, Matari Agro Indonesia, Purwokerto">
+    {% endif %}
     <!-- Favicon -->
     <link href="../img/favicon.png" rel="icon">
 
@@ -51,8 +58,8 @@
     }
     .floating {
      position: fixed;
-     width: 60px;
-     height: 60px;
+     width: 48px;
+     height: 48px;
      bottom: 85px;
      right: 30px;
      background-color: #25d366;
@@ -65,7 +72,7 @@
     }
 
     .fab-icon {
-     margin-top: 16px;
+     margin-top: 10px;
     }    
   </style>  
 </head>
