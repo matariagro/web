@@ -3,7 +3,7 @@ layout: default
 title: "Pelatihan Teknis Pertanian: Mengembangkan Kemampuan Anda dalam Pertanian Berkelanjutan"
 subtitle: Pelatihan Pertanian
 nav: Pelatihan
-image: magrin.png
+image: combine.jpg
 ---
 
 <h1>Pelatihan Teknis Pertanian: Mengembangkan Kemampuan Anda dalam Pertanian Berkelanjutan</h1>
@@ -33,4 +33,4 @@ Dalam pelatihan ini, Anda akan belajar tentang strategi pemasaran yang efektif u
 Bergabunglah dengan kami dalam program pelatihan teknis pertanian ini dan tingkatkan kemampuan Anda dalam mengelola usaha pertanian yang berkelanjutan dan produktif! Dapatkan pengetahuan dan keterampilan yang Anda butuhkan untuk sukses dalam dunia pertanian modern. Jangan lewatkan kesempatan untuk menjadi bagian dari perubahan positif dalam sektor pertanian Indonesia. Hubungi kami sekarang untuk mendaftar dan mulailah perjalanan Anda menuju kesuksesan pertanian yang berkelanjutan!
 
 
-<a class="btn btn-primary" href="{{ site.url }}/register">Daftar Sekarang</a>
+<a class="btn btn-primary" href="{{ site.url }}/training/register">Daftar Sekarang</a>
