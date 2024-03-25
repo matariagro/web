@@ -30,4 +30,4 @@ Dengan bergabung dalam layanan konsultasi manajemen usaha pertanian kami, Anda a
 
 Jangan biarkan kesempatan untuk meningkatkan bisnis pertanian Anda terlewatkan. Bergabunglah dengan layanan konsultasi manajemen usaha pertanian kami sekarang juga dan temukan potensi tersembunyi bisnis Anda. Dapatkan pengetahuan dan wawasan yang Anda butuhkan untuk mengambil langkah-langkah yang tepat menuju kesuksesan. Hubungi kami sekarang untuk mendapatkan konsultasi pertama Anda dan mulailah perjalanan Anda menuju keberhasilan bersama Matari Agro Indonesia!
 
-<a class="btn btn-primary" href="{{ site.url }}/investing/register">Konsultasi Sekarang</a>
+<a class="btn btn-primary" href="{{ site.url }}/contact">Konsultasi Sekarang</a>
