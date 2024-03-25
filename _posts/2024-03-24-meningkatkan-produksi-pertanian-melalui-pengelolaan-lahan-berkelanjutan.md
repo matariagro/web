@@ -3,6 +3,7 @@ layout: post
 title: "Meningkatkan Produksi Pertanian Melalui Pengelolaan Lahan Berkelanjutan"
 subtitle: Artikel
 nav: Artikel
+desk: Meningkatkan Produksi Pertanian Melalui Pengelolaan Lahan Berkelanjutan - Pentingnya menjaga dan mengelola lahan secara berkelanjutan untuk meningkatkan produksi pertanian di Indonesia. Dukungan dan bimbingan dari Matari Agro Indonesia
 image: pemeriksaan_protani.jpg
 ---
 
