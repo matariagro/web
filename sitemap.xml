@@ -1,21 +1,21 @@
+---
+layout: feed
+---
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for post in site.posts %}
-  <url>
-    <loc>{{ site.url }}{{ post.url }}</loc>
-    <lastmod>{{ post.date | date: '%Y-%m-%d' }}</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-{% endfor %}
-{% for page in site.pages %}
-  {% unless page.url contains '404' %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    {% for post in site.posts %}
     <url>
-      <loc>{{ site.url }}{{ page.url }}</loc>
-      <lastmod>{{ page.date | date: '%Y-%m-%d' }}</lastmod>
-      <changefreq>weekly</changefreq>
-      <priority>0.5</priority>
+        <loc>{{ site.url }}{{ post.url }}</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>{{ post.date | date: '%Y-%m-%d' }}</news:publication_date>
+                <news:title>{{ post.title }}</news:title>
+        </news:news>    
     </url>
-  {% endunless %}
-{% endfor %}
+    {% endfor %} 
 </urlset>
