@@ -73,8 +73,8 @@
         ]
     });
 
-
-$('.sdgs-carousel').owlCarousel({
+    //sdgs
+    $('.sdgs-carousel').owlCarousel({
         autoplay: true,
         smartSpeed: 300,
         items: 6,
