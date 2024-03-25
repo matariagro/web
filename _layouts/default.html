@@ -5,11 +5,40 @@
     <meta charset="utf-8">
     <title>{{ page.title }}</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    {% if page.desk %}
+    <meta name="description" content="{{ page.desk }}">
+    {% else %}
+    <meta name="description" content="Matari Agro Indonesia adalah konsultan pertanian terkemuka di Indonesia, menyediakan layanan konsultasi dan pelatihan untuk meningkatkan produktivitas dan keberlanjutan pertanian. Hubungi kami hari ini!">
+    {% endif %}
+    <meta name="keywords" content="konsultan pertanian, pelatihan pertanian, pertanian berkelanjutan, manajemen pertanian, konsultasi investasi pertanian, teknologi pertanian, Matari Agro Indonesia, Purwokerto">
+
+    <!-- Twitter Card -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:site" content="@matariagro">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="Solusi pertanian berkelanjutan di Indonesia. Layanan konsultan dan pelatihan pertanian yang komprehensif dan terintegrasi.">
+    {% if page.img %}
+    <meta name="twitter:image" content="{{ site.url }}/img/{{ page.img }}">
+    {% else %}
+    <meta name="twitter:image" content="{{ site.url }}/img/magrin.png">
+    {% endif %}
+
+    <!-- Facebook Open Graph -->
+    <meta property="og:url" content="https://matariagro.com">
+    <meta property="og:type" content="website">
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:description" content="Solusi pertanian berkelanjutan di Indonesia. Layanan konsultan dan pelatihan pertanian yang komprehensif dan terintegrasi.">
+    {% if page.img %}
+    <meta property="og:image" content="{{ site.url }}/img/{{ page.img }}">
+    {% else %}
+    <meta property="og:image" content="{{ site.url }}/img/magrin.png">
+    {% endif %}
+    <meta property="og:image:alt" content="Matari Agro Indonesia">
+    <meta name="robots" content="index, follow">
+    <link rel="canonical" href="https://matariagro.com/">
 
     <!-- Favicon -->
-    <link href="../img/favicon.png" rel="icon">
+    <link href="{{ site.url }}/img/favicon.png" rel="icon">
 
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -21,15 +50,15 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
-    <link href="../lib/animate/animate.min.css" rel="stylesheet">
-    <link href="../lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
-    <link href="../lib/lightbox/css/lightbox.min.css" rel="stylesheet">
+    <link href="{{ site.url }}/lib/animate/animate.min.css" rel="stylesheet">
+    <link href="{{ site.url }}/lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+    <link href="{{ site.url }}/lib/lightbox/css/lightbox.min.css" rel="stylesheet">
 
     <!-- Customized Bootstrap Stylesheet -->
-    <link href="../css/bootstrap.min.css" rel="stylesheet">
+    <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Template Stylesheet -->
-    <link href="../css/style.css" rel="stylesheet">
+    <link href="{{ site.url }}/css/style.css" rel="stylesheet">
   <style>
     /* Custom CSS untuk menyesuaikan desain */
     .nav-tabs,
@@ -51,8 +80,8 @@
     }
     .floating {
      position: fixed;
-     width: 60px;
-     height: 60px;
+     width: 48px;
+     height: 48px;
      bottom: 85px;
      right: 30px;
      background-color: #25d366;
@@ -65,7 +94,7 @@
     }
 
     .fab-icon {
-     margin-top: 16px;
+     margin-top: 10px;
     }    
   </style>  
 </head>
@@ -106,32 +135,33 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
-        <a href="/" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
-            <img src="../img/logo.png" />
+        <a href="{{ site.url }}" class="navbar-brand d-flex align-items-center px-4 px-lg-5">
+            <img src="{{ site.url }}/img/logo.png" />
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarCollapse">
             <div class="navbar-nav ms-auto p-4 p-lg-0">
-                <a href="/" class="nav-item nav-link active">Beranda</a>
-                <a href="/about" class="nav-item nav-link">Tentang</a>
-                <a href="/services" class="nav-item nav-link">Layanan</a>
-                <a href="/project" class="nav-item nav-link">Proyek</a>
+                <a href="{{ site.url }}/" class="nav-item nav-link">Beranda</a>
+                <a href="{{ site.url }}/about" class="nav-item nav-link">Tentang</a>
+                <a href="{{ site.url }}/services" class="nav-item nav-link">Layanan</a>
+                <a href="{{ site.url }}/project" class="nav-item nav-link">Proyek</a>
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">Program</a>
                     <div class="dropdown-menu bg-light m-0">
-                        <a href="#" class="dropdown-item">Pelatihan Teknis</a>
-                        <a href="#" class="dropdown-item">Konsultasi Managemen</a>
-                        <a href="#" class="dropdown-item">Perencanaan Investasi</a>
-                        <a href="#" class="dropdown-item">Varietas Unggul</a>
-                        <a href="#" class="dropdown-item">Pengendalian Hama Penyakit</a>
-                        <a href="#" class="dropdown-item">Pengembangan Agrowisata</a>                        
+                        <a href="{{ site.url }}/training/pelatihan-teknis-pertanian-mengembangkan-kemampuan-anda-dalam-pertanian-berkelanjutan" class="dropdown-item">Pelatihan Teknis</a>
+                        <a href="{{ site.url }}/consulting/konsultasi-manajemen-usaha-pertanian-membimbing-anda-menuju-kesuksesan-bisnis-pertanian" class="dropdown-item">Konsultasi Pertanian</a>
+                        <a href="{{ site.url }}/investing/perencanaan-investasi-pertanian-maksimalkan-potensi-keuntungan-dalam-industri-pertanian" class="dropdown-item">Perencanaan Investasi</a>
+                        <a href="{{ site.url }}/varieties/konsultasi-varietas-tanaman-unggul-optimalisasi-hasil-pertanian-anda" class="dropdown-item">Pemilihan Varietas Unggul</a>
+                        <a href="{{ site.url }}/pestcontrol/pengendalian-hama-dan-penyakit-tanaman-meningkatkan-produktivitas-dan-kualitas-panen-anda" class="dropdown-item">Pengendalian Hama Penyakit</a>
+                        <a href="{{ site.url }}/agrotourism/pengembangan-agrowisata-menjelajahi-keindahan-pertanian-dan-mendukung-petani-lokal" class="dropdown-item">Pengembangan Agrowisata</a>
                     </div>
                 </div>
-                <a href="/contact" class="nav-item nav-link">Kontak</a>
+                <a href="{{ site.url }}/articles" class="nav-item nav-link">Artikel</a>
+                <a href="{{ site.url }}/contact" class="nav-item nav-link">Kontak</a>
             </div>
-            <a href="/getaquote" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Ajukan Penawaran<i class="fa fa-arrow-right ms-3"></i></a>
+            <a href="{{ site.url }}/getaquote" class="btn btn-primary py-4 px-lg-4 rounded-0 d-none d-lg-block">Ajukan Penawaran<i class="fa fa-arrow-right ms-3"></i></a>
         </div>
     </nav>
     <!-- Navbar End -->
@@ -150,7 +180,7 @@
     </div>
     <!-- Page Header End -->
 
-    <div class="container-xxl py-5">
+    <div class="container-xxl py-2">
         <div class="container">
             {{ content }}
         </div>
@@ -173,20 +203,21 @@
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Layanan</h4>
-                    <a class="btn btn-link" href="">Pelatihan Pertanian</a>
-                    <a class="btn btn-link" href="">Konsultasi Pertanian</a>
-                    <a class="btn btn-link" href="">Perencanaan Invesatsi</a>
-                    <a class="btn btn-link" href="">Pemilihan Varietas Unggul</a>
-                    <a class="btn btn-link" href="">Pengendalian Hama Penyakit</a>
-                    <a class="btn btn-link" href="">Pengembangan Agrowisata</a>
+                    <a class="btn btn-link" href="{{ site.url }}/training/pelatihan-teknis-pertanian-mengembangkan-kemampuan-anda-dalam-pertanian-berkelanjutan">Pelatihan Pertanian</a>
+                    <a class="btn btn-link" href="{{ site.url }}/consulting/konsultasi-manajemen-usaha-pertanian-membimbing-anda-menuju-kesuksesan-bisnis-pertanian">Konsultasi Pertanian</a>
+                    <a class="btn btn-link" href="{{ site.url }}/investing/perencanaan-investasi-pertanian-maksimalkan-potensi-keuntungan-dalam-industri-pertanian">Perencanaan Invesatsi</a>
+                    <a class="btn btn-link" href="{{ site.url }}/varieties/konsultasi-varietas-tanaman-unggul-optimalisasi-hasil-pertanian-anda">Pemilihan Varietas Unggul</a>
+                    <a class="btn btn-link" href="{{ site.url }}/pestcontrol/pengendalian-hama-dan-penyakit-tanaman-meningkatkan-produktivitas-dan-kualitas-panen-anda">Pengendalian Hama Penyakit</a>
+                    <a class="btn btn-link" href="{{ site.url }}/agrotourism/pengembangan-agrowisata-menjelajahi-keindahan-pertanian-dan-mendukung-petani-lokal">Pengembangan Agrowisata</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Link Cepat</h4>
-                    <a class="btn btn-link" href="">Tentang</a>
-                    <a class="btn btn-link" href="">Layanan</a>
-                    <a class="btn btn-link" href="">Kebijakan & Privasi</a>
-                    <a class="btn btn-link" href="">Kontak</a>
-                    <a class="btn btn-link" href="">Dukungan</a>
+                    <a class="btn btn-link" href="{{ site.url }}/about">Tentang</a>
+                    <a class="btn btn-link" href="{{ site.url }}/services">Layanan</a>
+                    <a class="btn btn-link" href="{{ site.url }}/articles">Artikel</a>                    
+                    <a class="btn btn-link" href="{{ site.url }}/privacy">Kebijakan & Privasi</a>
+                    <a class="btn btn-link" href="{{ site.url }}/contact">Kontak</a>
+                    <a class="btn btn-link" href="{{ site.url }}/support">Dukungan</a>
                 </div>
                 <div class="col-lg-3 col-md-6">
                     <h4 class="text-white mb-4">Buletin</h4>
@@ -229,17 +260,17 @@
     <!-- JavaScript Libraries -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="../lib/wow/wow.min.js"></script>
-    <script src="../lib/easing/easing.min.js"></script>
-    <script src="../lib/waypoints/waypoints.min.js"></script>
-    <script src="../lib/owlcarousel/owl.carousel.min.js"></script>
-    <script src="../lib/counterup/counterup.min.js"></script>
-    <script src="../lib/parallax/parallax.min.js"></script>
-    <script src="../lib/isotope/isotope.pkgd.min.js"></script>
-    <script src="../lib/lightbox/js/lightbox.min.js"></script>
+    <script src="{{ site.url }}/lib/wow/wow.min.js"></script>
+    <script src="{{ site.url }}/lib/easing/easing.min.js"></script>
+    <script src="{{ site.url }}/lib/waypoints/waypoints.min.js"></script>
+    <script src="{{ site.url }}/lib/owlcarousel/owl.carousel.min.js"></script>
+    <script src="{{ site.url }}/lib/counterup/counterup.min.js"></script>
+    <script src="{{ site.url }}/lib/parallax/parallax.min.js"></script>
+    <script src="{{ site.url }}/lib/isotope/isotope.pkgd.min.js"></script>
+    <script src="{{ site.url }}/lib/lightbox/js/lightbox.min.js"></script>
 
     <!-- Template Javascript -->
-    <script src="../js/main.js"></script>
+    <script src="{{ site.url }}/js/main.js"></script>
 </body>
 
 </html>

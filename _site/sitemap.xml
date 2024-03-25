@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+    
+    <url>
+        <loc>http://localhost:4000/articles/menuju-industri-pertanian-modern-transformasi-untuk-meningkatkan-produktivitas</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-25</news:publication_date>
+                <news:title>Menuju Industri Pertanian Modern: Transformasi untuk Meningkatkan Produktivitas</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/mengelola-lahan-secara-berkelanjutan-kunci-meningkatkan-produksi-pertanian-indonesia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-25</news:publication_date>
+                <news:title>Mengelola Lahan Secara Berkelanjutan: Kunci Meningkatkan Produksi Pertanian Indonesia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/mendampingi-petani-meningkatkan-produksi-pertanian-secara-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-25</news:publication_date>
+                <news:title>Mendampingi petani meningkatkan produksi pertanian secara berkelanjutan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/inovasi-pertanian-berkelanjutan-mengangkat-produktivitas-dan-kesejahteraan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-25</news:publication_date>
+                <news:title>Inovasi Pertanian Berkelanjutan: Mengangkat Produktivitas dan Kesejahteraan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/beberapa-alasan-orang-memilih-matari-agro-indonesia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-25</news:publication_date>
+                <news:title>Beberapa alasan orang memilih Matari Agro Indonesia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/tantangan-petani-mempertahankan-produksi-pangan-dan-ketidakpastian-iklim</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-24</news:publication_date>
+                <news:title>Tantangan petani mempertahankan produksi pangan dan ketidakpastian iklim</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-produksi-pertanian-melalui-pengelolaan-lahan-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-24</news:publication_date>
+                <news:title>Meningkatkan Produksi Pertanian Melalui Pengelolaan Lahan Berkelanjutan</news:title>
+        </news:news>    
+    </url>
+     
+</urlset>
