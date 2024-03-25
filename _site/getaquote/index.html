@@ -237,19 +237,19 @@
         }
       }).then(response => {
         if (response.ok) {
-          status.innerHTML = "Terima kasih atas pesan Anda!";
+          status.innerHTML = "<div class=\"alert alert-success\" role=\"alert\">Terima kasih atas pesan Anda!, Kami akan segera meindaklanjuti sesuai dengan prioritas dan urutan yang masuk.</div>";
           form.reset()
         } else {
           response.json().then(data => {
             if (Object.hasOwn(data, 'errors')) {
               status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
             } else {
-              status.innerHTML = "Oops! Ada masalah pengiriman formulir"
+              status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
             }
           })
         }
       }).catch(error => {
-        status.innerHTML = "Oops! Ada masalah pengiriman formulir"
+        status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
       });
     }
     form.addEventListener("submit", handleSubmit)
