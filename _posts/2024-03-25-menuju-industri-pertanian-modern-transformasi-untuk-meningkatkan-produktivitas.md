@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Menuju Pertanian Indonesia Modern: Transformasi untuk Meningkatkan Produktivitas"
+title: "Menuju Industri Pertanian Modern: Transformasi untuk Meningkatkan Produktivitas"
 subtitle: Menuju Pertanian Indonesia Modern
 nav: Artikel
 image: combine_harvester.jpg
