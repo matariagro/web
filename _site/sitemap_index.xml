@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/proses-produksi-beras-premium-totogi-bersama-petani-mitra-di-wilayah-banyumas-raya</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/project-produksi-benih-padi-unggul-bersertifikat-di-desa-pajerukan-kecamatan-kalibagor-kabupaten-banyumas</loc>
     <lastmod>2024-03-26</lastmod>
   </sitemap>
@@ -13,6 +18,11 @@
 
   <sitemap>
     <loc>http://localhost:4000/articles/project-asessment-dan-pendampingan-industri-pertanian-bersama-adam-smith-foundation-di-timor-leste</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/program-outing-class-dan-pelatihan-kewirausahaan-agrobisnis-di-joglo-larva-center-bekasi</loc>
     <lastmod>2024-03-26</lastmod>
   </sitemap>
 
