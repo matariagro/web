@@ -7,6 +7,16 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/project-identivikasi-potensi-unggulan-dalam-perencanaan-desa-wisata-kesongo</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/project-asessment-dan-pendampingan-industri-pertanian-bersama-adam-smith-foundation-di-timor-leste</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/pelatihan-perkoperasian-keuangan-dan-perpajakan-bagi-petani-banyumas-raya</loc>
     <lastmod>2024-03-26</lastmod>
   </sitemap>
