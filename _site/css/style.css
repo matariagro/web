@@ -38,6 +38,13 @@ h6,
     font-weight: 500 !important;
 }
 
+.fa-certificate {
+    color: gold;
+}    
+.fa-certificate:hover {
+    color: yellow;
+    cursor: pointer;
+}
 
 /*** Spinner ***/
 #spinner {
