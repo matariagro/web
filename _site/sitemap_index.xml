@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/project-produksi-benih-padi-unggul-bersertifikat-di-desa-pajerukan-kecamatan-kalibagor-kabupaten-banyumas</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/pelatihan-perkoperasian-keuangan-dan-perpajakan-bagi-petani-banyumas-raya</loc>
+    <lastmod>2024-03-26</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/menuju-industri-pertanian-modern-transformasi-untuk-meningkatkan-produktivitas</loc>
     <lastmod>2024-03-25</lastmod>
   </sitemap>

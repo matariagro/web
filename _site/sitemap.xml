@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/project-produksi-benih-padi-unggul-bersertifikat-di-desa-pajerukan-kecamatan-kalibagor-kabupaten-banyumas</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-26</news:publication_date>
+                <news:title>Project: Produksi benih padi unggul bersertifikat di Desa Pajerukan Kecamatan Kalibagor Kabupaten Banyumas</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/pelatihan-perkoperasian-keuangan-dan-perpajakan-bagi-petani-banyumas-raya</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-03-26</news:publication_date>
+                <news:title>Pelatihan perkoperasian, keuangan dan perpajakan bagi petani Banyumas Raya</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/menuju-industri-pertanian-modern-transformasi-untuk-meningkatkan-produktivitas</loc>
         <news:news>
             <news:publication>
