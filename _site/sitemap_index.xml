@@ -161,4 +161,18 @@
     </sitemap>
   
 
+  
+    <sitemap>
+      <loc>http://localhost:4000/robots.txt</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/feed.xml</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
 </sitemapindex>
