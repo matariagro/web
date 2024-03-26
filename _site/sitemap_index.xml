@@ -193,6 +193,13 @@
 
   
     <sitemap>
+      <loc>http://localhost:4000/articles/page2/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
       <loc>http://localhost:4000/robots.txt</loc>
       <lastmod></lastmod>
     </sitemap>

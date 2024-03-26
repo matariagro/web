@@ -3,3 +3,6 @@ markdown: kramdown
 permalink: /articles/:title
 #permalink: /blog/:year/:month/:day/:title
 
+plugins: [jekyll-paginate]
+paginate: 8
+paginate_path: /articles/page:num/

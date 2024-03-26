@@ -1,20 +1,46 @@
 ---
 layout: default
-title: Artikel Terbaru - Matari Agro Indonesia
-subtitle: Artikel Terbaru
+title: Artikel dan Berita - Matari Agro Indonesia
+subtitle: Artikel & Berita Terbaru
 nav: Artikel 
 ---
 
-<h1>Artikel Terbaru</h1>
 <div class="row gx-0">
-  {% for post in site.posts %}
+<!-- post list -->
+{% for post in paginator.posts %}
 <div class="card col-lg-3 col-md-3 col-sm-6 border-0">
   <div class="card-body">
     <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-fluid img-thumbnail">
-    <h4><a href="{{ post.url }}">{{ post.title }}</a></h4>
-    <!-- {{ post.excerpt | strip_html | truncatewords: 100 }} -->
-  </div>
+    <a href="{{post.url | prepend: site.baseurl}}"><h5>{{post.title}}</h5></a>
+	</div>
 </div>
+{% endfor %}
+
+
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo; Prev</a>
+  {% else %}
+    <span>&laquo; Prev</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/articles">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
   {% endfor %}
-  </div>
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Next &raquo;</a>
+  {% else %}
+    <span>Next &raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
 </div>
