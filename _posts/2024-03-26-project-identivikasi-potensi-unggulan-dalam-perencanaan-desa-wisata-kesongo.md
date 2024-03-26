@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Project: Identivikasi potensi unggulan dalam perencanaan Desa Wisata Kesongo"
-subtitle: Pendampingan Industri Pertanian
+title: "Project: Identifikasi potensi unggulan dalam perencanaan Desa Wisata Kesongo"
+subtitle: Perencanaan Desa Wisata 
 nav: Artikel
 image: tuntang.jpg
 ---
