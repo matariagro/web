@@ -8,16 +8,22 @@ image: magrin.png
 <h1>Formulir Pendaftaran</h1>
 <form id="my-form" name="pendaftaran" accept-charset="utf-8" action="https://formspree.io/f/mgeglgwp" method="post">
 <div class="row g-3">
-    <div class="col-md-12">
-        <div class="form-floating">
+  <div class="col-md-12">
+    <div class="form-floating">
 		    <input type="text" name="name" class="form-control" id="full-name" placeholder="Nama Lengkap" required="">
 			<label for="full-name">Nama Lengkap</label>
 		</div>
 	</div>
+  <div class="col-md-12">
+    <div class="form-floating">
+		    <input type="telephone" name="telp" class="form-control" id="telp" placeholder="Nomor Telp/HP" required="">
+			<label for="telp">Nomor Telp/HP</label>
+		</div>
+	</div>	
 	<div class="col-md-12">
         <div class="form-floating">
 		    <input type="email" name="email" class="form-control" id="email" placeholder="Email valid" required="">
-		    <label for="email">Email</label>
+		    <label for="email">Email Valid</label>
    		</div>
 	</div>
 	<div class="col-md-12">
@@ -27,7 +33,7 @@ image: magrin.png
 		        <option value="Pelatihan Pertanian Organik">Pelatihan Pertanian Organik</option>
 		        <option value="Sistem Pengendalian OPT">Sistem Pengendalian Hama Terpadu</option>
 		        <option value="Teknik Tata Kelola Air dan Irigasi">Teknik Tata Kelola Air dan Irigasi</option>
-		        <option value="Penanganan Panen dan PAsca Panen">Penanganan Panen dan PAsca Panen</option>
+		        <option value="Penanganan Panen dan PAsca Panen">Penanganan Panen dan Pasca Panen</option>
 		        <option value="Strategi Produk dan Pemasaran Pertanian">Strategi Produk dan Pemasaran Pertanian</option>        
 		    </select>
 		    <label for="pelatihan">Pelatihan yang mau diikuti?</label>
