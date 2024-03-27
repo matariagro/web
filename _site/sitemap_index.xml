@@ -2,6 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pembinaan-kelompok-petani-mengukir-prestasi-dengan-produksi-benih-bersertifikat</loc>
+    <lastmod>2024-03-27</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/mengukir-prestasi-pendampingan-produksi-benih-padi-varietas-protani-di-desa-gintungan</loc>
+    <lastmod>2024-03-27</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/membangun-ketahanan-pangan-melalui-pendidikan-dan-pelatihan-pertanian-di-desa-bojanegara</loc>
+    <lastmod>2024-03-27</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/proses-produksi-beras-premium-totogi-bersama-petani-mitra-di-wilayah-banyumas-raya</loc>
     <lastmod>2024-03-26</lastmod>
   </sitemap>
@@ -194,6 +209,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page2/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page3/</loc>
       <lastmod></lastmod>
     </sitemap>
   
