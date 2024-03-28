@@ -571,11 +571,13 @@ li.articles-item
     float: left;
     max-width: 550px;
     margin-right: 20px !important;
+    margin-bottom: 20px !important;    
 }
 .img-content-right {
     float: right;
     max-width: 550px;
     margin-left: 20px !important;
+    margin-bottom: 20px !important;
 }
 @media screen and (max-width: 768px) {
     .img-articles {
