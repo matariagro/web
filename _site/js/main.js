@@ -77,22 +77,22 @@
     $('.sdgs-carousel').owlCarousel({
         autoplay: true,
         smartSpeed: 300,
-        items: 6,
+        items: 8,
         margin:10,
         responsiveClass:true,  
         dots: false,
         loop: true,
         responsive:{
                 0:{
-                    items:2,
-                    nav:false
-                },
-                600:{
                     items:3,
                     nav:false
                 },
+                600:{
+                    items:4,
+                    nav:false
+                },
                 1000:{
-                    items:6,
+                    items:8,
                     nav:false
                 }
             }        
