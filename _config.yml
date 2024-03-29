@@ -1,5 +1,6 @@
 name: Matari Agro Indonesia, Konsultan dan Pusat Pelatihan Pertanian
 markdown: kramdown
+baseurl: /
 permalink: /articles/:title
 #permalink: /blog/:year/:month/:day/:title
 
