@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Project: Asessment dan Pendampingan Industri Pertanian bersama Adam Smith Foundation di Timor Leste"
+title: "Project: Asessment dan Pendampingan Industri Pertanian bersama Adam Smith Foundation di Baucau, Timor Leste"
 subtitle: Pendampingan Industri Pertanian
 nav: Artikel
 image: timor_leste.jpg
 ---
 
-Sebuah upaya kolaboratif yang signifikan telah dilakukan di Timor Leste, di mana Assessment dan Pendampingan Industri Pertanian telah diadakan sebagai bagian dari kerja sama antara pemerintah lokal dan Adam Smith Foundation. Kegiatan assessment ini bertujuan untuk mengkondisikan para petani agar siap menghadapi pengembangan industri pertanian yang lebih maju dan berkelanjutan di masa depan.
+Sebuah upaya kolaboratif yang signifikan telah dilakukan di Baucau Timor Leste, di mana Assessment dan Pendampingan Industri Pertanian telah diadakan sebagai bagian dari kerja sama antara pemerintah lokal dan Adam Smith Foundation. Kegiatan assessment ini bertujuan untuk mengkondisikan para petani agar siap menghadapi pengembangan industri pertanian yang lebih maju dan berkelanjutan di masa depan.
 
 Kegiatan dimulai dengan serangkaian assessment lapangan yang dilakukan oleh tim ahli pertanian dan konsultan dari Adam Smith Foundation. Tim ini menyusuri berbagai daerah di Timor Leste untuk mengumpulkan data tentang kondisi pertanian saat ini, termasuk infrastruktur pertanian, teknologi yang digunakan, praktik budidaya yang umum, serta tantangan yang dihadapi oleh para petani.
 
