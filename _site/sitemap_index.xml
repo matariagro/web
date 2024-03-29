@@ -101,23 +101,35 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/aboutus</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
       <loc>http://localhost:4000/contact</loc>
       <lastmod></lastmod>
     </sitemap>
   
 
   
+    <sitemap>
+      <loc>http://localhost:4000/getaquote</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
 
   
     <sitemap>
-      <loc>http://localhost:4000/getaquote</loc>
+      <loc>http://localhost:4000/articles/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/about/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -132,27 +144,6 @@
   
     <sitemap>
       <loc>http://localhost:4000/services/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/articles/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/about/</loc>
       <lastmod></lastmod>
     </sitemap>
   

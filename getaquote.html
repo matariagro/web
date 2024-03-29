@@ -3,10 +3,16 @@ layout: default
 title: Ajukan Penawaran ke Matari Agro Indonesia
 subtitle: Pengajuan Penawaran
 nav: Ajukan Penawaran
+image1: bintek_bojanegara.jpg
+image2: bpn_batang.jpg
 ---
 
-<h1>Pengajuan Penawaran Kerjasama</h1>
-<p>Bersiaplah untuk mengubah wajah pertanian Anda! Ajukan penawaran kerja sama dengan Matari Agro Indonesia, mitra yang tepercaya untuk mewujudkan pertanian yang lebih produktif dan berkelanjutan. Dengan tim ahli kami yang siap menghadirkan solusi inovatif dan terintegrasi, kami akan membantu Anda meningkatkan hasil pertanian Anda. Ayo, bergabunglah dengan kami dalam membangun masa depan cerah bagi pertanian Indonesia!</p>
+    <div class="container-xxl py-5">
+        <div class="container">           
+            <div class="row g-4">
+                <div class="col-lg-8 col-md-6">
+                    <h1>Pengajuan Penawaran Kerjasama</h1>
+                    <p>Bersiaplah untuk mengubah wajah pertanian Anda! Ajukan penawaran kerja sama dengan Matari Agro Indonesia, mitra yang tepercaya untuk mewujudkan pertanian yang lebih produktif dan berkelanjutan. Dengan tim ahli kami yang siap menghadirkan solusi inovatif dan terintegrasi, kami akan membantu Anda meningkatkan hasil pertanian Anda. Ayo, bergabunglah dengan kami dalam membangun masa depan cerah bagi pertanian Indonesia!</p>
 
                     <form id="my-form" action="https://formspree.io/f/mwkgndlk" method="POST" enctype="multipart/form-data">
                         <div class="row g-3">
@@ -49,7 +55,15 @@ nav: Ajukan Penawaran
                             <p id="my-form-status"></p>   
                         </div>
                     </form>
+                </div>
 
+            <div class="col-lg-4 col-md-6">
+                   <img src="{{ site.url }}/img/{{ page.image1 }}" alt="{{ page.title }}" class="img-fluid rounded img-content-center mb-2" title="Pelatihan Ketahanan Pangan Bidang Perikanan dan Pertanian Desa Bojanegara Kabupaten Purbalingga Jawa Tengah">
+                   <img src="{{ site.url }}/img/{{ page.image2 }}" alt="{{ page.title }}" class="img-fluid rounded img-content-center mb-2" title="Diskusi dan assestment perencanaan GTRA BPN Kabupaten Batang Jawa Tengah">
+            </div>
+        </div>
+    </div>
+</div>                
 <!-- Place this script at the end of the body tag -->
 <script>
     var form = document.getElementById("my-form");
