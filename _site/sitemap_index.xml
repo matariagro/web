@@ -115,13 +115,6 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/articles/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
       <loc>http://localhost:4000/</loc>
       <lastmod></lastmod>
     </sitemap>
@@ -129,7 +122,14 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/about/</loc>
+      <loc>http://localhost:4000/services/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -143,7 +143,14 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/services/</loc>
+      <loc>http://localhost:4000/about/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/index_01</loc>
       <lastmod></lastmod>
     </sitemap>
   
