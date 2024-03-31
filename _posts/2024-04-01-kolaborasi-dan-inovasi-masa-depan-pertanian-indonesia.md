@@ -2,7 +2,7 @@
 layout: post
 title: "Kolaborasi dan Inovasi: Masa Depan Pertanian Indonesia"
 subtitle: Artikel
-nav: Artikel 
+nav: Artikel
 image: karanggambas.jpg
 ---
 
