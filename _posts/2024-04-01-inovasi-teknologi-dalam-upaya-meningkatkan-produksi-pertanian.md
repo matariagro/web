@@ -1,6 +1,8 @@
 ---
 layout: post
 title: "Inovasi teknologi dalam upaya meningkatkan produktivitas pertanian"
+subtitle: Inovasi Teknologi
+nav: Inovasi
 image: inovasi.jpg
 --- 
 
