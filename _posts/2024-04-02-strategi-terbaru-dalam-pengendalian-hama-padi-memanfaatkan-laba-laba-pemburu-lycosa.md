@@ -6,7 +6,7 @@ nav: OPT
 image: lycosa.jpg
 ---
 
-Hama merupakan salah satu masalah utama yang dihadapi oleh petani, karena serangan hama dapat menyebabkan penurunan hasil panen bahkan hingga gagal panen. Untuk mengatasi serangan hama, petani telah mengembangkan berbagai metode, mulai dari penggunaan pestisida sintetis hingga pengendalian secara alami. Salah satu metode pengendalian hama alami yang menarik adalah menggunakan predator alami seperti laba-laba pemburu Lycosa.
+Hama merupakan salah satu masalah utama yang dihadapi oleh petani padi, karena serangan hama dapat menyebabkan penurunan hasil panen bahkan hingga gagal panen. Untuk mengatasi serangan hama, petani telah mengembangkan berbagai metode, mulai dari penggunaan pestisida sintetis hingga pengendalian secara alami. Salah satu metode pengendalian hama alami yang menarik adalah menggunakan predator alami seperti laba-laba pemburu Lycosa.
 
 Lycosa merupakan sekelompok laba-laba yang ditemukan hidup di lingkungan sawah dan merupakan predator utama bagi hama padi. Disebut sebagai laba-laba pemburu, Lycosa tidak membuat jaring seperti kebanyakan laba-laba lainnya, tetapi aktif memburu mangsanya. Laba-laba ini memiliki warna cokelat dan ukuran yang bervariasi tergantung pada tahap perkembangannya.
 
