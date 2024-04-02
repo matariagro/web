@@ -2,7 +2,47 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
-    <loc>http://localhost:4000/articles/membangun-kesejahteraan-bersama-melalui-demplot-pertanian-organik-kolaborasi-kementerian-atr-bpn-dan-swasta</loc>
+    <loc>http://localhost:4000/articles/strategi-terbaru-dalam-pengendalian-hama-padi-memanfaatkan-laba-laba-pemburu-lycosa</loc>
+    <lastmod>2024-04-02</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-efisiensi-perlindungan-dan-pendaftaran-varietas-tanaman-melalui-teknologi-dna-marker</loc>
+    <lastmod>2024-04-02</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-pertanian-kelapa-pandan-wangi-komoditas-unggulan-dengan-omzet-fantastis</loc>
+    <lastmod>2024-04-02</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-pemupukan-padi-mengoptimalkan-penggunaan-air-limbah-kolam-lele</loc>
+    <lastmod>2024-04-02</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-luar-biasa-mengubah-batu-bara-menjadi-pupuk-berkualitas-tinggi</loc>
+    <lastmod>2024-04-02</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/korporasi-petani-konsep-dan-manfaatnya-bagi-petani</loc>
+    <lastmod>2024-04-01</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/kolaborasi-dan-inovasi-masa-depan-pertanian-indonesia</loc>
+    <lastmod>2024-04-01</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-teknologi-dalam-upaya-meningkatkan-produksi-pertanian</loc>
+    <lastmod>2024-04-01</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/membangun-korporasi-petani-kolaborasi-kementerian-atr-bpn-dan-swasta</loc>
     <lastmod>2024-03-30</lastmod>
   </sitemap>
 
@@ -252,6 +292,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page3/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page4/</loc>
       <lastmod></lastmod>
     </sitemap>
   

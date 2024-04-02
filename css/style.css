@@ -534,7 +534,7 @@ h6,
     font-weight: 500;
     color: #fff;
     text-align: center;
-    text-shadow: 2px 2px 3px #000:
+    text-shadow: 2px 2px 3px #000 !important;
 }
 .sdgs-carousel .sdgs-item {
     text-align: center;
