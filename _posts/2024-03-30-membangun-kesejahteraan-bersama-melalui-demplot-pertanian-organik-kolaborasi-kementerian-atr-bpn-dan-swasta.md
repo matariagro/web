@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Membangun Kesejahteraan Bersama melalui Demplot Pertanian Organik: Kolaborasi Kementerian ATR/BPN dan Swasta"
-subtitle: Artikel
-nav: Artikel
+subtitle: Korporasi Petani
+nav: Korporasi
 image: batang.jpg
 ---
 
