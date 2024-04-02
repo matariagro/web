@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategi Terbaru dalam Pengendalian Hama: Memanfaatkan Laba-laba Pemburu Lycosa"
+title: "Strategi Terbaru dalam Pengendalian Hama Padi: Memanfaatkan Laba-laba Pemburu Lycosa"
 subtitle: Pengendalian Hama
 nav: OPT
 image: lycosa.jpg
