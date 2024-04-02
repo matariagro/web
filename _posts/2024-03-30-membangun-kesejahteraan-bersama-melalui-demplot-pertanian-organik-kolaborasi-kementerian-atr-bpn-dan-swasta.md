@@ -3,12 +3,12 @@ layout: post
 title: "Membangun Kesejahteraan Bersama melalui Demplot Pertanian Organik: Kolaborasi Kementerian ATR/BPN dan Swasta"
 subtitle: Artikel
 nav: Artikel
-image: berkelanjutan.jpg
+image: batang.jpg
 ---
 
 Pertanian organik telah menjadi fokus utama dalam upaya menjaga keberlanjutan lingkungan dan kesehatan masyarakat. Namun, di banyak daerah, pembaruan pertanian organik seringkali terhambat oleh masalah kepemilikan lahan yang kompleks. Di sinilah proyek demplot pertanian organik berbasis korporasi petani di Desa Depok dan Desa Tegalsari, Kecamatan Kandeman, Kabupaten Batang, Jawa Tengah, menjadi langkah penting dalam menyelesaikan sengketa lahan sambil memajukan pertanian organik.
 
-Pertanian organik bukan hanya sekadar tren modern, tetapi juga merupakan jawaban atas tantangan lingkungan dan kesehatan yang semakin mendesak. Namun, di tengah kemajuan pertanian organik, masih banyak masyarakat yang terkendala oleh permasalahan hukum atas penguasaan lahan. Di Kabupaten Batang, Provinsi Jawa Tengah, sebuah proyek demplot pertanian organik telah diinisiasi sebagai bagian dari upaya penyelesaian sengketa lahan oleh Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN), bekerja sama dengan PT Sumber Energi Pangan dan didukung oleh PT Doami Minoru Berkah.
+Pertanian organik bukan hanya sekadar tren modern, tetapi juga merupakan jawaban atas tantangan lingkungan dan kesehatan yang semakin mendesak. Namun, di tengah kemajuan pertanian organik, masih banyak masyarakat yang terkendala oleh permasalahan hukum atas penguasaan lahan. Di Kabupaten Batang, Provinsi Jawa Tengah, sebuah proyek demplot pertanian organik telah diinisiasi sebagai bagian dari upaya penyelesaian sengketa lahan oleh Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN), bekerja sama dengan PT Sumber Energi Pangan dan didukung oleh PT Doami Minoru Berkah. Bapak Menteri Sofyan Djalil turun langsung memimpin pemberdayaan petani melalui program GTRA yang dijabarkan dalam demplot korporasi petani. 
 
 **1. Kolaborasi yang Membawa Harapan**
 
