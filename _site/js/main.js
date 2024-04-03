@@ -98,7 +98,7 @@
             }        
     });
 
-$('ul.tabs li').click(function () {
+    $('ul.tabs li').click(function () {
         var tab_id = $(this).attr('href');
 
         $('ul.tabs li').removeClass('current');
@@ -107,6 +107,16 @@ $('ul.tabs li').click(function () {
         $(this).addClass('current');
         $("#" + tab_id).addClass('current');
     })
-    
+
+    $(document).ready(function(){
+        // Mengambil semua elemen dalam daftar posting
+        var posts = $(".post-list li");
+
+        // Mengacak urutan elemen dalam daftar
+        posts.sort(function() { return 0.5 - Math.random() });
+
+        // Menempatkan kembali elemen dalam daftar yang sudah diacak
+        $(".post-list").html(posts);
+    });    
 })(jQuery);
 
