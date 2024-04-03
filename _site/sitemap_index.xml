@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/membangun-keberlanjutan-pertanian-melalui-corporate-farming</loc>
+    <lastmod>2024-04-04</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/memanfaatkan-limbah-pertanian-potensi-energi-bersih-dari-jerami-dan-sekam-padi</loc>
+    <lastmod>2024-04-03</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-terbaru-dalam-pengendalian-hama-padi-memanfaatkan-laba-laba-pemburu-lycosa</loc>
     <lastmod>2024-04-02</lastmod>
   </sitemap>

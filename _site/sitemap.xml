@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/membangun-keberlanjutan-pertanian-melalui-corporate-farming</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-04</news:publication_date>
+                <news:title>Membangun Keberlanjutan Pertanian Melalui Corporate Farming</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/memanfaatkan-limbah-pertanian-potensi-energi-bersih-dari-jerami-dan-sekam-padi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-03</news:publication_date>
+                <news:title>Memanfaatkan Limbah Pertanian: Potensi Energi Bersih dari Jerami dan Sekam Padi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/strategi-terbaru-dalam-pengendalian-hama-padi-memanfaatkan-laba-laba-pemburu-lycosa</loc>
         <news:news>
             <news:publication>
