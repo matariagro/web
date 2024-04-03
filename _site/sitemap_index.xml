@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/memperkuat-pertanian-melalui-korporasi-petani-langkah-menuju-desa-yang-mandiri-dan-berkembang</loc>
+    <lastmod>2024-04-04</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/membangun-keberlanjutan-pertanian-melalui-corporate-farming</loc>
     <lastmod>2024-04-04</lastmod>
   </sitemap>
