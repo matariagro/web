@@ -12,6 +12,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/korporasi-petani-mendorong-profesionalisme-dan-kemandirian-petani-indonesia</loc>
+    <lastmod>2024-04-04</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/memanfaatkan-limbah-pertanian-potensi-energi-bersih-dari-jerami-dan-sekam-padi</loc>
     <lastmod>2024-04-03</lastmod>
   </sitemap>
@@ -314,6 +319,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page4/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page5/</loc>
       <lastmod></lastmod>
     </sitemap>
   
