@@ -15,6 +15,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/memperkuat-pertanian-organik-menciptakan-masa-depan-yang-ramah-lingkungan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-05</news:publication_date>
+                <news:title>Memperkuat Pertanian Organik: Menciptakan Masa Depan yang Ramah Lingkungan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/teknologi-modern-untuk-budidaya-padi-apung-melangkah-ke-masa-depan-pertanian</loc>
         <news:news>
             <news:publication>
