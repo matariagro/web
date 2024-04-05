@@ -3,7 +3,8 @@ layout: post
 title: "Mendampingi petani meningkatkan produksi pertanian secara berkelanjutan"
 subtitle: Pendampingan Matari Agro Indonesia
 nav: Artikel
-date: 2024-03-25
+keyword: "Matari Agro Indonesia, mendampingi petani, peningkatan produksi pertanian, kolaborasi pertanian"
+desk: "Temukan peran Matari Agro Indonesia dalam mendampingi petani, meningkatkan produksi pertanian melalui kolaborasi, bimbingan, dan solusi berkelanjutan"
 image: pendampingan.jpg
 ---
 

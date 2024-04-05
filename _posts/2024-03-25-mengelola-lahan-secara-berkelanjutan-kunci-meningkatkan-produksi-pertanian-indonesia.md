@@ -3,7 +3,8 @@ layout: post
 title: "Mengelola Lahan Secara Berkelanjutan: Kunci Meningkatkan Produksi Pertanian Indonesia"
 subtitle: Pertanian Berkelanjutan
 nav: Artikel
-date: 2024-03-25
+keyword: "Matari Agro Indonesia, pertanian berkelanjutan, pengelolaan lahan, pelatihan teknis pertanian, keberlanjutan pertanian"
+desk: "Pelajari pentingnya pengelolaan lahan berkelanjutan dalam meningkatkan produksi pertanian di Indonesia, dengan bimbingan Matari Agro Indonesia"
 image: padi_organik.jpg
 ---
 
