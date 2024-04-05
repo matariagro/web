@@ -3,6 +3,8 @@ layout: post
 title: "Inovasi Pertanian Berkelanjutan: Mengangkat Produktivitas dan Kesejahteraan"
 subtitle: Inovasi Pertanian Berkelanjutan
 nav: Artikel
+keyword: "inovasi pertanian, teknologi modern, pendekatan berkelanjutan, Matari Agro Indonesia"
+desk: "Temukan bagaimana inovasi dalam pertanian berkontribusi pada peningkatan efisiensi dan produktivitas. Hubungi Matari Agro Indonesia untuk konsultasi teknis dan pelatihan"
 image: berkelanjutan.jpg
 ---
 

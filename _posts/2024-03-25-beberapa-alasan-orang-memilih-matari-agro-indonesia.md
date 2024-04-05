@@ -3,7 +3,8 @@ layout: post
 title: "Beberapa alasan orang memilih Matari Agro Indonesia"
 subtitle: Alasan Memilih Matari Agro
 nav: Artikel
-desk: Matari Agro Indonesia dikenal karena keunggulan teknologi dan inovasinya dalam berbagai layanan pertanian.
+keyword: "teknologi pertanian, pendekatan berkelanjutan, Matari Agro Indonesia, inovasi pertanian"
+desk: "Temukan keunggulan Matari Agro Indonesia dalam teknologi dan pendekatan berkelanjutan, membantu petani meningkatkan produktivitas dan profitabilitas mereka"
 image: diseminasi_iptek.jpg
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title: "Membangun Korporasi Petani: Hilirisasi Proses Memodernisasi Industri Pertanian"
 subtitle: Membangun Korporasi Petani
 nav: Artikel
+keyword: "hilirisasi pertanian, Matari Agro Indonesia, inovasi pertanian, korporasi petani, praktik berkelanjutan"
+desk: "Temukan bagaimana Matari Agro Indonesia memimpin gerakan hilirisasi pertanian dengan pendekatan holistik, membantu petani meningkatkan nilai tambah produk mereka dan bersaing dalam pasar global"
 image: rice_mill.jpg
 ---
 

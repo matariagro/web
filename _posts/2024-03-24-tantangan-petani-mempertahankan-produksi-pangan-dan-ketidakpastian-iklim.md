@@ -3,7 +3,8 @@ layout: post
 title: "Tantangan petani mempertahankan produksi pangan dan ketidakpastian iklim"
 subtitle: Artikel Matari Agro
 nav: Artikel
-date: 2024-03-24
+keyword: "petani padi, perubahan iklim, tantangan pertanian, teknologi irigasi, kebijakan pertanian"
+desk: "Pelajari tantangan petani padi Indonesia dalam menghadapi perubahan iklim dan solusi berkelanjutan melalui kebijakan, teknologi, dan pendidikan petani"
 image: panen.jpg
 ---
 
