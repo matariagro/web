@@ -16,7 +16,11 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@matariagro">
     <meta name="twitter:title" content="{{ page.title }}">
+    {% if page.desk %}
+    <meta name="twitter:description" content="{{ page.desk }}">
+    {% else %}
     <meta name="twitter:description" content="Matari Agro Indonesia, konsultan dan pusat pelatihan pertanian yang komprehensif dan terintegrasi. Solusi industri pertanian modern dan berkelanjutan.">
+    {% endif %}
     {% if page.image %}
     <meta name="twitter:image" content="{{ site.url }}/img/{{ page.image }}">
     {% else %}
@@ -28,7 +32,11 @@
     <meta property="og:url" content="https://matariagro.com">
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ page.title }}">
+    {% if page.desk %}
+    <meta property="og:description" content="{{ page.desk }}">
+    {% else %}
     <meta property="og:description" content="Matari Agro Indonesia, konsultan dan pusat pelatihan pertanian yang komprehensif dan terintegrasi. Solusi industri pertanian modern dan berkelanjutan.">
+    {% endif %}
     {% if page.image %}
     <meta property="og:image" content="{{ site.url }}/img/{{ page.image }}">
     {% else %}
