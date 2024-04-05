@@ -10,7 +10,11 @@
     {% else %}
     <meta name="description" content="Matari Agro Indonesia, konsultan dan pusat pelatihan pertanian yang komprehensif dan terintegrasi. Solusi industri pertanian modern dan berkelanjutan.">
     {% endif %}
+    {% if page.keyword %}
+    <meta name="keywords" content="{{ page.keyword }}">
+    {% else %}
     <meta name="keywords" content="konsultan pertanian, pelatihan pertanian, pertanian berkelanjutan, manajemen pertanian, konsultasi investasi pertanian, teknologi pertanian, Matari Agro Indonesia, Purwokerto">
+    {% endif %}
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">

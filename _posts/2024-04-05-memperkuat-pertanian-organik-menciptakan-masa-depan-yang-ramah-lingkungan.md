@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Memperkuat Pertanian Organik: Menciptakan Masa Depan yang Ramah Lingkungan"
+keyword: "pertanian organik, ramah lingkungan, praktik pertanian berkelanjutan, pasar produk organik"
 desk: "Artikel ini mengulas pentingnya pertanian organik dan praktik ramah lingkungan untuk memenuhi permintaan pasar yang meningkat terhadap produk organik. Dengan wawancara narasumber ahli dan praktisi, artikel ini menyoroti tantangan dan peluang dalam pengembangan pertanian organik di Indonesia"
 subtitle: Inovasi Pertanian
 nav: Inovasi
