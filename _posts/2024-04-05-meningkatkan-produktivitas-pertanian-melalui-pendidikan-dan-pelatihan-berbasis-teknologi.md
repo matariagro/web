@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Meningkatkan Produktivitas Pertanian Melalui Pendidikan dan Pelatihan Berbasis Teknologi"
-keyword: "pertanian modern, pendidikan pertanian, pelatihan teknologi, petani Indonesia, inovasi pertanian"
 desk: "Artikel ini membahas pentingnya pendidikan dan pelatihan berbasis teknologi dalam meningkatkan produktivitas pertanian di Indonesia. Dengan wawancara narasumber ahli, artikel ini mengungkapkan tantangan dan harapan untuk modernisasi pertanian melalui pendidikan"
 subtitle: Inovasi Pertanian
 nav: Inovasi

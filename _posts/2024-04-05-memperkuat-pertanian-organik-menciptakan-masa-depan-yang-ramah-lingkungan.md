@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Memperkuat Pertanian Organik: Menciptakan Masa Depan yang Ramah Lingkungan"
-keyword: "pertanian organik, ramah lingkungan, praktik pertanian berkelanjutan, pasar produk organik"
+desk: "Artikel ini mengulas pentingnya pertanian organik dan praktik ramah lingkungan untuk memenuhi permintaan pasar yang meningkat terhadap produk organik. Dengan wawancara narasumber ahli dan praktisi, artikel ini menyoroti tantangan dan peluang dalam pengembangan pertanian organik di Indonesia"
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pertanian_organik.jpg
-desk: "Artikel ini mengulas pentingnya pertanian organik dan praktik ramah lingkungan untuk memenuhi permintaan pasar yang meningkat terhadap produk organik. Dengan wawancara narasumber ahli dan praktisi, artikel ini menyoroti tantangan dan peluang dalam pengembangan pertanian organik di Indonesia"
 ---
+
 Pertanian organik dan praktik ramah lingkungan semakin mendapat sorotan di tengah-tengah meningkatnya kesadaran akan kesehatan dan keberlanjutan lingkungan. Dr. Dian Pratiwi, seorang ahli pertanian dari Universitas Gadjah Mada, menjelaskan, "Pertanian organik menekankan penggunaan bahan organik alami dan menghindari pestisida dan pupuk kimia yang berpotensi merusak lingkungan dan kesehatan manusia."
 
 Pasar untuk produk-produk pertanian organik semakin berkembang di Indonesia dan dunia. "Masyarakat semakin menyadari manfaat kesehatan dari produk organik dan semakin peduli terhadap lingkungan," kata Bambang Santoso, seorang pedagang organik di pasar lokal. Namun, tantangan utama yang dihadapi adalah kurangnya penyuluhan dan pemahaman tentang pertanian organik di kalangan petani.
