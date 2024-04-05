@@ -2,7 +2,7 @@
 layout: post
 title: "Strategi Pengembangan Pasar dan Distribusi untuk Pertanian yang Berdaya Saing"
 keyword: "pasar lokal, pasar ekspor, sistem distribusi, infrastruktur pasar, diversifikasi produk"
-desk: "Artikel ini membahas strategi pengembangan pasar lokal dan ekspor serta sistem distribusi efisien untuk memaksimalkan potensi produk pertanian Indonesia. Dengan wawancara narasumber ahli dan praktisi, artikel ini menyoroti tantangan dan peluang dalam pengembangan pasar dan distribusi pertanian"
+desk: "Artikel ini membahas strategi pengembangan pasar lokal dan ekspor serta sistem distribusi efisien untuk memaksimalkan potensi produk pertanian Indonesia"
 subtitle: Strategi Pasar
 nav: Pasar
 image: sayuran.jpg
