@@ -211,31 +211,55 @@
                         <div class="row g-3">
                             <div class="col-md-12">
                                 <div class="form-floating">
-                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap">
+                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap" required="">
                                     <label for="name">Nama Lengkap</label>
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-floating">
-                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email">
+                                    <select name="lembaga" class="form-control" id="lembaga" required="">
+                                        <option value="" selected="" disabled="">Pilih Institusi</option>
+                                        <option value="Perusahaan">Perusahaan</option>
+                                        <option value="Dinas/Pemerintah">Dinas/Pemerintah</option>
+                                        <option value="Non Profit">Non-Profit</option>
+                                        <option value="Perseorangan">Perseorangan</option>
+                                    </select>
+                                    <label for="pelatihan">Pilih Institusi/Lembaga?</label>
+                                </div>
+                            </div>  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="institusi" class="form-control" id="name" placeholder="Nama Institusi/Lembaga">
+                                    <label for="institusi">Nama Institusi/Lembaga</label>
+                                </div>
+                            </div>                                                                  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="alamat" class="form-control" id="alamat" placeholder="Alamat Lengkap" required="">
+                                    <label for="alamat">Alamat Lengkap</label>
+                                </div>
+                            </div>                            
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email" required="">
                                     <label for="email">Alamat Email</label>
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-floating">
                                     <input type="telephone" name="telephone" class="form-control" id="email" placeholder="Telephone/Handphone">
-                                    <label for="telephone">Telephone</label>
+                                    <label for="telephone" required="">Telephone</label>
                                 </div>
                             </div>                            
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek" required="">
                                     <label for="subject">Subyek</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px" required=""></textarea>
                                     <label for="message">Pesan</label>
                                 </div>
                             </div>
@@ -334,8 +358,11 @@
                     <h4 class="text-white mb-4">Buletin</h4>
                     <p>Langganan buletin dan info terbaru dari kami</p>
                     <div class="position-relative w-100">
-                        <input class="form-control bg-light border-light w-100 py-3 ps-4 pe-5" type="text" placeholder="Masukan email">
-                        <button type="button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Daftar</button>
+                        <form id="myBuletin" action="https://formspree.io/f/xjvnpvqr" method="POST">
+                            <input class="form-control bg-light border-light w-100 py-3 ps-4 pe-5" type="email" name="email" placeholder="Masukan email">
+                            <button type="submit" id="my-button" class="btn btn-primary py-2 position-absolute top-0 end-0 mt-2 me-2">Daftar</button>
+                            <p id="my-status"></p>
+                        </form>
                     </div>
                 </div>
             </div>
@@ -386,6 +413,40 @@
 
     <!-- Template Javascript -->
     <script src="http://localhost:4000/js/main.js"></script>
+
+    <!-- Place this script at the end of the body tag -->
+    <script>
+        var form = document.getElementById("myBuletin");
+        
+        async function handleSubmit(event) {
+          event.preventDefault();
+          var status = document.getElementById("my-status");
+          var data = new FormData(event.target);
+          fetch(event.target.action, {
+            method: form.method,
+            body: data,
+            headers: {
+                'Accept': 'application/json'
+            }
+          }).then(response => {
+            if (response.ok) {
+              status.innerHTML = "<div class=\"alert alert-success\" role=\"alert\">Terima kasih sudah berlangganan!</div>";
+              form.reset()
+            } else {
+              response.json().then(data => {
+                if (Object.hasOwn(data, 'errors')) {
+                  status.innerHTML = data["errors"].map(error => error["message"]).join(", ")
+                } else {
+                  status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+                }
+              })
+            }
+          }).catch(error => {
+            status.innerHTML = "<div class=\"alert alert-danger\" role=\"alert\">Oops! Ada masalah pengiriman formulir.</div>"
+          });
+        }
+        form.addEventListener("submit", handleSubmit)
+    </script>
 
 </body>
 

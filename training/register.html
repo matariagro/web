@@ -17,6 +17,29 @@ image: bintek_bojanegara.jpg
 		</div>
 	</div>
   <div class="col-md-12">
+      <div class="form-floating">
+          <select name="lembaga" class="form-control" id="lembaga" required="">
+              <option value="" selected="" disabled="">Pilih Institusi</option>
+              <option value="Perusahaan">Perusahaan</option>
+              <option value="Dinas/Pemerintah">Dinas/Pemerintah</option>
+              <option value="Non Profit">Non-Profit</option>
+              <option value="Perseorangan">Perseorangan</option>
+          </select>
+      </div>
+  </div>  
+  <div class="col-md-12">
+      <div class="form-floating">
+          <input type="text" name="institusi" class="form-control" id="name" placeholder="Nama Institusi">
+          <label for="institusi">Nama Institusi</label>
+      </div>
+  </div>                                                                  
+  <div class="col-md-12">
+      <div class="form-floating">
+          <input type="text" name="alamat" class="form-control" id="alamat" placeholder="Alamat Lengkap" required="">
+          <label for="alamat">Alamat Lengkap</label>
+      </div>
+  </div>  	
+  <div class="col-md-12">
     <div class="form-floating">
 		    <input type="telephone" name="telp" class="form-control" id="telp" placeholder="Nomor Telp/HP" required="">
 			<label for="telp">Nomor Telp/HP</label>

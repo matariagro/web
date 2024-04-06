@@ -18,31 +18,55 @@ image2: bpn_batang.jpg
                         <div class="row g-3">
                             <div class="col-md-12">
                                 <div class="form-floating">
-                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap">
+                                    <input type="text" name="nama" class="form-control" id="name" placeholder="Nama Lengkap" required="">
                                     <label for="name">Nama Lengkap</label>
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-floating">
-                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email">
+                                    <select name="lembaga" class="form-control" id="lembaga" required="">
+                                        <option value="" selected="" disabled="">Pilih Institusi</option>
+                                        <option value="Perusahaan">Perusahaan</option>
+                                        <option value="Dinas/Pemerintah">Dinas/Pemerintah</option>
+                                        <option value="Non Profit">Non-Profit</option>
+                                        <option value="Perseorangan">Perseorangan</option>
+                                    </select>
+                                    <label for="pelatihan">Pilih Institusi/Lembaga?</label>
+                                </div>
+                            </div>  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="institusi" class="form-control" id="name" placeholder="Nama Institusi/Lembaga">
+                                    <label for="institusi">Nama Institusi/Lembaga</label>
+                                </div>
+                            </div>                                                                  
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="text" name="alamat" class="form-control" id="alamat" placeholder="Alamat Lengkap" required="">
+                                    <label for="alamat">Alamat Lengkap</label>
+                                </div>
+                            </div>                            
+                            <div class="col-md-12">
+                                <div class="form-floating">
+                                    <input type="email" name="email" class="form-control" id="email" placeholder="Alamat Email" required="">
                                     <label for="email">Alamat Email</label>
                                 </div>
                             </div>
                             <div class="col-md-12">
                                 <div class="form-floating">
                                     <input type="telephone" name="telephone" class="form-control" id="email" placeholder="Telephone/Handphone">
-                                    <label for="telephone">Telephone</label>
+                                    <label for="telephone" required="">Telephone</label>
                                 </div>
                             </div>                            
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek">
+                                    <input type="text" name="subject" class="form-control" id="subject" placeholder="Subyek" required="">
                                     <label for="subject">Subyek</label>
                                 </div>
                             </div>
                             <div class="col-12">
                                 <div class="form-floating">
-                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px"></textarea>
+                                    <textarea name="message" class="form-control" placeholder="Leave a message here" id="message" style="height: 100px" required=""></textarea>
                                     <label for="message">Pesan</label>
                                 </div>
                             </div>
