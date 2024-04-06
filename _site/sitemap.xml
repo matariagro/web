@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/transformasi-pertanian-meningkatkan-efisiensi-dengan-teknologi-canggih</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-06</news:publication_date>
+                <news:title>Transformasi Pertanian: Meningkatkan Efisiensi dengan Teknologi Canggih</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/infrastruktur-pertanian-indonesia-mendukung-pertumbuhan-industri-pertanian</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-06</news:publication_date>
+                <news:title>Infrastruktur Pertanian Indonesia: Mendukung Pertumbuhan Industri Pertanian</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/strategi-pengembangan-pasar-dan-distribusi-untuk-pertanian-yang-berdaya-saing</loc>
         <news:news>
             <news:publication>
