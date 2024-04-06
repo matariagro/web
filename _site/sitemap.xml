@@ -15,6 +15,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/mengokohkan-ketahanan-pangan-kisah-sukses-kelompok-tani-desa-bojanegara</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-06</news:publication_date>
+                <news:title>Mengokohkan Ketahanan Pangan: Kisah Sukses Kelompok Tani Desa Bojanegara</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/infrastruktur-pertanian-indonesia-mendukung-pertumbuhan-industri-pertanian</loc>
         <news:news>
             <news:publication>
