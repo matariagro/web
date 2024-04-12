@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/membuka-era-baru-pertanian-di-indonesia-mengubah-tantangan-menjadi-peluang-melalui-digitalisasi-dan-konsultasi-ahli</loc>
+    <lastmod>2024-04-12</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/transformasi-pertanian-meningkatkan-efisiensi-dengan-teknologi-canggih</loc>
     <lastmod>2024-04-06</lastmod>
   </sitemap>
@@ -354,13 +359,6 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page4/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/articles/page5/</loc>
       <lastmod></lastmod>
     </sitemap>
   
