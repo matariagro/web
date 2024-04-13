@@ -126,7 +126,7 @@
             var formData = new FormData($(this)[0]);
 
             $.ajax({
-                url: 'https://your-other-server.com/upload.php', // Ganti dengan URL server lain
+                url: 'https://course.matariagro.com/quote/send.php', // Ganti dengan URL server lain
                 type: 'POST',
                 data: formData,
                 contentType: false,
