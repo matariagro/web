@@ -613,3 +613,54 @@ li.articles-item
 .pagination {
     text-align: center;
  }
+
+.list-inline .list-inline-item .facebook,
+.list-inline .list-inline-item .twitter,
+.list-inline .list-inline-item .whatsapp,
+.list-inline .list-inline-item .telegram,
+.list-inline .list-inline-item .linkedin {
+    padding: 4px 10px;
+    margin-bottom: 5px;
+    color: #fff;
+    font-size: 11px;
+}
+
+.list-inline .list-inline-item .facebook {
+    background: #3b5999;
+}
+
+.list-inline .list-inline-item .facebook:hover {
+    opacity: 0.9
+}
+
+.list-inline .list-inline-item .twitter {
+    background: #55acee
+}
+
+.list-inline .list-inline-item .twitter:hover {
+    opacity: 0.9
+}
+
+.list-inline .list-inline-item .whatsapp {
+    background: #25d366
+}
+
+.list-inline .list-inline-item .whatsapp:hover {
+    opacity: 0.9
+}
+
+.list-inline .list-inline-item .telegram {
+    background: #179cde
+}
+
+.list-inline .list-inline-item .telegram:hover {
+    opacity: 0.9
+}
+
+.list-inline .list-inline-item .linkedin {
+    background: #0077b5
+}
+
+.list-inline .list-inline-item .linkedin:hover {
+    opacity: 0.9
+}
