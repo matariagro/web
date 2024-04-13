@@ -618,7 +618,9 @@ li.articles-item
 .list-inline .list-inline-item .twitter,
 .list-inline .list-inline-item .whatsapp,
 .list-inline .list-inline-item .telegram,
-.list-inline .list-inline-item .linkedin {
+.list-inline .list-inline-item .linkedin,
+.list-inline .list-inline-item .email
+ {
     padding: 4px 10px;
     margin-bottom: 5px;
     color: #fff;
@@ -662,5 +664,13 @@ li.articles-item
 }
 
 .list-inline .list-inline-item .linkedin:hover {
+    opacity: 0.9
+}
+
+.list-inline .list-inline-item .email {
+    background: #FBBC04
+}
+
+.list-inline .list-inline-item .email:hover {
     opacity: 0.9
 }
