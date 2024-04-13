@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/inovasi-pertanian-langkah-langkah-menuju-transformasi-digital-dengan-bantuan-konsultan-manajemen</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-13</news:publication_date>
+                <news:title>Inovasi Pertanian: Langkah-Langkah Menuju Transformasi Digital dengan Bantuan Konsultan Manajemen</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/cara-membuat-keputusan-yang-terinformasi-peran-analisis-data-dalam-mengelola-risiko-pertanian</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-13</news:publication_date>
+                <news:title>Cara Membuat Keputusan yang Terinformasi, Peran Analisis Data dalam Mengelola Risiko Pertanian</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-melalui-konsultan-manajemen-strategi-efektif-untuk-peningkatan-hasil</loc>
         <news:news>
             <news:publication>
