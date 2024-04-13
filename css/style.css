@@ -676,7 +676,7 @@ li.articles-item
 }
   
 .searchbox {
-    width: 265px;
+    width: 90%;
     display: block;
     padding: .375rem .75rem;
     font-size: 1rem;
@@ -691,8 +691,35 @@ li.articles-item
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;       
 }
 
+@media (min-width: 992px) {
+    .searchbox {
+        width: 85%;
+    }
+}
+@media (max-width: 991.98px) {
+    .searchbox {
+        width: 85%;
+    }
+}
+@media screen and (min-width: 1200px) {
+        .searchbox {
+        width: 90%;
+    }
+}  
+
 @media screen and (max-width: 768px) {
     .searchbox {
-        width: 270px;
+        width: 87%;
+    }
+}
+
+@media screen and (max-width: 600px) {
+        .searchbox {
+        width: 85%;
+    }
+}      
+@media screen and (max-width: 280px) {
+    .searchbox {
+        width: 82%;
     }
 }
