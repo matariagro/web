@@ -704,8 +704,8 @@ title: Matari Agro Indonesia - Konsultan dan Pusat Pelatihan Pertanian
             <div class="row g-4">
               {% for post in site.posts limit:3 %}
               <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                <h4><a href="{{ post.url }}">{{ post.title | truncate: 60 }}</a></h4>
-                <img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb">
+                <h4><a href="{{ post.url }}" title="Lihat Detail">{{ post.title | truncate: 60 }}</a></h4>
+                <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb"></a>
                 <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
               </div>
               {% endfor %}
