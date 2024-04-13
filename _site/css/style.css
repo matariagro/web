@@ -693,6 +693,6 @@ li.articles-item
 
 @media screen and (max-width: 768px) {
     .searchbox {
-        width: 300px;
+        width: 280px;
     }
 }
