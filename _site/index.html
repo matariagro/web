@@ -1365,7 +1365,7 @@
         resultsContainer: document.getElementById('results-container'),
         dataSource: '/search.json',
         searchResultTemplate: '<div class="card col-lg-4 col-md-3 col-sm-6 border-0"><div class="card-body"><a href="{url}" title="Lihat Detail"><img src="{image}" alt="{title}" class="img-thumbnail img-thumb"></a><a href="{url}" title="{desc}"><h6>{title}</h6><\/a><\/div><\/div>',
-        noResultsText: 'No results found',
+        noResultsText: '<p class="alert alert-danger">Tidak ada artikel yang sesuai...</p>',
         limit: 10,
         fuzzy: true,
       });
