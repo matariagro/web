@@ -240,13 +240,6 @@
 
   
     <sitemap>
-      <loc>http://localhost:4000/services/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
       <loc>http://localhost:4000/experts/</loc>
       <lastmod></lastmod>
     </sitemap>
@@ -255,6 +248,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/services/</loc>
       <lastmod></lastmod>
     </sitemap>
   
@@ -339,6 +339,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/training/register</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/search.json</loc>
       <lastmod></lastmod>
     </sitemap>
   
