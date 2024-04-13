@@ -118,5 +118,28 @@
         // Menempatkan kembali elemen dalam daftar yang sudah diacak
         $(".post-list").html(posts);
     });    
-})(jQuery);
 
+    $(document).ready(function() {
+        $('#uploadForm').submit(function(event) {
+            event.preventDefault();
+
+            var formData = new FormData($(this)[0]);
+
+            $.ajax({
+                url: 'https://your-other-server.com/upload.php', // Ganti dengan URL server lain
+                type: 'POST',
+                data: formData,
+                contentType: false,
+                processData: false,
+                success: function(response) {
+                    $('#reportContainer').html(response);
+                },
+                error: function(xhr, status, error) {
+                    console.error(xhr.responseText);
+                }
+            });
+        });
+    });
+
+
+})(jQuery);
