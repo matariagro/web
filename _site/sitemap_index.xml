@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-berbasis-data-untuk-pertanian-masa-depan-memahami-konsep-dan-manfaatnya-dengan-bantuan-konsultan-manajemen</loc>
+    <lastmod>2024-04-15</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/membangun-pertanian-berkelanjutan-peran-konsultan-manajemen-dalam-menyediakan-solusi-berbasis-data</loc>
+    <lastmod>2024-04-15</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/inovasi-pertanian-langkah-langkah-menuju-transformasi-digital-dengan-bantuan-konsultan-manajemen</loc>
     <lastmod>2024-04-13</lastmod>
   </sitemap>
