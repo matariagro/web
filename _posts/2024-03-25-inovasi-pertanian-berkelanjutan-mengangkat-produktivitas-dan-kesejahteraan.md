@@ -26,3 +26,5 @@ Salah satu contoh pendekatan holistik ini adalah praktik pertanian berkelanjutan
 Jika Anda tertarik untuk mengeksplorasi lebih lanjut tentang inovasi dalam pertanian berkelanjutan, Matari Agro Indonesia siap membantu. Kami menawarkan layanan konsultasi dan pelatihan teknis yang dirancang untuk membantu petani dan pemangku kepentingan dalam menerapkan inovasi terbaru dalam praktik pertanian mereka.
 
 Dengan bergabung dengan kami, Anda akan mendapatkan akses ke pengetahuan dan pengalaman dari para ahli kami, serta dukungan yang Anda butuhkan untuk mewujudkan pertanian yang lebih produktif, berkelanjutan, dan selaras dengan alam. Jangan ragu untuk menghubungi kami hari ini dan temukan bagaimana inovasi pertanian dapat mengubah masa depan pertanian Anda.
+
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

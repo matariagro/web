@@ -19,3 +19,5 @@ Dari sisi pemasaran, pekebun dapat meningkatkan nilai jual dengan investasi pada
 Namun, perlu diperhatikan bahwa kelapa yang telah dikupas harus disimpan dalam mesin pendingin untuk menjaga kesegarannya dan mencegah kerusakan akibat cendawan. Dengan demikian, penjualan kelapa baik dalam bentuk kupas maupun utuh memiliki kelebihan dan kekurangan masing-masing.
 
 Keunggulan lain dari kelapa pandan wangi adalah sifat genjahnya, yang memungkinkan buah berbuah perdana pada usia 2,5 tahun. Dengan perawatan yang optimal, petani dapat memperoleh hingga 200 buah per pohon setiap tahun, menjanjikan potensi keuntungan yang signifikan bagi industri pertanian.
+
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

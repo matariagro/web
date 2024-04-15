@@ -58,3 +58,5 @@ Cara membuat pupuk batu bara:
 3. Masukkan butiran pupuk ke oven bersuhu 40C dan sebagian dijemur di bawah sinar matahari. 
 
 4. Masukkan pupuk yang sudah kering ke kantong plastik.
+
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
