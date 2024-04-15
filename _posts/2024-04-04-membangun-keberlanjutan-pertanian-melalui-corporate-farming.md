@@ -19,3 +19,5 @@ Kedua, pembentukan corporate farming dilakukan melalui musyawarah antar para ang
 Terakhir, cakupan kegiatan corporate farming tetap bertumpu pada komoditas unggulan di wilayahnya, dengan memperhatikan peluang pengembangan dan diversifikasi, baik secara vertikal maupun horizontal.
 
 Melalui konsep corporate farming, kita dapat membayangkan masa depan pertanian yang lebih cerah dan berkelanjutan. Dengan memanfaatkan potensi kolaborasi antar berbagai pihak serta mengadopsi prinsip-prinsip yang telah terbukti efektif, kita dapat meningkatkan produktivitas, efisiensi, dan kesejahteraan petani serta memperkuat ketahanan pangan secara keseluruhan. Mari bersama-sama membangun masa depan pertanian Indonesia yang lebih baik melalui corporate farming.
+
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
