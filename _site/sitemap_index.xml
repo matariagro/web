@@ -7,8 +7,18 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/mengoptimalkan-produksi-padi-dengan-teknologi-langkah-menuju-pertanian-modern</loc>
+    <lastmod>2024-04-15</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/membangun-pertanian-berkelanjutan-peran-konsultan-manajemen-dalam-menyediakan-solusi-berbasis-data</loc>
     <lastmod>2024-04-15</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/mengatasi-tantangan-big-data-dalam-pertanian-menuju-pertanian-modern-dengan-bantuan-konsultan-pertanian</loc>
+    <lastmod>2024-04-13</lastmod>
   </sitemap>
 
   <sitemap>
