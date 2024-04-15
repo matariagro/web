@@ -7,6 +7,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-5-alasan-mengapa-anda-harus-menggunakan-konsultan-matari-agro-indonesia</loc>
+    <lastmod>2024-04-15</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/mengoptimalkan-produksi-padi-dengan-teknologi-langkah-menuju-pertanian-modern</loc>
     <lastmod>2024-04-15</lastmod>
   </sitemap>
@@ -408,6 +413,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page4/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page5/</loc>
       <lastmod></lastmod>
     </sitemap>
   
