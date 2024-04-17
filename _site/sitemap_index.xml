@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/mengelola-pertanian-dengan-efisiensi-maksimal-peta-digitalisasi-sebagai-kunci-transformasi</loc>
+    <lastmod>2024-04-17</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-berbasis-data-untuk-pertanian-masa-depan-memahami-konsep-dan-manfaatnya-dengan-bantuan-konsultan-manajemen</loc>
     <lastmod>2024-04-15</lastmod>
   </sitemap>
