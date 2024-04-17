@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/transformasi-pabrik-penggilingan-beras-kunci-menuju-swasembada-pangan-di-indonesia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-18</news:publication_date>
+                <news:title>Transformasi Pabrik Penggilingan Beras, Kunci Menuju Swasembada Pangan di Indonesia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/mengembangkan-pertanian-modern-di-indonesia-tantangan-dan-peluang-di-era-teknologi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-18</news:publication_date>
+                <news:title>Mengembangkan Pertanian Modern di Indonesia, Tantangan dan Peluang di Era Teknologi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/mengelola-pertanian-dengan-efisiensi-maksimal-peta-digitalisasi-sebagai-kunci-transformasi</loc>
         <news:news>
             <news:publication>

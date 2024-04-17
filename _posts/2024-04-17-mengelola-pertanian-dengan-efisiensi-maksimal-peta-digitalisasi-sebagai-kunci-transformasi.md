@@ -2,7 +2,7 @@
 layout: post
 title: "Mengelola Pertanian dengan Efisiensi Maksimal, Peta Digitalisasi sebagai Kunci Transformasi"
 keyword: "Digitalisasi Pertanian, Efisiensi Pertanian, Transformasi Digital, Matari Agro Indonesia, Konsultan Pertanian"
-desk: "emukan bagaimana digitalisasi telah merevolusi industri pertanian di Indonesia dengan dukungan Matari Agro Indonesia"
+desk: "Temukan bagaimana digitalisasi telah merevolusi industri pertanian di Indonesia dengan dukungan Matari Agro Indonesia"
 subtitle: Inovasi Teknologi
 nav: Inovasi
 image: digital_transformation.jpg
