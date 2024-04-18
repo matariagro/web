@@ -8,6 +8,7 @@ nav: Teknologi
 image: drone_sawah.jpeg
 ---
 
+
 Kunjungan para akademisi dari Malaysia dan Jepang ke departemen pertanian di Indonesia mengungkapkan perbedaan signifikan dalam penggunaan teknologi pertanian. Sementara negara-negara maju telah beralih ke mesin pertanian tidak berawak dan otomatisasi, petani Indonesia masih mengandalkan alat pertanian konvensional seperti traktor tangan. Faktor-faktor seperti lambatnya adopsi teknologi dan rendahnya investasi dalam infrastruktur pertanian menjadi penyebab utama ketertinggalan ini.
 
 Salah satu bukti ketertinggalan teknologi pertanian Indonesia adalah kelanjutan impor beras, meskipun negeri ini memiliki potensi lahan pertanian padi yang melimpah. Masih banyak petani yang menggunakan metode pascapanen manual, seperti perontokan padi secara manual, yang mengakibatkan kerugian dalam produksi. Alih metode dari cara konvensional ke teknologi modern, seperti penggunaan mesin perontok padi, merupakan langkah penting dalam meningkatkan efisiensi produksi.

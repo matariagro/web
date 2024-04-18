@@ -8,6 +8,7 @@ nav: Teknologi
 image: rmu_modern.jpg
 ---
 
+
 Industri penggilingan padi memiliki peran penting dalam memastikan ketersediaan beras, salah satu sumber pangan pokok utama di Indonesia. Dalam upaya membangun masa depan pangan yang berkelanjutan di Indonesia, modernisasi industri penggilingan padi menjadi sebuah kebutuhan mendesak. 
 
 Indonesia, sebagai negara agraris, memiliki potensi besar dalam produksi beras. Namun, tantangan seperti rendahnya produktivitas, kurangnya adopsi teknologi modern, dan minimnya kesadaran akan pentingnya modernisasi industri pertanian, menjadi hambatan dalam mencapai swasembada pangan.
