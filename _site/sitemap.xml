@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/membangun-masa-depan-yang-berkelanjutan-analisis-pasar-pertanian-dan-strategi-pemasaran-untuk-korporasi-petani</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-19</news:publication_date>
+                <news:title>Membangun Masa Depan yang Berkelanjutan, Analisis Pasar Pertanian dan Strategi Pemasaran untuk Korporasi Petani</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/transformasi-pabrik-penggilingan-beras-kunci-menuju-swasembada-pangan-di-indonesia</loc>
         <news:news>
             <news:publication>

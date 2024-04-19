@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/membangun-masa-depan-yang-berkelanjutan-analisis-pasar-pertanian-dan-strategi-pemasaran-untuk-korporasi-petani</loc>
+    <lastmod>2024-04-19</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/transformasi-pabrik-penggilingan-beras-kunci-menuju-swasembada-pangan-di-indonesia</loc>
     <lastmod>2024-04-18</lastmod>
   </sitemap>
