@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Mengoptimalkan Produksi Padi, Panduan Persiapan Lahan dan Teknik Pertanian Terkini",
+    "image"    : "/img/padi_sawah.jpg",    
+    "category" : "",
+    "tags"     : "",
+    "url"      : "/articles/mengoptimalkan-produksi-padi-panduan-persiapan-lahan-dan-teknik-pertanian-terkini",
+    "date"     : "2024-04-21 00:00:00 +0700",
+    "desc"     : "Di tengah tuntutan akan ketersediaan pangan yang stabil dan berkualitas, pertanian padi tetap menjadi tulang punggung bagi masyarakat di berbagai belahan dunia. Namun, untuk mencapai hasil panen yang optimal, persiapan lahan yang tepat adalah kunci utama. Di artikel ini, kami akan membahas langkah-langkah mendalam dalam persiapan lahan untuk pertanian padi, serta teknik pertanian terkini yang dapat membantu meningkatkan produktivitas dan kualitas hasil panen."
+    } ,
+    
+  {
+    "title"    : "Mengatasi Ancaman Hama dan Penyakit dalam Pertanian Padi, Pendekatan Ramah Lingkungan untuk Kesuksesan Panen",
+    "image"    : "/img/padi_kuning.jpg",    
+    "category" : "",
+    "tags"     : "",
+    "url"      : "/articles/mengatasi-ancaman-hama-dan-penyakit-dalam-pertanian-padi-pendekatan-ramah-lingkungan-untuk-kesuksesan-panen",
+    "date"     : "2024-04-21 00:00:00 +0700",
+    "desc"     : "Di dunia pertanian, perjuangan melawan hama dan penyakit menjadi salah satu tantangan utama bagi petani. Setiap tahun, lebih dari sepertiga produksi tanaman padi hilang karena serangan hama dan penyakit. Oleh karena itu, memahami musuh tanaman dan mengembangkan pendekatan yang ramah lingkungan sangat penting untuk menjaga keberhasilan panen. Mari kita telusuri lebih dalam tentang hama dan penyakit padi yang paling umum serta strategi pengendalian yang efektif."
+    } ,
+    
+  {
     "title"    : "Membangun Masa Depan yang Berkelanjutan, Analisis Pasar Pertanian dan Strategi Pemasaran untuk Korporasi Petani",
     "image"    : "/img/komoditi.jpg",    
     "category" : "",
