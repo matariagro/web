@@ -27,6 +27,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/membangun-fondasi-yang-kokoh-langkah-langkah-penting-dalam-persiapan-lahan-pertanian-yang-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-21</news:publication_date>
+                <news:title>Membangun Fondasi yang Kokoh, Langkah-Langkah Penting dalam Persiapan Lahan Pertanian yang Berkelanjutan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/membangun-masa-depan-yang-berkelanjutan-analisis-pasar-pertanian-dan-strategi-pemasaran-untuk-korporasi-petani</loc>
         <news:news>
             <news:publication>
