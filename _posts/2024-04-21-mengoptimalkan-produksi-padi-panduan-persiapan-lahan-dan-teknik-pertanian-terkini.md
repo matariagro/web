@@ -3,6 +3,8 @@ layout: post
 title: "Mengoptimalkan Produksi Padi, Panduan Persiapan Lahan dan Teknik Pertanian Terkini"
 keyword: "persiapan lahan, pertanian padi, teknik pertanian, Matari Agro Indonesia, konsultan pertanian, hasil panen, perataan lahan, irigasi sawah"
 desk: "Temukan langkah-langkah mendalam dalam persiapan lahan untuk pertanian padi, serta teknik pertanian terkini yang dapat membantu meningkatkan hasil panen Anda bersama Matari Agro Indonesia, mitra terpercaya dalam konsultasi pertanian."
+category: Produksi
+tags: Produksi Padi Lahan Teknik Pertanian Panduan
 subtitle: Inovasi Produksi
 nav: Produksi
 image: padi_sawah.jpg
