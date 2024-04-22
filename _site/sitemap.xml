@@ -15,6 +15,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/mengenal-bioindustri-terintegrasi-solusi-sejahterakan-petani-dan-lindungi-lingkungan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-23</news:publication_date>
+                <news:title>Mengenal Bioindustri Terintegrasi, Solusi Sejahterakan Petani dan Lindungi Lingkungan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/korporasi-petani-yang-berdaya-strategi-akselerasi-untuk-peningkatan-produktivitas-dan-pendapatan</loc>
         <news:news>
             <news:publication>
