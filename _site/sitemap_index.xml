@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/konsep-korporasi-petani-mengoptimalkan-potensi-pertanian-melalui-transformasi-ekonomi-dan-teknologi</loc>
+    <lastmod>2024-04-22</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/mengoptimalkan-produksi-padi-panduan-persiapan-lahan-dan-teknik-pertanian-terkini</loc>
     <lastmod>2024-04-21</lastmod>
   </sitemap>
@@ -475,6 +480,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page5/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page6/</loc>
       <lastmod></lastmod>
     </sitemap>
   

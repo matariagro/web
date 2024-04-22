@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/konsep-korporasi-petani-mengoptimalkan-potensi-pertanian-melalui-transformasi-ekonomi-dan-teknologi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-04-22</news:publication_date>
+                <news:title>Konsep Korporasi Petani, Mengoptimalkan Potensi Pertanian melalui Transformasi Ekonomi dan Teknologi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/mengoptimalkan-produksi-padi-panduan-persiapan-lahan-dan-teknik-pertanian-terkini</loc>
         <news:news>
             <news:publication>
