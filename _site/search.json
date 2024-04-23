@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Pertanian Masa Depan, Teknologi Hortikultura Berbasis Pertanian Bioindustri",
+    "image"    : "/img/hortikultura.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, bioindustri, berkelanjutan, hortukultura, konsultan",
+    "url"      : "/articles/pertanian-masa-depan-teknologi-hortikultura-berbasis-pertanian-bioindustri",
+    "date"     : "2024-04-23 00:00:00 +0700",
+    "desc"     : "Teknologi hortikultura berbasis pertanian bioindustri menjadi sorotan dalam upaya menciptakan pertanian yang lebih maju dan berkelanjutan. Konsep ini menggabungkan teknologi modern dengan prinsip-prinsip bioindustri untuk meningkatkan efisiensi dan produktivitas dalam produksi tanaman hortikultura."
+    } ,
+    
+  {
+    "title"    : "Pertanian Inovatif, Model Bioindustri Berkelanjutan di Lahan Bekas Tambang",
+    "image"    : "/img/lahan_tambang.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, bioindustri, berkelanjutan, lahan, bekas, tambang, konsultan",
+    "url"      : "/articles/pertanian-inovatif-model-bioindustri-berkelanjutan-di-lahan-bekas-tambang",
+    "date"     : "2024-04-23 00:00:00 +0700",
+    "desc"     : "Pertanian inovatif menjadi kunci dalam menjawab tantangan pertanian modern, terutama di wilayah-wilayah dengan kondisi lingkungan yang tidak biasa, seperti lahan bekas tambang. Di tengah kendala-kendala yang dihadapi, model inovasi pertanian bioindustri berkelanjutan muncul sebagai solusi yang menjanjikan."
+    } ,
+    
+  {
     "title"    : "Mewujudkan Pertanian Terintegrasi, Menuju Kemandirian dan Keberlanjutan",
     "image"    : "/img/pertanian_terpadu.jpg",    
     "category" : "Korporasi",
