@@ -1,6 +1,16 @@
 [
   
   {
+    "title"    : "Biosistem Tanaman Padi, Meningkatkan Produktivitas dan Mengatasi Tantangan Pertanian",
+    "image"    : "/img/padi_jarwo.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, bioindustri, berkelanjutan, hortukultura, konsultan",
+    "url"      : "/articles/biosistem-tanaman-padi-meningkatkan-produktivitas-dan-mengatasi-tantangan-pertanian",
+    "date"     : "2024-04-24 00:00:00 +0700",
+    "desc"     : "Biosistem tanaman padi merujuk pada keseimbangan dan interaksi antara komponen-komponen dalam ekosistem padi, yang meliputi tanaman padi itu sendiri, tanah, air, serta faktor lingkungan lainnya. Dalam konteks pertanian, pemahaman yang mendalam tentang biosistem ini menjadi kunci dalam meningkatkan produktivitas dan mengatasi tantangan dalam produksi padi."
+    } ,
+    
+  {
     "title"    : "Pertanian Masa Depan, Teknologi Hortikultura Berbasis Pertanian Bioindustri",
     "image"    : "/img/hortikultura.jpg",    
     "category" : "Inovasi",
@@ -22,7 +32,7 @@
     
   {
     "title"    : "Pendampingan Teknologi Budidaya Salibu dan Deseminasi Varietas Unggul Inpago Unsoed 1 Bersama Bank Indonesia",
-    "image"    : "/img/gandrungmangu_salibu.jpg",    
+    "image"    : "/img/salibu_cilacap.jpg",    
     "category" : "Proyek",
     "tags"     : "teknologi, budidaya, salibu, deseminasi, varietas, unggul, Inpago, Unsoed, 1",
     "url"      : "/articles/pendampingan-teknologi-budidaya-salibu-dan-deseminasi-varietas-unggul-inpago-unsoed-1-bersama-bank-indonesia",
