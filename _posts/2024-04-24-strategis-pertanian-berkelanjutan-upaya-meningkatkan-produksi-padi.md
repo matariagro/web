@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Strategis Pertanian Keberlanjutan, Upaya Meningkatkan Produksi Padi"
+title: "Strategis Pertanian Berkelanjutan, Upaya Meningkatkan Produksi Padi"
 keyword: "pertanian padi, keberlanjutan pertanian, pengelolaan tanah, sumber daya air, penggunaan pestisida, pemilihan varietas, pemberdayaan petani, matari agro Indonesia"
 desk: "Temukan strategi-strategi penting dalam meningkatkan keberlanjutan pertanian padi, mulai dari pengelolaan tanah hingga pemberdayaan petani. Pelajari bagaimana PT Matari Agro Indonesia mendukung upaya-upaya ini melalui layanan konsultan dan pelatihan yang terarah."
 category: Inovasi
