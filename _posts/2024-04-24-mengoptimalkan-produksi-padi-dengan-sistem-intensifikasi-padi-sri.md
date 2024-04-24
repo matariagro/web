@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mengoptimalkan Produksi Padi dengan Sistem Intensifikasi Padi (SRI)"
-keyword: "istem Intensifikasi Padi, SRI, budidaya padi, produktivitas padi, keberlanjutan pertanian, matari agro Indonesia"
+keyword: "sistem Intensifikasi Padi, SRI, budidaya padi, produktivitas padi, keberlanjutan pertanian, matari agro Indonesia"
 desk: "Temukan keunggulan dan implementasi Sistem Intensifikasi Padi (SRI) dalam meningkatkan produktivitas padi dengan lebih efisien dan berkelanjutan. Pelajari bagaimana PT Matari Agro Indonesia mendukung petani dalam menerapkan SRI melalui layanan konsultan dan pelatihan yang terarah."
 category: Inovasi
 tags: pertanian inovatif SRI sistem intensifikasi konsultan
