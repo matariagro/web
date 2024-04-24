@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/permudah-akses-permodalan-dan-inovasi-teknologi-mendorong-generasi-muda-dalam-pertanian</loc>
+    <lastmod>2024-04-25</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/hilirisasi-sebagai-strategi-meningkatkan-nilai-ekspor-komoditas-pertanian</loc>
+    <lastmod>2024-04-25</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategis-pertanian-berkelanjutan-upaya-meningkatkan-produksi-padi</loc>
     <lastmod>2024-04-24</lastmod>
   </sitemap>

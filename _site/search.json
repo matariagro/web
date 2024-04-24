@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Permudah Akses Permodalan dan Inovasi Teknologi, Mendorong Generasi Muda dalam Pertanian",
+    "image"    : "/img/sawah_milenial.png",    
+    "category" : "Hilirisasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, KUR, regenerasi, konsultan",
+    "url"      : "/articles/permudah-akses-permodalan-dan-inovasi-teknologi-mendorong-generasi-muda-dalam-pertanian",
+    "date"     : "2024-04-25 00:00:00 +0700",
+    "desc"     : "Kementerian Pertanian RI, melalui Badan Penyuluhan dan Pengembangan SDM Pertanian (BPPSDMP), terus berupaya mendorong proses regenerasi petani dan mengembangkan usaha pertanian dengan memberikan akses permodalan, terutama melalui Kredit Usaha Rakyat (KUR). Salah satu inisiatif penting dalam mendorong minat generasi muda untuk berwirausaha di bidang pertanian adalah Program Youth Entrepreneurship and Employment Support Services (YESS), yang didukung oleh International Fund for Agricultural Development (IFAD)."
+    } ,
+    
+  {
+    "title"    : "Hilirisasi Sebagai Strategi Meningkatkan Nilai Ekspor Komoditas Pertanian",
+    "image"    : "/img/hilirisasi.jpg",    
+    "category" : "Hilirisasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, komoditas, konsultan",
+    "url"      : "/articles/hilirisasi-sebagai-strategi-meningkatkan-nilai-ekspor-komoditas-pertanian",
+    "date"     : "2024-04-25 00:00:00 +0700",
+    "desc"     : "Peningkatan ekspor sektor pertanian pada Januari 2024, seperti yang dicatat oleh Badan Pusat Statistik (BPS), telah menghadirkan berita positif bagi pertanian Indonesia. Dengan kenaikan sebesar 11,72 persen dibandingkan bulan sebelumnya, pertanian telah memberikan kontribusi signifikan terhadap kinerja ekspor nasional. Komoditas seperti cengkeh, produk obat, dan aromatik menjadi pendorong utama di balik peningkatan ini."
+    } ,
+    
+  {
     "title"    : "Strategis Pertanian Berkelanjutan, Upaya Meningkatkan Produksi Padi",
     "image"    : "/img/padi_berkelanjutan.jpg",    
     "category" : "Inovasi",
