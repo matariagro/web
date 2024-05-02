@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/tips-praktis-budidaya-wortel-dalam-polibag-di-sekitar-rumah</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-01</news:publication_date>
+                <news:title>Tips Praktis Budidaya Wortel dalam Polibag di Sekitar Rumah</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/tips-praktis-budidaya-kubis-agar-panen-melimpah</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-01</news:publication_date>
+                <news:title>Tips Praktis Budidaya Kubis Agar Panen Melimpah</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/permudah-akses-permodalan-dan-inovasi-teknologi-mendorong-generasi-muda-dalam-pertanian</loc>
         <news:news>
             <news:publication>

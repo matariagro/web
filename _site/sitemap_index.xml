@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/tips-praktis-budidaya-wortel-dalam-polibag-di-sekitar-rumah</loc>
+    <lastmod>2024-05-01</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/tips-praktis-budidaya-kubis-agar-panen-melimpah</loc>
+    <lastmod>2024-05-01</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/permudah-akses-permodalan-dan-inovasi-teknologi-mendorong-generasi-muda-dalam-pertanian</loc>
     <lastmod>2024-04-25</lastmod>
   </sitemap>
@@ -542,6 +552,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page6/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page7/</loc>
       <lastmod></lastmod>
     </sitemap>
   
