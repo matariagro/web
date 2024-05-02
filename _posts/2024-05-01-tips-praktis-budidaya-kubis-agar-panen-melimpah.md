@@ -14,27 +14,27 @@ Kubis, atau kol, merupakan sayuran semusim yang biasanya tumbuh subur di dataran
 
 Berikut ini adalah langkah-langkah praktis dalam budidaya kubis untuk memastikan panen yang melimpah:
 
-**1. Persiapan Lahan**
+### 1. Persiapan Lahan
 
 Sebelum menanam kubis, pastikan lahan telah dibersihkan dari sisa akar, batu, dan sampah. Tanah kemudian perlu digemburkan hingga kedalaman 30 sampai 40 cm dan dikeringkan selama 5 hingga 7 hari. Buatlah bedengan sesuai dengan kondisi lahan dan berikan pupuk dasar dari pupuk organik yang sudah terfermentasi sempurna untuk meningkatkan kesuburan tanah.
 
-**2. Persiapan Benih dan Penyemaian**
+### 2. Persiapan Benih dan Penyemaian
 
 Gunakan benih kubis yang berasal dari varietas unggul yang sudah bersertifikat. Rendam benih dalam air hangat yang telah dicampur dengan ekstrak kunyit dan bawang putih selama 15 hingga 20 menit. Setelah itu, tiriskan benih selama 1 malam dengan kain. Semai benih di atas media tanam dan tutup tipis hingga benih tumbuh. Lakukan penyiraman secara rutin untuk mempercepat perkecambahan.
 
-**3. Penanaman**
+### 3. Penanaman
 
 Buatlah lubang tanam dengan jarak sekitar 40 cm. Beri pupuk kandang dalam lubang tanam tersebut sebelum memindahkan bibit atau tanaman muda ke dalamnya. Tutup lubang tanam dan padatkan agar bibit tidak mudah rebah. Pindah tanam sebaiknya dilakukan pada pagi atau sore hari.
 
-**4. Perawatan Tanaman**
+### 4. Perawatan Tanaman
 
 Perawatan tanaman kubis meliputi penyulaman, penyiraman, pemupukan, penyiangan, dan penggemburan tanah. Pastikan tanaman mendapatkan perawatan yang cukup sesuai dengan tahapan pertumbuhannya untuk memastikan hasil panen yang maksimal.
 
-**5. Perlindungan dari Hama dan Penyakit**
+### 5. Perlindungan dari Hama dan Penyakit
 
 Lakukan pengendalian hama dan penyakit secara terpadu menggunakan metode mekanis, kultur teknis, dan penyemprotan pestisida jika diperlukan. Aplikasi pestisida harus dilakukan dengan dosis yang tepat sesuai anjuran.
 
-**6. Panen**
+### 6. Panen
 
 Tanaman kubis bisa dipanen setelah berumur 75 hingga 90 hari setelah tanam. Gunakan pisau tajam untuk memotong kubis dan hindari benturan saat panen. Setelah dipanen, letakkan kubis di tempat bersih dan terlindungi.
 
