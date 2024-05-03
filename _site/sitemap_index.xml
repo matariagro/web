@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/tips-dan-prosepek-budidaya-buncis-baby-proses-penanaman-hingga-penanganan-pasca-panen</loc>
+    <lastmod>2024-05-03</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/budidaya-buncis-kenya-peluang-emas-di-dunia-pertanian-era-digital</loc>
+    <lastmod>2024-05-03</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/tips-praktis-budidaya-wortel-dalam-polibag-di-sekitar-rumah</loc>
     <lastmod>2024-05-01</lastmod>
   </sitemap>
