@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Peluang Bisnis Tanaman Aglaonema, Inovasi Menuju Pertanian Modern di Era Digital"
+title: "Peluang Tanaman Aglaonema, Inovasi Bisnis Pertanian Modern di Era Digital"
 keyword: "tanaman hias, bisnis tanaman, aglaonema, peluang bisnis, pertanian modern, matari agro Indonesia"
 desk: "Temukan potensi bisnis yang menjanjikan di pasar tanaman hias dengan membudidayakan Aglaonema. Artikel ini memberikan pandangan tentang prospek bisnis tanaman hias Aglaonema, termasuk cara budidayanya dan tips merawatnya, serta strategi pemasaran yang efektif dalam era digital"
 category: Inovasi
