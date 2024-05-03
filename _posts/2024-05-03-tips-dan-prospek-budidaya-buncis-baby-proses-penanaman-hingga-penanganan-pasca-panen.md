@@ -20,25 +20,25 @@ Tidak hanya itu, pasar digital juga memungkinkan para petani untuk memantau dan 
 
 Buncis baby, atau sering disebut juga dengan buncis muda, merupakan salah satu jenis sayuran yang populer di pasaran. Sayuran ini memiliki tekstur yang renyah dan rasa yang lezat, membuatnya menjadi pilihan favorit dalam berbagai masakan. Bagi Anda yang tertarik untuk membudidayakan buncis baby, berikut adalah panduan lengkapnya:
 
-### 1. Persiapan Lahan
+#### 1. Persiapan Lahan
    Sebelum menanam buncis baby, pastikan lahan telah dipersiapkan dengan baik. Pilihlah lahan yang terkena sinar matahari secara langsung dan memiliki drainase yang baik untuk menghindari genangan air.
 
-### 2. Pemilihan Benih
+#### 2. Pemilihan Benih
    Pilihlah benih buncis baby yang berkualitas dari varietas unggul. Pastikan benih yang dipilih bebas dari penyakit dan cacat untuk memastikan pertumbuhan yang optimal.
 
-### 3. Penanaman
+#### 3. Penanaman
    Lakukan penanaman benih buncis baby pada bedengan atau lahan yang telah disiapkan. Benih dapat ditanam dengan cara ditebar merata atau diletakkan dalam lubang tanam dengan jarak yang sesuai antara tanaman.
 
-### 4. Perawatan Tanaman
+#### 4. Perawatan Tanaman
    Tanaman buncis baby membutuhkan perawatan yang teratur seperti penyiraman secara teratur, pemupukan, penyiangan, dan pengendalian hama dan penyakit. Pastikan tanaman mendapatkan nutrisi yang cukup untuk pertumbuhan yang optimal.
 
-### 5. Pemeliharaan Tanaman
+#### 5. Pemeliharaan Tanaman
    Selama masa pertumbuhan, pastikan tanaman buncis baby mendapatkan perawatan yang optimal. Bantu tanaman agar tumbuh dengan baik dengan memberikan dukungan seperti tiang atau anyaman.
 
-### 6. Pemanenan
+#### 6. Pemanenan
    Buncis baby dapat dipanen ketika masih muda dan memiliki panjang sekitar 10-15 cm. Panen dilakukan secara hati-hati untuk menghindari kerusakan pada tanaman. Pastikan untuk memanen secara berkala untuk memaksimalkan hasil panen.
 
-### 7. Penanganan Pasca Panen
+#### 7. Penanganan Pasca Panen
    Setelah dipanen, buncis baby perlu segera ditangani dengan baik untuk menjaga kesegarannya. Buang bagian yang tidak diinginkan dan simpan buncis dalam wadah yang bersih dan tertutup untuk menghindari kehilangan kualitas.
 
 Dengan mengikuti panduan lengkap budidaya buncis baby ini, Anda dapat menghasilkan panen yang melimpah dengan kualitas terbaik. Budidaya buncis baby juga dapat menjadi peluang usaha yang menjanjikan dengan permintaan pasar yang terus meningkat.
