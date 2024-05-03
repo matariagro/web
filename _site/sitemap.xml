@@ -39,6 +39,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/kale-superfood-yang-menjanjikan-di-industri-agroindustri-indonesia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-03</news:publication_date>
+                <news:title>Kale: Superfood yang Menjanjikan di Industri Agroindustri Indonesia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/budidaya-buncis-kenya-peluang-emas-di-dunia-pertanian-era-digital</loc>
         <news:news>
             <news:publication>
