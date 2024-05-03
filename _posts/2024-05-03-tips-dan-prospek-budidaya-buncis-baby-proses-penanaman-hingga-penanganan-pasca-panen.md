@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tips dan Prosepek Budidaya Buncis Baby, Proses Penanaman Hingga Penanganan Pasca Panen"
+title: "Tips dan Prospek Budidaya Buncis Baby, Proses Penanaman Hingga Penanganan Pasca Panen"
 keyword: "budidaya buncis baby, teknik budi daya, penanaman buncis, penanganan pasca panen, matari agro Indonesia"
 desk: "Pelajari tahapan lengkap budidaya buncis baby mulai dari penanaman hingga penanganan pasca panen. Dengan panduan ini, Anda dapat mengoptimalkan hasil panen buncis baby dengan kualitas terbaik untuk pasar"
 category: Inovasi
