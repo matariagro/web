@@ -14,23 +14,23 @@ Wortel merupakan salah satu komoditas unggulan dalam pertanian Indonesia yang ju
 
 Berikut ini adalah kiat mudah budidaya wortel dalam polibag seperti yang dilansir dari laman Instagram resmi Kementerian Pertanian, Jakarta.
 
-### 1. Menyemai Bibit
+##### 1. Menyemai Bibit
 
 Langkah pertama dalam budidaya wortel adalah dengan menyemai bibit. Bibit wortel perlu disemai ke dalam pot kecil berukuran 5 x 6 cm yang berisi campuran tanah dan pupuk kandang terlebih dahulu. Pastikan bibit ditempatkan pada kedalaman yang sesuai dan dijaga kelembabannya untuk memastikan perkecambahan yang baik.
 
-### 2. Menanam Wortel
+##### 2. Menanam Wortel
 
 Setelah bibit wortel tumbuh selama 1 hingga 2 minggu dan memiliki 3 hingga 4 helai daun, tanaman siap dipindahkan ke polibag yang lebih besar. Pastikan polibag telah diisi dengan campuran tanah yang subur dan memiliki drainase yang baik untuk memastikan pertumbuhan wortel yang optimal.
 
-### 3. Pemeliharaan
+##### 3. Pemeliharaan
 
 Perawatan wortel dalam polibag meliputi penyiraman dan pemupukan secara teratur. Sore hari merupakan waktu yang tepat untuk menyiram wortel, dan lakukan penyiraman setiap hari untuk menjaga kelembaban tanah. Gunakan pupuk organik cair secara berkala untuk memberikan nutrisi yang cukup bagi tanaman.
 
-### 4. Pengendalian Hama
+##### 4. Pengendalian Hama
 
 Pengendalian hama dan gulma perlu dilakukan secara teratur untuk menjaga kesehatan tanaman wortel. Cabut gulma yang mengganggu pertumbuhan wortel secara berkala, dan gunakan bahan-bahan alami seperti daun ki pait, temu lawak, dan temu ireng sebagai pestisida alami yang ramah lingkungan.
 
-### 5. Panen
+##### 5. Panen
 
 Setelah sekitar 3 bulan, wortel sudah siap untuk dipanen. Kualitas wortel yang baik ditentukan oleh kondisi lahan yang subur, pemupukan yang tepat, dan perawatan yang baik selama masa pertumbuhan. Panenlah wortel dengan hati-hati untuk memastikan hasil yang maksimal dari usaha budidaya Anda.
 
