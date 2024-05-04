@@ -3,6 +3,66 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/strategi-budidaya-jagung-yang-efektif-untuk-peningkatan-ketahanan-pangan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-05</news:publication_date>
+                <news:title>Strategi Budidaya Jagung yang Efektif untuk Peningkatan Ketahanan Pangan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-produksi-kedelai-di-indonesia-strategi-bisnis-untuk-ketahanan-pangan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-05</news:publication_date>
+                <news:title>Meningkatkan Produksi Kedelai di Indonesia, Strategi Bisnis untuk Ketahanan Pangan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-produksi-kedelai-di-indonesia-langkah-langkah-menuju-swasembada-pangan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-05</news:publication_date>
+                <news:title>Meningkatkan Produksi Kedelai di Indonesia, Langkah-Langkah Menuju Swasembada Pangan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/mengoptimalkan-potensi-agribisnis-jagung-strategi-pengembangan-untuk-keberlanjutan-dan-daya-saing</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-05</news:publication_date>
+                <news:title>Mengoptimalkan Potensi Agribisnis Jagung, Strategi Pengembangan untuk Keberlanjutan dan Daya Saing</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/menggali-peluang-bisnis-jagung-panduan-investasi-pertanian-dengan-potensi-keuntungan-tinggi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-05</news:publication_date>
+                <news:title>Menggali Peluang Bisnis Jagung, Panduan Investasi Pertanian dengan Potensi Keuntungan Tinggi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/tips-dan-prospek-budidaya-buncis-baby-proses-penanaman-hingga-penanganan-pasca-panen</loc>
         <news:news>
             <news:publication>
