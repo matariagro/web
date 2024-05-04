@@ -4,7 +4,7 @@ title: "Strategi Budidaya Jagung yang Efektif untuk Peningkatan Ketahanan Pangan
 keyword: "Budidaya jagung, ketahanan pangan, varietas jagung, pemupukan, pengendalian hama dan penyakit, teknik pemanenan, matari agro Indonesia"
 desk: "Dengan pendekatan teknis yang matang, petani jagung dapat meningkatkan hasil panen dan berkontribusi pada ketahanan pangan. Artikel ini membahas berbagai strategi budidaya jagung mulai dari pemilihan varietas hingga teknik pemanenan yang efektif"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung_kuning.jpg

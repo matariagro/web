@@ -4,7 +4,7 @@ title: "Menggali Peluang Bisnis Jagung, Panduan Investasi Pertanian dengan Poten
 keyword: "Budidaya jagung, peluang usaha pertanian, investasi agrobisnis, agen pertanian, matari agro Indonesia"
 desk: "Temukan potensi bisnis yang menjanjikan dalam budidaya jagung dan investasi pertanian. Dengan panduan praktis dari Matari Agro Indonesia, Anda dapat memulai usaha pertanian jagung dengan potensi keuntungan yang tinggi"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung.jpg

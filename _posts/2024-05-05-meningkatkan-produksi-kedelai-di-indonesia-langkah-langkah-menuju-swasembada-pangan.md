@@ -4,7 +4,7 @@ title: "Meningkatkan Produksi Kedelai di Indonesia, Langkah-Langkah Menuju Swase
 keyword: "Produksi kedelai, swasembada pangan, strategi bisnis kedelai, pengembangan varietas, teknologi pertanian, pelatihan petani, akses pasar, diversifikasi produk, manajemen risiko, pendanaan pertanian, kesadaran masyarakat, kemitraan swasta, keberlanjutan lingkungan, matari agro Indonesia"
 desk: "Temukan strategi bisnis kunci untuk meningkatkan produksi kedelai di Indonesia dan mendukung tujuan swasembada pangan. Dari pengembangan varietas hingga kemitraan swasta, artikel ini membahas langkah-langkah konkret yang dapat diambil untuk mencapai target swasembada pangan melalui produksi kedelai yang berkelanjutan"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kedelai_opt.jpg

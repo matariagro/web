@@ -4,7 +4,7 @@ title: "Analisis Perdagangan dan Produksi Kedelai di Indonesia, Tantangan dan Pr
 keyword: "Produksi kedelai, perdagangan kedelai, ekspor impor kedelai, ketahanan pangan, strategi pengembangan pertanian, matari agro Indonesia"
 desk: "Analisis mendalam tentang produksi dan perdagangan kedelai di Indonesia pada tahun 2023, menyoroti tantangan yang dihadapi serta prospek untuk meningkatkan produksi dan mengurangi ketergantungan pada impor"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kedelai.jpeg

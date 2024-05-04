@@ -4,7 +4,7 @@ title: "Mengoptimalkan Potensi Agribisnis Jagung, Strategi Pengembangan untuk Ke
 keyword: "Agribisnis jagung, strategi pengembangan, keberlanjutan, daya saing, investasi pertanian, pemasaran pertanian, matari agro Indonesia"
 desk: "Temukan strategi yang diperlukan untuk mengembangkan agribisnis jagung di Indonesia agar lebih berdaya saing dan berkelanjutan. Dari intensifikasi pertanian hingga dukungan pemasaran, artikel ini membahas berbagai langkah penting dalam mengoptimalkan potensi jagung sebagai komoditas strategis"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung_strategis.jpg

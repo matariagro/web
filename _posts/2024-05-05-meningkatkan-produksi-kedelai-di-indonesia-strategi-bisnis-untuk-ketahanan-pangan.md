@@ -4,7 +4,7 @@ title: "Meningkatkan Produksi Kedelai di Indonesia, Strategi Bisnis untuk Ketaha
 keyword: "Produksi kedelai, strategi bisnis, ketahanan pangan, pengembangan varietas, teknologi pertanian, pelatihan petani, akses pasar, diversifikasi produk, manajemen risiko, pendanaan, kesadaran masyarakat, matari agro Indonesia"
 desk: "Temukan strategi bisnis penting yang dapat meningkatkan produksi kedelai di Indonesia untuk mencapai ketahanan pangan. Dari pengembangan varietas hingga pendanaan, artikel ini membahas langkah-langkah kunci untuk mengurangi ketergantungan pada impor kedelai"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan
+tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: produksi_kedelai.jpg
