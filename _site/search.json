@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Pupuk Biochar, Meningkatkan Hasil Jagung dengan Solusi Pertanian Inovatif",
+    "image"    : "/img/biochar.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, pupuk, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pupuk-biochar-meningkatkan-hasil-jagung-dengan-solusi-pertanian-inovatif",
+    "date"     : "2024-05-06 00:00:00 +0700",
+    "desc"     : "Tanah subur di Afrika Sub-Sahara seringkali dicirikan oleh toksisitas aluminium, tingkat bahan organik yang rendah, dan aktivitas mikroba yang minim. Situasi ini semakin diperburuk oleh praktik-praktik antropogenik seperti pembakaran hutan dan penambangan. Dampak dari keadaan ini tidak hanya membatasi ketersediaan nutrisi penting seperti nitrogen, fosfor, dan kalium, tetapi juga menurunkan produktivitas pertanian, terutama pada tanaman pangan seperti jagung."
+    } ,
+    
+  {
+    "title"    : "Pengelolaan Pupuk Nitrogen yang Berkelanjutan, Langkah Menuju Pertanian yang Ramah Lingkungan",
+    "image"    : "/img/pupuk_nitrogen.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, pupuk, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pengelolaan-pupuk-nitrogen-yang-berkelanjutan-langkah-menuju-pertanian-yang-ramah-lingkungan",
+    "date"     : "2024-05-06 00:00:00 +0700",
+    "desc"     : "Pada tahun 2022, penelitian yang dipimpin oleh Menegat dan rekan membuka mata terhadap jejak lingkungan yang dihasilkan dari produksi, transportasi, dan penggunaan pupuk nitrogen sintetis secara global. Analisis mendalam menyoroti dampak besar rantai pasok pupuk nitrogen sintetis terhadap emisi nitrogen dioksida (N2O) dan gas rumah kaca (GHG) secara keseluruhan, menempatkannya sebagai salah satu penyumbang utama beban karbon dunia. Hasil penelitian ini menegaskan perlunya tindakan proaktif untuk mengelola nitrogen secara berkelanjutan dalam pertanian."
+    } ,
+    
+  {
     "title"    : "Strategi Optimalisasi Pemupukan untuk Sayuran di Lahan Suboptimal",
     "image"    : "/img/ladang_sayuran.jpg",    
     "category" : "Inovasi",
