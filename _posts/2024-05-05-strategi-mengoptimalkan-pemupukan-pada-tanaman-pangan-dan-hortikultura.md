@@ -4,7 +4,7 @@ title: "Strategi Mengoptimalkan Pemupukan pada Tanaman Pangan dan Hortikultura"
 keyword: "Pemupukan, tanaman pangan, hortikultura, analisis tanah, pupuk organik, aplikasi pupuk, pertanian berkelanjutan, matari agro Indonesia"
 desk: "Artikel ini menjelaskan langkah-langkah penting dalam mengoptimalkan pemupukan pada tanaman pangan dan hortikultura, termasuk analisis tanah, pemilihan pupuk yang tepat, aplikasi pupuk yang benar, penggunaan pupuk organik, dan pentingnya memperhatikan lingkungan sekitar"
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
+tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pemupukan.jpg
