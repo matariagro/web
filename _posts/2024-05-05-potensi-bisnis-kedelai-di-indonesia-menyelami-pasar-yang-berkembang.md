@@ -6,7 +6,7 @@ desk: "Artikel ini menjelaskan potensi bisnis kedelai di Indonesia, dengan fokus
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
-nav: Inovasi
+nav: Strategi
 image: kedelai_nasional.jpeg
 ---
 

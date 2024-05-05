@@ -6,7 +6,7 @@ desk: "Artikel ini membahas strategi optimalisasi pemupukan untuk pertumbuhan sa
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
-nav: Inovasi
+nav: Pemupukan
 image: ladang_sayuran.jpg
 ---
 

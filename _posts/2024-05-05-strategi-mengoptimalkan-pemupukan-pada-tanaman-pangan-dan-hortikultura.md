@@ -6,7 +6,7 @@ desk: "Artikel ini menjelaskan langkah-langkah penting dalam mengoptimalkan pemu
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
-nav: Inovasi
+nav: Pemupukan
 image: pemupukan.jpg
 ---
 

@@ -6,7 +6,7 @@ desk: "Dengan pendekatan teknis yang matang, petani jagung dapat meningkatkan ha
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
-nav: Inovasi
+nav: Ketahanan Pangan
 image: jagung_kuning.jpg
 ---
 

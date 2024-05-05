@@ -6,7 +6,7 @@ desk: "Temukan strategi bisnis penting yang dapat meningkatkan produksi kedelai 
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
-nav: Inovasi
+nav: Strategi
 image: produksi_kedelai.jpg
 ---
 
