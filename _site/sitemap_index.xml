@@ -12,6 +12,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/menggali-peluang-bisnis-di-dunia-pertanian-panduan-praktis-dan-manajemen-agroindustri</loc>
+    <lastmod>2024-05-06</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-optimalisasi-pemupukan-untuk-sayuran-di-lahan-suboptimal</loc>
     <lastmod>2024-05-05</lastmod>
   </sitemap>
