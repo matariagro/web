@@ -1,9 +1,10 @@
 ---
 layout: post
 title: "Inovasi Teknologi Pertanian: Membawa Revolusi dalam Peningkatan Produktivitas"
-subtitle: Artikel
-nav: Artikel
+keyword: "pertanian, peluang usaha, manajemen agroindustri, karakteristik usaha, potensi pertanian, Matari Agro Indonesia, konsultasi pertanian, pelatihan pertanian"
 desk: "Teknologi telah menjadi kunci dalam memajukan sektor pertanian, membawa perubahan yang signifikan dalam meningkatkan produktivitas dan efisiensi"
+subtitle: Artikel
+nav: Inovasi
 image: panen_padi.jpg
 ---
 
