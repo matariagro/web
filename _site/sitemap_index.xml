@@ -2,6 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pemanfaatan-data-big-data-dalam-meningkatkan-produktivitas-pertanian-solusi-akurat-dan-efisien</loc>
+    <lastmod>2024-05-09</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-dengan-teknologi-sensor-menuju-pertanian-presisi-yang-efisien</loc>
+    <lastmod>2024-05-09</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-dengan-sistem-pemantauan-tanaman-berbasis-iot</loc>
+    <lastmod>2024-05-09</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-efisiensi-pertanian-dengan-penggunaan-drone-kasus-studi-di-perkebunan</loc>
+    <lastmod>2024-05-09</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/pupuk-biochar-meningkatkan-hasil-jagung-dengan-solusi-pertanian-inovatif</loc>
     <lastmod>2024-05-06</lastmod>
   </sitemap>
@@ -661,6 +681,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page8/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page9/</loc>
       <lastmod></lastmod>
     </sitemap>
   

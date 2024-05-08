@@ -1,6 +1,46 @@
 [
   
   {
+    "title"    : "Pemanfaatan Data Big Data dalam Meningkatkan Produktivitas Pertanian, Solusi Akurat dan Efisien",
+    "image"    : "/img/jagung_drone.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, jagung, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pemanfaatan-data-big-data-dalam-meningkatkan-produktivitas-pertanian-solusi-akurat-dan-efisien",
+    "date"     : "2024-05-09 00:00:00 +0700",
+    "desc"     : "Pertanian modern semakin mengandalkan teknologi untuk meningkatkan efisiensi dan produktivitas. Salah satu inovasi terbaru yang telah mengubah lanskap pertanian adalah pemanfaatan data big data. Dalam artikel ini, kita akan menjelajahi bagaimana data big data telah menjadi alat yang penting dalam pengambilan keputusan pertanian yang lebih akurat dan efisien."
+    } ,
+    
+  {
+    "title"    : "Meningkatkan Produktivitas Pertanian dengan Teknologi Sensor, Menuju Pertanian Presisi yang Efisien",
+    "image"    : "/img/jagung_iot.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, jagung, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/meningkatkan-produktivitas-pertanian-dengan-teknologi-sensor-menuju-pertanian-presisi-yang-efisien",
+    "date"     : "2024-05-09 00:00:00 +0700",
+    "desc"     : "Teknologi sensor telah menjadi tonggak penting dalam dunia pertanian modern. Dengan kemampuannya untuk memberikan data secara real-time tentang kondisi tanah, tanaman, dan lingkungan, teknologi sensor memungkinkan para petani untuk mengoptimalkan penggunaan sumber daya dan meningkatkan hasil panen mereka. Salah satu konsep yang muncul dari pemanfaatan teknologi sensor ini adalah pertanian presisi, di mana setiap langkah dalam proses pertanian dapat disesuaikan secara individual berdasarkan informasi yang diberikan oleh sensor."
+    } ,
+    
+  {
+    "title"    : "Meningkatkan Produktivitas Pertanian dengan Sistem Pemantauan Tanaman Berbasis IoT",
+    "image"    : "/img/jagung_presisi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, jagung, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/meningkatkan-produktivitas-pertanian-dengan-sistem-pemantauan-tanaman-berbasis-iot",
+    "date"     : "2024-05-09 00:00:00 +0700",
+    "desc"     : "Pertanian modern semakin mengandalkan teknologi untuk meningkatkan efisiensi dan produktivitas. Salah satu inovasi terbaru yang telah membawa perubahan signifikan dalam cara petani mengelola pertanian mereka adalah penerapan sistem pemantauan tanaman berbasis Internet of Things (IoT). Dengan menggunakan sensor dan perangkat terhubung, sistem ini memungkinkan petani untuk memantau kondisi tanaman secara real-time dan mengambil tindakan yang diperlukan untuk mengoptimalkan pertumbuhan dan hasil panen."
+    } ,
+    
+  {
+    "title"    : "Meningkatkan Efisiensi Pertanian dengan Penggunaan Drone, Kasus Studi di Perkebunan",
+    "image"    : "/img/drone_perkebunan.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, jagung, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/meningkatkan-efisiensi-pertanian-dengan-penggunaan-drone-kasus-studi-di-perkebunan",
+    "date"     : "2024-05-09 00:00:00 +0700",
+    "desc"     : "Pertanian modern semakin mengadopsi teknologi canggih untuk meningkatkan efisiensi dan produktivitas. Salah satu teknologi terbaru yang telah membawa perubahan besar dalam industri pertanian adalah penggunaan drone dalam pemetaan dan pemantauan pertanian. Dalam studi kasus di perkebunan, penggunaan drone telah membawa manfaat yang signifikan bagi petani, membantu mereka mengoptimalkan operasi pertanian mereka."
+    } ,
+    
+  {
     "title"    : "Pupuk Biochar, Meningkatkan Hasil Jagung dengan Solusi Pertanian Inovatif",
     "image"    : "/img/biochar.jpg",    
     "category" : "Inovasi",

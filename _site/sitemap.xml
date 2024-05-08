@@ -3,6 +3,54 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/pemanfaatan-data-big-data-dalam-meningkatkan-produktivitas-pertanian-solusi-akurat-dan-efisien</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-09</news:publication_date>
+                <news:title>Pemanfaatan Data Big Data dalam Meningkatkan Produktivitas Pertanian, Solusi Akurat dan Efisien</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-dengan-teknologi-sensor-menuju-pertanian-presisi-yang-efisien</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-09</news:publication_date>
+                <news:title>Meningkatkan Produktivitas Pertanian dengan Teknologi Sensor, Menuju Pertanian Presisi yang Efisien</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-produktivitas-pertanian-dengan-sistem-pemantauan-tanaman-berbasis-iot</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-09</news:publication_date>
+                <news:title>Meningkatkan Produktivitas Pertanian dengan Sistem Pemantauan Tanaman Berbasis IoT</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/meningkatkan-efisiensi-pertanian-dengan-penggunaan-drone-kasus-studi-di-perkebunan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-09</news:publication_date>
+                <news:title>Meningkatkan Efisiensi Pertanian dengan Penggunaan Drone, Kasus Studi di Perkebunan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/pupuk-biochar-meningkatkan-hasil-jagung-dengan-solusi-pertanian-inovatif</loc>
         <news:news>
             <news:publication>
