@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/seleksi-galur-murni-padi-sri-kawung-hasil-pemuliaan-petani-di-wonosobo</loc>
+    <lastmod>2024-05-11</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/sistem-ai-canggih-mengatasi-ancaman-hama-dan-penyakit-pada-tanaman</loc>
     <lastmod>2024-05-10</lastmod>
   </sitemap>
