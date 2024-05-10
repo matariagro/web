@@ -1,6 +1,16 @@
 [
   
   {
+    "title"    : "Sistem AI Canggih Mengatasi Ancaman Hama dan Penyakit pada Tanaman",
+    "image"    : "/img/ai_pertanian.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, ekspor, hilirisasi, transpalanter, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/sistem-ai-canggih-mengatasi-ancaman-hama-dan-penyakit-pada-tanaman",
+    "date"     : "2024-05-10 00:00:00 +0700",
+    "desc"     : "Serangan hama dan penyakit merupakan ancaman serius bagi hasil panen di sektor pertanian. Di PT Matari Agro Indonesia, upaya besar telah dilakukan untuk mengurangi kerugian hasil panen dengan menerapkan sistem pengendalian hama dan penyakit berbasis kecerdasan buatan (AI)."
+    } ,
+    
+  {
     "title"    : "Meningkatkan Prediksi Produksi dan Pemilihan Varietas Unggul dengan Teknologi Pembelajaran Mesin",
     "image"    : "/img/transplanter.jpg",    
     "category" : "Inovasi",
