@@ -16,14 +16,14 @@ Padi, sebagai tanaman pangan utama di dunia, memiliki peran krusial dalam memenu
    - Keterlibatan petani dan pemulia dalam pemuliaan tanaman padi memungkinkan pemecahan masalah kesesuaian tanaman dengan lingkungan target.
    - Petani mengenali preferensi pengguna, menentukan tujuan, dan prioritas pemuliaan.
    - Sumber daya genetik yang diperlukan disediakan secara efisien.
-   - Pemilihan galur dan komersialisasi benih dari varietas terpilih dilakukan di lahan petani¹.
+   - Pemilihan galur dan komersialisasi benih dari varietas terpilih dilakukan di lahan petani.
 
 2. **Penggalangan Petani untuk Varietas Unggul Baru (VUB)**:
    - Penyebaran pemakaian benih varietas unggul baru yang bermutu dan berlabel dengan tingkat produktivitas tinggi.
-   - Varietas unggul menjadi andalan utama untuk meningkatkan produksi padi².
+   - Varietas unggul menjadi andalan utama untuk meningkatkan produksi padi.
 
 3. **Pemuliaan Padi Gogo Adaptif pada Lahan Kering**:
-   - Program pemuliaan padi gogo bertujuan merakit varietas yang toleran terhadap berbagai cekaman abiotik seperti kemasaman tanah, defisiensi hara, keracunan aluminium, kekeringan, intensitas cahaya rendah, dan suhu rendah³.
+   - Program pemuliaan padi gogo bertujuan merakit varietas yang toleran terhadap berbagai cekaman abiotik seperti kemasaman tanah, defisiensi hara, keracunan aluminium, kekeringan, intensitas cahaya rendah, dan suhu rendah.
 
 4. **Skenario Kebijakan Pembangunan Wilayah Pertanian Padi Berkelanjutan**:
    - Kebijakan melibatkan penguatan kelembagaan, transformasi teknologi, efisiensi logistik, jaminan sosial, dan peningkatan produktivitas lahan yang ramah lingkungan.
