@@ -7,6 +7,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pemuliaan-tanaman-partisipatif-meningkatkan-varietas-padi-unggul-untuk-swasembada-pangan</loc>
+    <lastmod>2024-05-11</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/pelatihan-petani-digital-membangun-kapasitas-dan-keterampilan-di-era-pertanian-4-0-untuk-keberlanjutan-bisnis</loc>
     <lastmod>2024-05-11</lastmod>
   </sitemap>

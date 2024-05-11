@@ -15,6 +15,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/pemuliaan-tanaman-partisipatif-meningkatkan-varietas-padi-unggul-untuk-swasembada-pangan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-11</news:publication_date>
+                <news:title>Pemuliaan Tanaman Partisipatif: Meningkatkan Varietas Padi Unggul untuk Swasembada Pangan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/pelatihan-petani-digital-membangun-kapasitas-dan-keterampilan-di-era-pertanian-4-0-untuk-keberlanjutan-bisnis</loc>
         <news:news>
             <news:publication>

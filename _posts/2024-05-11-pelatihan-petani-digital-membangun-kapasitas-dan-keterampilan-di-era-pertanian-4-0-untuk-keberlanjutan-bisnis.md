@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Pelatihan Petani Digital: Membangun Kapasitas dan Keterampilan di Era Pertanian 4.0 untuk Keberlanjutan Bisnis"
-keyword: "Ppelatihan petani, digitalisasi pertanian, Era Pertanian 4.0, keberlanjutan bisnis, Pertanian Modern, PT Matari Agro Indonesia"
+keyword: "Pelatihan petani, digitalisasi pertanian, Era Pertanian 4.0, keberlanjutan bisnis, Pertanian Modern, PT Matari Agro Indonesia"
 desk: "Ikuti artikel ini untuk mengetahui bagaimana PT Matari Agro Indonesia memberdayakan petani melalui pelatihan digital untuk menghadapi tantangan dan memanfaatkan peluang di Era Pertanian 4.0, mendorong keberlanjutan bisnis pertanian."
 category: Inovasi
-tags: pertanian inovatif ekspor hilirisasi transpalanter regenerasi konsultan ketahanan pangan
+tags: pertanian inovatif ekspor hilirisasi digitalisasi regenerasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Digitalisasi
 image: petani_digital.jpeg
