@@ -30,3 +30,5 @@ Berikut beberapa poin penting terkait pemuliaan tanaman padi:
    - Dengan menerapkan teknologi modern dan kesadaran akan pentingnya konservasi keanekaragaman genetik padi, kita dapat menghadapi tantangan masa depan dalam ketahanan pangan dengan lebih baik.
 
 Masa depan pertanian sangat tergantung pada upaya pemuliaan tanaman yang berkelanjutan dan berorientasi pada kebutuhan petani serta keberlanjutan lingkungan. Dengan memperkuat kerjasama antara petani, pemulia, dan pemegang kebijakan, kita dapat meningkatkan peran varietas padi unggul dalam mendukung swasembada pangan nasional.
+
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
