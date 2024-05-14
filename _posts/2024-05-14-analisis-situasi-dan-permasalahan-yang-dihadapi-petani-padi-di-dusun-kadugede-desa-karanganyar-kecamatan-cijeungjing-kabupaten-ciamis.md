@@ -14,8 +14,8 @@ image: karanganyar_ciamis.jpg
 Dusun Kadugede, Desa Karanganyar, Kecamatan Cijeungjing di Kabupaten Ciamis adalah salah satu daerah yang mengandalkan pertanian padi sebagai sumber utama mata pencaharian. Namun, petani di daerah ini sering mengalami gagal panen yang disebabkan oleh serangan hama dan penyakit tanaman. Berikut adalah analisis situasi terkini dan permasalahan yang dihadapi:
 
 1. **Serangan Hama dan Penyakit**:
-   - **Hama**: Hama utama yang sering menyerang tanaman padi di daerah ini antara lain wereng batang coklat (Nilaparvata lugens), penggerek batang padi (Scirpophaga incertulas), dan tikus sawah (Rattus argentiventer).
-   - **Penyakit**: Penyakit yang sering menyerang meliputi blas (Magnaporthe grisea), hawar daun bakteri (Xanthomonas oryzae pv. oryzae), dan tungro (Rice tungro bacilliform virus).
+   - **Hama**: Hama utama yang sering menyerang tanaman padi di daerah ini antara lain wereng batang coklat (_Nilaparvata lugens_), penggerek batang padi (_Scirpophaga incertulas_), dan tikus sawah (_Rattus argentiventer_).
+   - **Penyakit**: Penyakit yang sering menyerang meliputi blas (_Magnaporthe grisea_), hawar daun bakteri (_Xanthomonas oryzae pv. oryzae_), dan tungro (Rice tungro bacilliform virus).
 
 2. **Faktor Lingkungan**:
    - **Kondisi Cuaca**: Perubahan iklim dengan curah hujan yang tidak menentu serta musim kemarau yang berkepanjangan atau intensitas hujan yang tinggi mempengaruhi pertumbuhan tanaman dan penyebaran hama serta penyakit.
@@ -33,7 +33,7 @@ Dusun Kadugede, Desa Karanganyar, Kecamatan Cijeungjing di Kabupaten Ciamis adal
 
 Untuk menangani dan mengelola permasalahan ini secara bertahap, berikut adalah beberapa langkah strategis yang dapat diambil:
 
-1. **Peningkatan Pengendalian Hama dan Penyakit Secara Terpadu (Integrated Pest Management/IPM)**:
+1. **Peningkatan Pengendalian Hama dan Penyakit Secara Terpadu (_Integrated Pest Management/IPM_)**:
    - **Identifikasi dan Monitoring**: Melakukan identifikasi dan monitoring secara rutin terhadap hama dan penyakit untuk mengetahui jenis dan tingkat serangannya.
    - **Penggunaan Agen Hayati**: Menggunakan musuh alami hama seperti predator, parasitoid, dan patogen untuk mengurangi populasi hama.
    - **Pola Tanam Rotasi**: Menerapkan pola tanam rotasi dan penggunaan varietas padi tahan hama dan penyakit.
