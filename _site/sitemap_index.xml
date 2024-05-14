@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/optimalisasi-pengendalian-hama-dan-penyakit-kunci-keberhasilan-produksi-padi-di-indonesia</loc>
+    <lastmod>2024-05-14</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/optimalisasi-irigasi-kunci-utama-meningkatkan-produksi-padi-di-tengah-ketidakpastian-iklim</loc>
     <lastmod>2024-05-14</lastmod>
   </sitemap>
@@ -743,6 +748,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page9/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page10/</loc>
       <lastmod></lastmod>
     </sitemap>
   
