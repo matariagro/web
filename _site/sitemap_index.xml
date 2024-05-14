@@ -12,6 +12,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/meningkatkan-produksi-padi-melalui-penggunaan-benih-berkualitas-tinggi</loc>
+    <lastmod>2024-05-14</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/analisis-situasi-dan-permasalahan-yang-dihadapi-petani-padi-di-dusun-kadugede-desa-karanganyar-kecamatan-cijeungjing-kabupaten-ciamis</loc>
     <lastmod>2024-05-14</lastmod>
   </sitemap>

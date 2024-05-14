@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Optimalisasi Pengendalian Hama dan Penyakit: Kunci Keberhasilan Produksi Padi di Indonesia"
-keyword: "pengendalian hama terpadu, produksi padi, serangan hama wereng, penyakit blas, PT Matari Agro Indonesia, varietas padi tahan hama, pestisida ramah lingkungan, fungisida ramah lingkungan, solusi pertanian, pelatihan pertanian, PT Matari Agro Indonesia"
+keyword: "pengendalian hama terpadu, produksi padi, serangan hama wereng, penyakit blas, PT Matari Agro Indonesia, varietas padi tahan hama, pestisida ramah lingkungan, fungisida ramah lingkungan, solusi pertanian, pelatihan pertanian"
 desk: "PT Matari Agro Indonesia menawarkan solusi pengendalian hama dan penyakit tanaman padi melalui metode pengendalian hama terpadu (IPM), penggunaan varietas padi tahan hama dan penyakit, serta pestisida dan fungisida ramah lingkungan untuk meningkatkan produksi padi"
 category: Inovasi
 tags: pertanian inovatif ekspor hilirisasi hama penyakit padi regenerasi konsultan ketahanan pangan
