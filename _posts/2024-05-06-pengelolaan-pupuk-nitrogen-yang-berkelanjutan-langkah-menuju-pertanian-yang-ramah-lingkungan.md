@@ -10,7 +10,7 @@ nav: Pemupukan
 image: pupuk_nitrogen.jpg
 ---
 
-Pada tahun 2022, penelitian yang dipimpin oleh Menegat dan rekan membuka mata terhadap jejak lingkungan yang dihasilkan dari produksi, transportasi, dan penggunaan pupuk nitrogen sintetis secara global. Analisis mendalam menyoroti dampak besar rantai pasok pupuk nitrogen sintetis terhadap emisi nitrogen dioksida (N2O) dan gas rumah kaca (GHG) secara keseluruhan, menempatkannya sebagai salah satu penyumbang utama beban karbon dunia. Hasil penelitian ini menegaskan perlunya tindakan proaktif untuk mengelola nitrogen secara berkelanjutan dalam pertanian.
+Pada tahun 2022, penelitian yang dipimpin oleh Menegat dan rekan dari University of Turin, Italy membuka mata terhadap jejak lingkungan yang dihasilkan dari produksi, transportasi, dan penggunaan pupuk nitrogen sintetis secara global. Analisis mendalam menyoroti dampak besar rantai pasok pupuk nitrogen sintetis terhadap emisi nitrogen dioksida (N2O) dan gas rumah kaca (GHG) secara keseluruhan, menempatkannya sebagai salah satu penyumbang utama beban karbon dunia. Hasil penelitian ini menegaskan perlunya tindakan proaktif untuk mengelola nitrogen secara berkelanjutan dalam pertanian.
 
 Artikel ini menyoroti poin-poin penting dari penelitian tersebut, membahas tantangan dan strategi menuju pengelolaan nitrogen yang lebih berkelanjutan. Dengan fokus pada peningkatan efisiensi pemakaian nitrogen, praktik fiksasi nitrogen biologis, manajemen limbah ternak, dan optimalisasi potensi mikrobioma tanah, artikel ini menawarkan pandangan komprehensif terhadap upaya menjaga keberlanjutan lingkungan dalam pertanian.
 
