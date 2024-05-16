@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/transformasi-agritech-meningkatkan-produktivitas-pertanian-dengan-teknologi-modern</loc>
+    <lastmod>2024-05-16</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/membangun-masa-depan-pertanian-indonesia-melalui-pertanian-berkelanjutan-dan-organik</loc>
     <lastmod>2024-05-16</lastmod>
   </sitemap>

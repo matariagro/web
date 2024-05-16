@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/transformasi-agritech-meningkatkan-produktivitas-pertanian-dengan-teknologi-modern</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-16</news:publication_date>
+                <news:title>Transformasi AgriTech: Meningkatkan Produktivitas Pertanian dengan Teknologi Modern</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/membangun-masa-depan-pertanian-indonesia-melalui-pertanian-berkelanjutan-dan-organik</loc>
         <news:news>
             <news:publication>
