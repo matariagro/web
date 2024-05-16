@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/membangun-masa-depan-pertanian-indonesia-melalui-pertanian-berkelanjutan-dan-organik</loc>
+    <lastmod>2024-05-16</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/membangun-ketahanan-pangan-melalui-produksi-sayuran-organik-dan-sehat</loc>
+    <lastmod>2024-05-16</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/optimalisasi-pengendalian-hama-dan-penyakit-kunci-keberhasilan-produksi-padi-di-indonesia</loc>
     <lastmod>2024-05-14</lastmod>
   </sitemap>
