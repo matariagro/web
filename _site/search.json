@@ -31,6 +31,16 @@
     } ,
     
   {
+    "title"    : "Adaptasi Pertanian Terhadap Perubahan Iklim: Mengoptimalkan Varian Tanaman dan Faktor-faktor Pendukung",
+    "image"    : "/img/dampak_perubahan_iklim.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, intermiten, padi, perubahan, iklim, rendah, emisi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/adaptasi-pertanian-terhadap-perubahan-iklim-mengoptimalkan-varian-tanaman-dan-faktor-faktor-pendukung",
+    "date"     : "2024-05-22 00:00:00 +0700",
+    "desc"     : "Salah satu tantangan besar dalam pertanian adalah pengelolaan air, terutama di lahan sawah, di mana penggunaan air yang berlebihan dapat menyebabkan masalah lingkungan seperti peningkatan emisi gas metana. Untuk mengatasi hal ini, PT Matari Agro Indonesia mendorong penggunaan teknologi irigasi berselang, atau yang dikenal sebagai intermittent irrigation. Teknologi ini telah terbukti efektif dalam mengurangi emisi gas metana dari lahan sawah sambil tetap mempertahankan produktivitas tanaman."
+    } ,
+    
+  {
     "title"    : "Transformasi AgriTech: Meningkatkan Produktivitas Pertanian dengan Teknologi Modern",
     "image"    : "/img/padi_iot.jpeg",    
     "category" : "Inovasi",

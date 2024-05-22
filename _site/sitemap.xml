@@ -39,6 +39,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/adaptasi-pertanian-terhadap-perubahan-iklim-mengoptimalkan-varian-tanaman-dan-faktor-faktor-pendukung</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-22</news:publication_date>
+                <news:title>Adaptasi Pertanian Terhadap Perubahan Iklim: Mengoptimalkan Varian Tanaman dan Faktor-faktor Pendukung</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/transformasi-agritech-meningkatkan-produktivitas-pertanian-dengan-teknologi-modern</loc>
         <news:news>
             <news:publication>

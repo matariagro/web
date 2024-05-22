@@ -17,6 +17,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/adaptasi-pertanian-terhadap-perubahan-iklim-mengoptimalkan-varian-tanaman-dan-faktor-faktor-pendukung</loc>
+    <lastmod>2024-05-22</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/transformasi-agritech-meningkatkan-produktivitas-pertanian-dengan-teknologi-modern</loc>
     <lastmod>2024-05-16</lastmod>
   </sitemap>
