@@ -91,4 +91,4 @@ Optimalisasi irigasi merupakan kunci utama untuk meningkatkan produksi padi di I
 
 Untuk informasi lebih lanjut mengenai layanan konsultasi dan pelatihan irigasi, serta solusi pertanian lainnya, kunjungi situs resmi PT Matari Agro Indonesia. Bersama-sama, kita bisa menghadapi tantangan perubahan iklim dan memastikan masa depan pertanian yang lebih baik.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

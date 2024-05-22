@@ -62,4 +62,4 @@ Edukasi masyarakat tentang manfaat gizi dan kesehatan yang terkandung dalam kede
 
 Dengan mengimplementasikan strategi-strategi ini, diharapkan produksi kedelai di Indonesia dapat meningkat secara signifikan, menciptakan ketahanan pangan yang lebih baik, dan mengurangi ketergantungan pada impor.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

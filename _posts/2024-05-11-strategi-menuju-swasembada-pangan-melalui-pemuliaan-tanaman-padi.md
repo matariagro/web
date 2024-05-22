@@ -30,4 +30,4 @@ Padi, sebagai tanaman pangan utama di dunia, memiliki peran krusial dalam memenu
 
 Dengan menggabungkan strategi pemuliaan tanaman yang berkelanjutan dan berorientasi pada kebutuhan petani serta keberlanjutan lingkungan, kita dapat memastikan peran varietas padi unggul dalam mendukung swasembada pangan nasional.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

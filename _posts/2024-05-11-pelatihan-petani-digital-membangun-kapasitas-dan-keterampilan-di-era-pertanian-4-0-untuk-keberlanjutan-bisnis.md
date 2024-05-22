@@ -24,4 +24,4 @@ Sebagai bagian dari upaya untuk memastikan keberlanjutan bisnis pertanian, pelat
 
 Dengan mengadopsi teknologi digital dan memperkuat keterampilan petani di Era Pertanian 4.0, PT Matari Agro Indonesia tidak hanya membantu petani untuk tetap relevan dalam industri yang terus berubah, tetapi juga memastikan keberlanjutan bisnis pertanian jangka panjang.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

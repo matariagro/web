@@ -40,4 +40,4 @@ Tanaman kubis bisa dipanen setelah berumur 75 hingga 90 hari setelah tanam. Guna
 
 Dengan mengikuti panduan ini, Anda dapat menikmati panen kubis yang melimpah dan berkualitas tinggi, baik untuk konsumsi pribadi maupun untuk dijual. Budidaya kubis juga dapat menjadi salah satu alternatif usaha yang menjanjikan dengan kebutuhan pasar yang terus meningkat.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

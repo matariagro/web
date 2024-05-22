@@ -43,4 +43,4 @@ Buncis baby, atau sering disebut juga dengan buncis muda, merupakan salah satu j
 
 Dengan mengikuti panduan lengkap budidaya buncis baby ini, Anda dapat menghasilkan panen yang melimpah dengan kualitas terbaik. Budidaya buncis baby juga dapat menjadi peluang usaha yang menjanjikan dengan permintaan pasar yang terus meningkat.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

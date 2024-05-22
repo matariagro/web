@@ -22,4 +22,4 @@ Dalam konteks ini, layanan konsultan dan pelatihan yang disediakan oleh perusaha
 
 Oleh karena itu, melalui sinergi antara pemerintah, stakeholder industri, dan perusahaan konsultan seperti PT Matari Agro Indonesia, diharapkan sektor pertanian Indonesia akan terus berkembang menuju arah yang lebih berkelanjutan dan berdaya saing tinggi di pasar global.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!

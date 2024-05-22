@@ -30,4 +30,4 @@ Beras adalah makanan pokok yang sangat penting bagi lebih dari 50% penduduk duni
 
 10. **Kamboja:** Hampir seluruh angkatan kerja di Kamboja bekerja di sektor pertanian, dengan sekitar 8 juta hektar lahan yang sepenuhnya didedikasikan untuk pertanian padi. Produksi beras memainkan peran penting dalam ekonomi dan kehidupan sehari-hari masyarakat Kamboja.
 
-Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasi, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
+Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang paling terjangkau dan ramah petani di Indonesia. Kami menyediakan layanan konsultasi pertanian kelas atas di seluruh negeri dengan bantuan tim yang beragam dari ilmuwan, ahli operasional, dan teknologi. Jika Anda mencari pengembalian investasi yang lebih baik untuk investasi pertanian Anda, hubungi tim Matari Agro Indonesia hari ini!
