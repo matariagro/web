@@ -1,6 +1,36 @@
 [
   
   {
+    "title"    : "Strategi Menerapkan Teknologi Irigasi Berselang untuk Pertanian Berkelanjutan",
+    "image"    : "/img/irigasi_interminten.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, intermiten, padi, perubahan, iklim, rendah, emisi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/strategi-menerapkan-teknologi-irigasi-berselang-untuk-pertanian-berkelanjutan",
+    "date"     : "2024-05-22 00:00:00 +0700",
+    "desc"     : "Salah satu tantangan besar dalam pertanian adalah pengelolaan air, terutama di lahan sawah, di mana penggunaan air yang berlebihan dapat menyebabkan masalah lingkungan seperti peningkatan emisi gas metana. Untuk mengatasi hal ini, PT Matari Agro Indonesia mendorong penggunaan teknologi irigasi berselang, atau yang dikenal sebagai intermittent irrigation. Teknologi ini telah terbukti efektif dalam mengurangi emisi gas metana dari lahan sawah sambil tetap mempertahankan produktivitas tanaman."
+    } ,
+    
+  {
+    "title"    : "Mengoptimalkan Pertanian Melalui Varietas Padi Rendah Emisi",
+    "image"    : "/img/padi_rendah_emisi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, hilirisasi, padi, perubahan, iklim, rendah, emisi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/mengoptimalkan-pertanian-melalui-varietas-padi-rendah-emisi",
+    "date"     : "2024-05-22 00:00:00 +0700",
+    "desc"     : "Dalam menghadapi tantangan perubahan iklim, pertanian menjadi salah satu sektor yang harus beradaptasi dengan cepat dan efisien. Salah satu langkah kunci yang dapat diambil adalah memilih varietas padi yang menghasilkan emisi gas metana yang lebih rendah. PT Matari Agro Indonesia telah mengidentifikasi sejumlah varietas padi yang memiliki potensi untuk mengurangi dampak lingkungan, sambil tetap menjaga produktivitas dan kualitas hasil panen."
+    } ,
+    
+  {
+    "title"    : "Membangun Pertanian Adaptif: Strategi Perubahan Iklim dan Inovasi Meningkatkan Produksi Pertanian",
+    "image"    : "/img/perubahan_iklim.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, hilirisasi, padi, perubahan, iklim, regenerasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/membangun-pertanian-adaptif-strategi-perubahan-iklim-dan-inovasi-meningkatkan-produksi-pertanian",
+    "date"     : "2024-05-22 00:00:00 +0700",
+    "desc"     : "Dalam menghadapi tantangan perubahan iklim dan kebutuhan akan praktik pertanian yang lebih berkelanjutan, PT Matari Agro Indonesia hadir dengan solusi berupa layanan konsultan dan pusat pelatihan pertanian. Layanan ini tidak hanya bertujuan untuk meningkatkan produktivitas pertanian tetapi juga mengurangi dampak negatif terhadap lingkungan. Sasaran kami mencakup individu yang peduli terhadap bidang pertanian, perusahaan pertanian dan perkebunan, serta pemerintah daerah di seluruh Indonesia."
+    } ,
+    
+  {
     "title"    : "Transformasi AgriTech: Meningkatkan Produktivitas Pertanian dengan Teknologi Modern",
     "image"    : "/img/padi_iot.jpeg",    
     "category" : "Inovasi",
