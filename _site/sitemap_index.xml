@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-pengembangan-menuju-pertanian-berkelanjutan-di-indonesia</loc>
+    <lastmod>2024-05-23</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-menerapkan-teknologi-irigasi-berselang-untuk-pertanian-berkelanjutan</loc>
     <lastmod>2024-05-22</lastmod>
   </sitemap>
