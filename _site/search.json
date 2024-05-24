@@ -1,6 +1,46 @@
 [
   
   {
+    "title"    : "Pertanian Perkotaan: Mengubah Ruang Terbatas Menjadi Kebun Hijau yang Produktif",
+    "image"    : "/img/pertanian_kota.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, digital, sayuran, perkotaan, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pertanian-perkotaan-mengubah-ruang-terbatas-menjadi-kebun-hijau-yang-produktif",
+    "date"     : "2024-05-25 00:00:00 +0700",
+    "desc"     : "Pertanian perkotaan telah menjadi tren yang semakin populer di kalangan mereka yang tinggal di lingkungan perkotaan. Dengan ruang terbatas dan keterbatasan lahan, individu kreatif mengubah halaman belakang, atap bangunan, atau bahkan pot di dalam rumah menjadi kebun produktif yang menghasilkan berbagai jenis tanaman."
+    } ,
+    
+  {
+    "title"    : "Pengendalian Hama dan Penyakit Tanaman: Strategi Organik dan Penggunaan Pestisida dalam Pertanian Modern",
+    "image"    : "/img/opt_organik.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, digital, pengendalian, hama, penyakit, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pengendalian-hama-dan-penyakit-tanaman-strategi-organik-dan-penggunaan-pestisida-dalam-pertanian-modern",
+    "date"     : "2024-05-25 00:00:00 +0700",
+    "desc"     : "Pengendalian hama dan penyakit tanaman merupakan salah satu aspek terpenting dalam pertanian modern. Tantangan ini dapat menyebabkan kerugian besar bagi petani jika tidak ditangani dengan tepat. Oleh karena itu, ada kebutuhan yang meningkat untuk mengembangkan strategi yang efektif dalam pengendalian hama dan penyakit tanaman."
+    } ,
+    
+  {
+    "title"    : "Mengembangkan Potensi Hortikultura: Budidaya Sayuran, Buah-buahan, dan Tanaman Hias untuk Kebun dan Pertanian Perkotaan",
+    "image"    : "/img/sayuran_urban.png",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, digital, sayuran, perkotaan, konsultan, ketahanan, pangan",
+    "url"      : "/articles/mengembangkan-potensi-hortikultura-budidaya-sayuran-buah-buahan-dan-tanaman-hias-untuk-kebun-dan-pertanian-perkotaan",
+    "date"     : "2024-05-25 00:00:00 +0700",
+    "desc"     : "Budidaya tanaman hortikultura, termasuk sayuran, buah-buahan, dan tanaman hias, semakin menjadi sorotan dalam konteks kebun dan pertanian perkotaan. Tren ini tidak hanya didorong oleh minat yang semakin meningkat dalam pertanian urban, tetapi juga oleh kebutuhan akan sumber makanan lokal yang segar dan berkelanjutan."
+    } ,
+    
+  {
+    "title"    : "Inovasi Teknologi Pertanian: Meningkatkan Produktivitas dan Keberlanjutan di Era Digital",
+    "image"    : "/img/digital_farm.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, irigasi, digital, padi, perubahan, iklim, rendah, emisi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/inovasi-teknologi-pertanian-meningkatkan-produktivitas-dan-keberlanjutan-di-era-digital",
+    "date"     : "2024-05-25 00:00:00 +0700",
+    "desc"     : "Pertanian, sebagai tulang punggung ekonomi di banyak negara, terus menghadapi tekanan untuk meningkatkan produktivitas sambil memperhatikan keberlanjutan lingkungan. Dalam era digital saat ini, inovasi teknologi menjadi kunci untuk mencapai tujuan ini. Salah satu tren yang paling mencolok adalah penggunaan drone dalam pertanian."
+    } ,
+    
+  {
     "title"    : "Strategi Pengembangan Menuju Pertanian Berkelanjutan di Indonesia",
     "image"    : "/img/pertanian_berkelanjutan_indonesia.jpg",    
     "category" : "Inovasi",

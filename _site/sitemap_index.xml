@@ -2,6 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pertanian-perkotaan-mengubah-ruang-terbatas-menjadi-kebun-hijau-yang-produktif</loc>
+    <lastmod>2024-05-25</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/pengendalian-hama-dan-penyakit-tanaman-strategi-organik-dan-penggunaan-pestisida-dalam-pertanian-modern</loc>
+    <lastmod>2024-05-25</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/mengembangkan-potensi-hortikultura-budidaya-sayuran-buah-buahan-dan-tanaman-hias-untuk-kebun-dan-pertanian-perkotaan</loc>
+    <lastmod>2024-05-25</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-teknologi-pertanian-meningkatkan-produktivitas-dan-keberlanjutan-di-era-digital</loc>
+    <lastmod>2024-05-25</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-pengembangan-menuju-pertanian-berkelanjutan-di-indonesia</loc>
     <lastmod>2024-05-23</lastmod>
   </sitemap>
@@ -805,6 +825,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page10/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page11/</loc>
       <lastmod></lastmod>
     </sitemap>
   
