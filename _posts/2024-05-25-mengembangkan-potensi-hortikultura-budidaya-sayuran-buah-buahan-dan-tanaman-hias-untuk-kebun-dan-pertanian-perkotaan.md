@@ -29,3 +29,4 @@ Matari Agro Indonesia adalah salah satu perusahaan konsultan pertanian yang pali
 Referensi:
 
 [ResearchGate](https://www.researchgate.net/publication/364896351_Urban_Farming_Program_Pemanfaatan_Lingkungan_Untuk_Pengembangan_Pertanian_Perkotaan_di_Kota_Semarang)
+

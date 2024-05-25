@@ -37,3 +37,4 @@ Referensi:
 [Researchgate](https://www.researchgate.net/publication/339407099_Dampak_Penerapan_Teknologi_Budidaya_Terhadap_Kesejahteraan_Petani_Padi)
 
 [Scientific Information Database](https://www.sid.ir/paper/688129/en)
+
