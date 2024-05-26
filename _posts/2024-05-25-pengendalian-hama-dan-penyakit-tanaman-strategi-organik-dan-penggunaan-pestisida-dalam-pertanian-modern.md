@@ -2,7 +2,7 @@
 layout: post
 title: "Pengendalian Hama dan Penyakit Tanaman: Strategi Organik dan Penggunaan Pestisida dalam Pertanian Modern"
 keyword: "pengendalian hama dan penyakit tanaman, pertanian organik, pestisida, keberlanjutan pertanian, konsultan pertanian, pelatihan pertanian, PT Matari Agro Indonesia"
-desk: "rtikel ini membahas strategi pengendalian hama dan penyakit tanaman, baik secara organik maupun menggunakan pestisida, yang menjadi fokus utama bagi petani dan pecinta pertanian. Kami menjelaskan pendekatan yang berkelanjutan dalam mengatasi tantangan ini serta pentingnya konsultan pertanian dalam memberikan panduan yang tepat."
+desk: "Artikel ini membahas strategi pengendalian hama dan penyakit tanaman, baik secara organik maupun menggunakan pestisida, yang menjadi fokus utama bagi petani dan pecinta pertanian. Kami menjelaskan pendekatan yang berkelanjutan dalam mengatasi tantangan ini serta pentingnya konsultan pertanian dalam memberikan panduan yang tepat."
 category: Inovasi
 tags: pertanian inovatif organik ekspor irigasi digital pengendalian hama penyakit konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
