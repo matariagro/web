@@ -2,6 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pupuk-dan-nutrisi-tanaman-panduan-lengkap-untuk-memahami-jenis-manfaat-dan-penggunaan-yang-efektif</loc>
+    <lastmod>2024-05-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/mengolah-hasil-pertanian-langkah-langkah-menuju-produk-siap-jual-yang-menarik</loc>
+    <lastmod>2024-05-26</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/menggali-lebih-dalam-tentang-pertanian-organik-pendekatan-berkelanjutan-dalam-bercocok-tanam-tanpa-pestisida-dan-pupuk-kimia</loc>
+    <lastmod>2024-05-26</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/pertanian-perkotaan-mengubah-ruang-terbatas-menjadi-kebun-hijau-yang-produktif</loc>
     <lastmod>2024-05-25</lastmod>
   </sitemap>

@@ -1,6 +1,36 @@
 [
   
   {
+    "title"    : "Pupuk dan Nutrisi Tanaman: Panduan lengkap untuk Memahami Jenis, Manfaat, dan Penggunaan yang Efektif",
+    "image"    : "/img/nutrisi_tanaman.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, sayuran, nutrisi, pupuk, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pupuk-dan-nutrisi-tanaman-panduan-lengkap-untuk-memahami-jenis-manfaat-dan-penggunaan-yang-efektif",
+    "date"     : "2024-05-26 00:00:00 +0700",
+    "desc"     : "Pupuk dan nutrisi tanaman merupakan faktor kunci dalam meningkatkan pertumbuhan, kesehatan, dan produktivitas tanaman. Pupuk memberikan nutrisi yang diperlukan oleh tanaman untuk tumbuh dengan optimal, sementara nutrisi tanaman memastikan bahwa tanaman memiliki akses yang cukup terhadap unsur-unsur esensial untuk pertumbuhan yang sehat."
+    } ,
+    
+  {
+    "title"    : "Mengolah Hasil Pertanian: Langkah-langkah Menuju Produk Siap Jual yang Menarik",
+    "image"    : "/img/packing_sayur.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, olahan, sayuran, nutrisi, pupuk, konsultan, ketahanan, pangan",
+    "url"      : "/articles/mengolah-hasil-pertanian-langkah-langkah-menuju-produk-siap-jual-yang-menarik",
+    "date"     : "2024-05-26 00:00:00 +0700",
+    "desc"     : "Pengolahan hasil pertanian merupakan langkah penting dalam meningkatkan nilai tambah produk pertanian dan membuka peluang bisnis baru. Dengan mengolah hasil pertanian menjadi produk siap jual, petani dapat menambah nilai produk mereka dan menciptakan produk-produk yang menarik minat konsumen."
+    } ,
+    
+  {
+    "title"    : "Menggali Lebih Dalam tentang Pertanian Organik: Pendekatan Berkelanjutan dalam Bercocok Tanam tanpa Pestisida dan Pupuk Kimia",
+    "image"    : "/img/pertanian_organik_horti.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, sayuran, perkotaan, konsultan, ketahanan, pangan",
+    "url"      : "/articles/menggali-lebih-dalam-tentang-pertanian-organik-pendekatan-berkelanjutan-dalam-bercocok-tanam-tanpa-pestisida-dan-pupuk-kimia",
+    "date"     : "2024-05-26 00:00:00 +0700",
+    "desc"     : "Pertanian organik telah menjadi tren yang semakin populer di kalangan petani dan konsumen yang peduli terhadap kesehatan dan keberlanjutan lingkungan. Konsep dasar dari pertanian organik adalah bercocok tanam tanpa menggunakan pestisida, herbisida, atau pupuk kimia sintetis. Sebaliknya, teknik alami seperti kompos, pengomposan hijau, pupuk hijau, dan pengendalian hama dengan predator alami digunakan untuk menjaga keseimbangan ekosistem pertanian."
+    } ,
+    
+  {
     "title"    : "Pertanian Perkotaan: Mengubah Ruang Terbatas Menjadi Kebun Hijau yang Produktif",
     "image"    : "/img/pertanian_kota.jpg",    
     "category" : "Inovasi",

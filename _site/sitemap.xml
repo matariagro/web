@@ -3,6 +3,42 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/pupuk-dan-nutrisi-tanaman-panduan-lengkap-untuk-memahami-jenis-manfaat-dan-penggunaan-yang-efektif</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-26</news:publication_date>
+                <news:title>Pupuk dan Nutrisi Tanaman: Panduan lengkap untuk Memahami Jenis, Manfaat, dan Penggunaan yang Efektif</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/mengolah-hasil-pertanian-langkah-langkah-menuju-produk-siap-jual-yang-menarik</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-26</news:publication_date>
+                <news:title>Mengolah Hasil Pertanian: Langkah-langkah Menuju Produk Siap Jual yang Menarik</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/menggali-lebih-dalam-tentang-pertanian-organik-pendekatan-berkelanjutan-dalam-bercocok-tanam-tanpa-pestisida-dan-pupuk-kimia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-05-26</news:publication_date>
+                <news:title>Menggali Lebih Dalam tentang Pertanian Organik: Pendekatan Berkelanjutan dalam Bercocok Tanam tanpa Pestisida dan Pupuk Kimia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/pertanian-perkotaan-mengubah-ruang-terbatas-menjadi-kebun-hijau-yang-produktif</loc>
         <news:news>
             <news:publication>
