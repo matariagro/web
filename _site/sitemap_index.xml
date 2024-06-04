@@ -17,6 +17,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-meningkatkan-hasil-produksi-padi-dengan-manajemen-agribisnis-modern</loc>
+    <lastmod>2024-05-29</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/pupuk-dan-nutrisi-tanaman-panduan-lengkap-untuk-memahami-jenis-manfaat-dan-penggunaan-yang-efektif</loc>
     <lastmod>2024-05-26</lastmod>
   </sitemap>
