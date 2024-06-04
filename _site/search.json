@@ -11,6 +11,16 @@
     } ,
     
   {
+    "title"    : "Pengendalian Hama dan Penyakit pada Tanaman: Strategi Efektif untuk Mempertahankan Kesehatan Tanaman dan Meningkatkan Produktivitas",
+    "image"    : "/img/hama_wereng.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, ekspor, hama, penyakit, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pengendalian-hama-dan-penyakit-pada-tanaman-strategi-efektif-untuk-mempertahankan-kesehatan-tanaman-dan-meningkatkan-produktivitas",
+    "date"     : "2024-06-04 00:00:00 +0700",
+    "desc"     : "Pengendalian hama dan penyakit pada tanaman merupakan aspek penting dalam praktik pertanian yang berkelanjutan. Artikel ini bertujuan untuk memberikan wawasan mendalam tentang strategi efektif untuk mengatasi masalah ini, memberikan petani pengetahuan dan keterampilan yang diperlukan untuk menjaga kesehatan tanaman dan meningkatkan produktivitas pertanian."
+    } ,
+    
+  {
     "title"    : "Pemanfaatan Teknologi Digital dalam Transformasi Pertanian: Menyongsong Era Baru Produktivitas dan Keberlanjutan",
     "image"    : "/img/drone_pertanian.jpg",    
     "category" : "Inovasi",
@@ -24,7 +34,7 @@
     "title"    : "Budidaya Tanaman Hortikultura: Panduan Praktis untuk Sukses dalam Membudidayakan Sayuran, Buah-buahan, dan Bunga",
     "image"    : "/img/sayur_organik.jpg",    
     "category" : "Inovasi",
-    "tags"     : "pertanian, inovatif, organik, ekspor, sauyran, buah, bunga, konsultan, ketahanan, pangan",
+    "tags"     : "pertanian, inovatif, organik, ekspor, sayuran, buah, bunga, konsultan, ketahanan, pangan",
     "url"      : "/articles/budidaya-tanaman-hortikultura-panduan-praktis-untuk-sukses-dalam-membudidayakan-sayuran-buah-buahan-dan-bunga",
     "date"     : "2024-06-04 00:00:00 +0700",
     "desc"     : "Budidaya tanaman hortikultura, yang meliputi sayuran, buah-buahan, dan bunga, merupakan kegiatan yang menarik dan bermanfaat bagi petani dan pecinta alam. Artikel ini bertujuan untuk memberikan panduan praktis bagi mereka yang tertarik untuk sukses dalam budidaya tanaman hortikultura, dengan fokus pada teknik bertani yang efektif dan berkelanjutan."

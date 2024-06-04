@@ -4,7 +4,7 @@ title: "Budidaya Tanaman Hortikultura: Panduan Praktis untuk Sukses dalam Membud
 keyword: "Budidaya Tanaman Hortikultura, Tanaman Sayuran, Buah-buahan, Bunga, Teknik Bertani, Konsultan Pertanian, Pusat Pelatihan Pertanian, PT Matari Agro Indonesia"
 desk: "Artikel ini menawarkan panduan praktis bagi petani yang tertarik dalam budidaya tanaman hortikultura, termasuk sayuran, buah-buahan, dan bunga. Dengan fokus pada teknik bertani yang efektif, artikel ini akan membahas berbagai aspek budidaya tanaman hortikultura mulai dari persiapan lahan hingga perawatan tanaman"
 category: Inovasi
-tags: pertanian inovatif organik ekspor sauyran buah bunga konsultan ketahanan pangan
+tags: pertanian inovatif organik ekspor sayuran buah bunga konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sayur_organik.jpg
