@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-konsolidasi-lahan-dan-petani-di-indonesia-untuk-mendorong-industrialisasi-dan-hilirisasi-produksi-beras-terintegrasi</loc>
+    <lastmod>2024-06-05</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/penguatan-kelembagaan-petani-dalam-proses-hilirisasi-dan-modernisasi-pertanian-tanaman-padi</loc>
+    <lastmod>2024-06-05</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/teknik-bertani-modern-meningkatkan-produktivitas-dan-keberlanjutan-pertanian-melalui-inovasi-teknolog</loc>
     <lastmod>2024-06-04</lastmod>
   </sitemap>
@@ -877,6 +887,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page11/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page12/</loc>
       <lastmod></lastmod>
     </sitemap>
   
