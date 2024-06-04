@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/teknik-bertani-modern-meningkatkan-produktivitas-dan-keberlanjutan-pertanian-melalui-inovasi-teknolog</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-04</news:publication_date>
+                <news:title>Teknik Bertani Modern: Meningkatkan Produktivitas dan Keberlanjutan Pertanian Melalui Inovasi Teknologi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/pupuk-organik-solusi-ramah-lingkungan-untuk-pertanian-berkelanjutan</loc>
         <news:news>
             <news:publication>
