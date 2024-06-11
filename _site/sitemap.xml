@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-11</news:publication_date>
+                <news:title>Strategi Pengendalian Tungro pada Tanaman Padi untuk Pertanian Berkelanjutan</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/optimalisasi-pengendalian-hama-tanaman-padi-melalui-pemanfaatan-refugia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-11</news:publication_date>
+                <news:title>Optimalisasi Pengendalian Hama Tanaman Padi melalui Pemanfaatan Refugia</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/strategi-konsolidasi-lahan-dan-petani-di-indonesia-untuk-mendorong-industrialisasi-dan-hilirisasi-produksi-beras-terintegrasi</loc>
         <news:news>
             <news:publication>

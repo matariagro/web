@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Strategi Pengendalian Tungro pada Tanaman Padi untuk Pertanian Berkelanjutan",
+    "image"    : "/img/tungro.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, tungro, OPT, padi, beras, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan",
+    "date"     : "2024-06-11 00:00:00 +0700",
+    "desc"     : "Pertanian berkelanjutan merupakan kunci untuk menjaga ekosistem pertanian yang seimbang dan produktif. Salah satu ancaman utama terhadap tanaman padi di Indonesia adalah penyakit tungro, yang disebabkan oleh infeksi dua jenis virus, yaitu Rice tungro bacilliform virus (RTBV) dan Rice tungro spherical virus (RTSV), yang ditularkan oleh wereng hijau (Nephotettix virescens) secara semipersisten. Penyakit ini tidak hanya menurunkan produktivitas tetapi juga mempengaruhi kualitas hasil panen."
+    } ,
+    
+  {
+    "title"    : "Optimalisasi Pengendalian Hama Tanaman Padi melalui Pemanfaatan Refugia",
+    "image"    : "/img/refugia.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, refugia, OPT, padi, beras, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/optimalisasi-pengendalian-hama-tanaman-padi-melalui-pemanfaatan-refugia",
+    "date"     : "2024-06-11 00:00:00 +0700",
+    "desc"     : "Pertanian yang berkelanjutan menjadi kunci dalam menjaga ekosistem pertanian yang seimbang dan produktif. Dalam menghadapi serangan organisme pengganggu tanaman (OPT), pendekatan yang ramah lingkungan dan mengedepankan keberlanjutan ekosistem menjadi semakin penting. Salah satu konsep yang muncul dalam konteks ini adalah agroekologi, yang menekankan pentingnya menjaga keseimbangan alam dalam produksi tanaman budidaya."
+    } ,
+    
+  {
     "title"    : "Strategi Konsolidasi Lahan dan Petani di Indonesia untuk Mendorong Industrialisasi dan Hilirisasi Produksi Beras Terintegrasi",
     "image"    : "/img/rice_mill_unit.jpg",    
     "category" : "Inovasi",
