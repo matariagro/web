@@ -11,6 +11,16 @@
     } ,
     
   {
+    "title"    : "Solusi Pertanian Cerdas untuk Meningkatkan Produksi Beras di Tengah Perubahan Iklim",
+    "image"    : "/img/padi_iklim.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, tungro, OPT, padi, beras, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/solusi-pertanian-cerdas-untuk-meningkatkan-produksi-beras-di-tengah-perubahan-iklim",
+    "date"     : "2024-06-11 00:00:00 +0700",
+    "desc"     : "Produksi beras merupakan komponen penting bagi keamanan pangan global, terutama di negara-negara Asia yang menjadi penghasil utama beras dunia. Negara-negara seperti India, China, Indonesia, dan Thailand menyumbang sebagian besar produksi beras global, yang menjadi sumber pangan pokok bagi miliaran orang. Namun, produksi beras ini kini menghadapi berbagai tantangan yang signifikan, terutama akibat perubahan iklim yang mempengaruhi berbagai aspek pertanian. Tantangan ini mencakup peningkatan suhu, pola curah hujan yang tidak menentu, dan peningkatan frekuensi serta intensitas bencana alam seperti banjir dan kekeringan, yang semuanya berdampak negatif terhadap hasil panen dan produktivitas pertanian."
+    } ,
+    
+  {
     "title"    : "Optimalisasi Pengendalian Hama Tanaman Padi melalui Pemanfaatan Refugia",
     "image"    : "/img/refugia.jpg",    
     "category" : "Inovasi",
