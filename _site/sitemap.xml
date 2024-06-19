@@ -3,6 +3,30 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/strategi-pengelolaan-air-dalam-pertanian-cara-cara-efisien-untuk-mengelola-sumber-daya-air-di-lahan-pertanian</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-19</news:publication_date>
+                <news:title>Strategi Pengelolaan Air dalam Pertanian: Cara-cara Efisien untuk Mengelola Sumber Daya Air di Lahan Pertanian</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
+        <loc>http://localhost:4000/articles/dampak-perubahan-iklim-terhadap-pertanian-analisis-dan-langkah-langkah-adaptasi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-19</news:publication_date>
+                <news:title>Dampak Perubahan Iklim terhadap Pertanian: Analisis dan Langkah-Langkah Adaptasi</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan</loc>
         <news:news>
             <news:publication>

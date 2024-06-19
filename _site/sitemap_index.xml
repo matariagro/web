@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-pengelolaan-air-dalam-pertanian-cara-cara-efisien-untuk-mengelola-sumber-daya-air-di-lahan-pertanian</loc>
+    <lastmod>2024-06-19</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/dampak-perubahan-iklim-terhadap-pertanian-analisis-dan-langkah-langkah-adaptasi</loc>
+    <lastmod>2024-06-19</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan</loc>
     <lastmod>2024-06-11</lastmod>
   </sitemap>

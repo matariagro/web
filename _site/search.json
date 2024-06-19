@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Strategi Pengelolaan Air dalam Pertanian: Cara-cara Efisien untuk Mengelola Sumber Daya Air di Lahan Pertanian",
+    "image"    : "/img/sprinkler_padi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, irigasi, padi, beras, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/strategi-pengelolaan-air-dalam-pertanian-cara-cara-efisien-untuk-mengelola-sumber-daya-air-di-lahan-pertanian",
+    "date"     : "2024-06-19 00:00:00 +0700",
+    "desc"     : "Pengelolaan air yang efisien merupakan salah satu kunci keberhasilan pertanian modern, terutama dalam menghadapi tantangan perubahan iklim dan peningkatan kebutuhan pangan. PT Matari Agro Indonesia berkomitmen untuk mendukung para petani dengan berbagai strategi dan teknologi yang membantu mengelola sumber daya air secara optimal."
+    } ,
+    
+  {
+    "title"    : "Dampak Perubahan Iklim terhadap Pertanian: Analisis dan Langkah-Langkah Adaptasi",
+    "image"    : "/img/elnino_padi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, tungro, OPT, padi, beras, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/dampak-perubahan-iklim-terhadap-pertanian-analisis-dan-langkah-langkah-adaptasi",
+    "date"     : "2024-06-19 00:00:00 +0700",
+    "desc"     : "Perubahan iklim telah menjadi isu global yang tak terelakkan, mempengaruhi berbagai sektor, termasuk pertanian. Di Indonesia, sektor ini merupakan tulang punggung ekonomi yang sangat bergantung pada kondisi cuaca dan iklim. Menghadapi fenomena ini, PT Matari Agro Indonesia berkomitmen untuk mendukung sektor pertanian melalui layanan konsultasi dan pelatihan yang adaptif dan inovatif."
+    } ,
+    
+  {
     "title"    : "Strategi Pengendalian Tungro pada Tanaman Padi untuk Pertanian Berkelanjutan",
     "image"    : "/img/tungro.jpg",    
     "category" : "Inovasi",
