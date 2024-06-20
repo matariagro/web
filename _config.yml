@@ -5,12 +5,8 @@ permalink: /articles/:title
 
 plugins: ["jekyll-paginate", "jekyll-multiple-languages-plugin"]
 
-# Paginate
 paginate: 12
 paginate_path: "/articles/page:num/"
 
-
 # jekyll-multiple-languages-plugin settings:
 languages: ["id", "en"]
-
-exclude_from_localizations: ["javascript", "img", "images", "css", "scripts", "favicon.ico"]
