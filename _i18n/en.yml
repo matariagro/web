@@ -1,0 +1,20 @@
+global:
+  tagline: Sustainable Agroindustry Innovation
+  home: Home
+  about: About
+  expert: Experts
+  service: Services
+  project: Projects
+  article: Articles
+  contact: Contact
+  quote: A Quote 
+  e404: Page Not Found
+  egoto: please check URL or go to 
+langs:
+  id: Indonesia
+  en: English
+pages:
+  example: example
+  includeexample: The following text is a Jekyll include liquid tag parameter
+titles:
+  pagination: Pagination
