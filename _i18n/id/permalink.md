@@ -1,3 +1,0 @@
-### Permalink
-Permaklink bahasa indonesia
-
