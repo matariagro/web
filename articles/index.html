@@ -1,8 +1,8 @@
 ---
 layout: default
-title: News and Articles - Matari Agro Indonesia
-subtitle: News and Articles
-nav: All 
+title: Artikel dan Berita - Matari Agro Indonesia
+subtitle: Artikel & Berita Terbaru
+nav: Semua 
 ---
 
 <div class="row gx-0">
@@ -16,19 +16,31 @@ nav: All
 </div>
 {% endfor %}
 
-    <!-- Pagination links -->
-    <div class="pagination">
-      {% if paginator.previous_page %}
-        <a href="{{ site.baseurl }}{{ paginator.previous_page_path }}" class="previous">&laquo;</a>
-      {% else %}
-        <span class="previous">&laquo;</span>
-      {% endif %}
-      <span class="page_number ">{{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a href="{{ site.baseurl }}{{ paginator.next_page_path }}" class="next">&raquo;</a>
-      {% else %}
-        <span class="next ">&raquo;</span>
-      {% endif %}
-    </div>
 
+<!-- pagination -->
+{% if paginator.total_pages > 1 %}
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&laquo;</a>
+  {% else %}
+    <span>&laquo;</span>
+  {% endif %}
+
+  {% for page in (1..paginator.total_pages) %}
+    {% if page == paginator.page %}
+      <span class="webjeda">{{ page }}</span>
+    {% elsif page == 1 %}
+      <a href="/articles">{{ page }}</a>
+    {% else %}
+      <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}">{{ page }}</a>
+    {% endif %}
+  {% endfor %}
+
+  {% if paginator.next_page %}
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">&raquo;</a>
+  {% else %}
+    <span>&raquo;</span>
+  {% endif %}
+</div>
+{% endif %}
 </div>

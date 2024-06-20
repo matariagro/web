@@ -1,2 +1,0 @@
-### Footer
-Disini Catatan Kaki!
