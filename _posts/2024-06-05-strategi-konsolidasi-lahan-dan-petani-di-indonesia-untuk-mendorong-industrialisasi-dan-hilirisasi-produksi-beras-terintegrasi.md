@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Strategi Konsolidasi Lahan dan Petani di Indonesia untuk Mendorong Industrialisasi dan Hilirisasi Produksi Beras Terintegrasi"
 keyword: "konsolidasi lahan, industrialisasi pertanian, hilirisasi produksi beras, PT Matari Agro Indonesia, pelatihan pertanian, konsultasi pertanian, strategi pertanian, agribisnis, produksi beras terintegrasi, teknologi pertanian"
 desk: "Strategi konsolidasi lahan dan petani di Indonesia untuk mendorong industrialisasi dan hilirisasi produksi beras terintegrasi, termasuk peran PT Matari Agro Indonesia dalam memberikan layanan konsultasi dan pelatihan pertanian guna meningkatkan produktivitas dan efisiensi agribisnis di Indonesia."

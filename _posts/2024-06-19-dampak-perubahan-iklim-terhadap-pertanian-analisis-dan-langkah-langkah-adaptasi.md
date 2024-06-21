@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Dampak Perubahan Iklim terhadap Pertanian: Analisis dan Langkah-Langkah Adaptasi"
 keyword: "perubahan iklim, dampak perubahan iklim, pertanian, adaptasi pertanian, perubahan cuaca, PT Matari Agro Indonesia, konsultan pertanian, pusat pelatihan pertanian"
 desk: "Dampak perubahan iklim terhadap sektor pertanian di Indonesia dan langkah-langkah adaptasi yang bisa diambil untuk mengatasi tantangan tersebut. "

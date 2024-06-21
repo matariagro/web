@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Membangun Sistem Distribusi Gabah yang Efisien dan Berdaya Saing Tinggi dalam Industri Beras Terintegrasi"
 keyword: "Sistem distribusi gabah, industri beras terintegrasi, efisiensi produksi beras, distribusi beras berkualitas, PT Matari Agro Indonesia, konsultan pertanian, pelatihan pertanian, teknologi pertanian, manajemen logistik pertanian"
 desk: "Pentingnya sistem distribusi gabah yang efisien dan berdaya saing tinggi dalam industri beras terintegrasi, mendukung produksi yang berkualitas dan optimalisasi proses distribusi.."

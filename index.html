@@ -2,7 +2,6 @@
 layout: default
 title: Matari Agro Indonesia - Konsultan dan Pusat Pelatihan Pertanian
 ---
-
     <!-- Carousel Start -->
     <div class="container-fluid p-0 wow fadeIn" data-wow-delay="0.1s">
         <div id="header-carousel" class="carousel slide" data-bs-ride="carousel">
@@ -728,12 +727,14 @@ title: Matari Agro Indonesia - Konsultan dan Pusat Pelatihan Pertanian
             </div>            
             <div class="row g-4">
               {% for post in site.posts limit:3 %}
+              {% if post.lang == "id" %}
               <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
                 <h4><a href="{{ post.url }}" title="Lihat Detail">{{ post.title | truncate: 60 }}</a></h4>
                 <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb"></a>
                 <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
               </div>
-              {% endfor %}
+              {% endif %}
+              {% endfor %}                        
               <a class="btn btn-primary py-3 px-4 col-lg-2 col-md-6 mx-auto" href="{{ site.url }}/articles" style="height: 56px;">Lihat lebih banyak</a>
             </div>
         </div>

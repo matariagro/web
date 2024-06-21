@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Strategi Pengelolaan Air dalam Pertanian: Cara-cara Efisien untuk Mengelola Sumber Daya Air di Lahan Pertanian"
 keyword: "pengelolaan air, efisiensi air, pertanian, irigasi, konservasi air, teknologi pertanian, PT Matari Agro Indonesia"
 desk: "strategi pengelolaan air yang efisien dalam pertanian untuk memastikan penggunaan sumber daya air secara optimal."

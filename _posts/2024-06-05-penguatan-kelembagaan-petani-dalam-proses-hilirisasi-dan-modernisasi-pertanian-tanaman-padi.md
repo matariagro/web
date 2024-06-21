@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Penguatan Kelembagaan Petani dalam Proses Hilirisasi dan Modernisasi Pertanian Tanaman Padi"
 keyword: "kelembagaan petani, hilirisasi industri beras, konsultan pertanian, pelatihan pertanian, PT Matari Agro Indonesia, strategi pertanian, kemitraan petani, pengembangan petani, industri beras, pertanian berkelanjutan"
 desk: "Strategi penguatan kelembagaan petani dalam proses hilirisasi industri beras di Indonesia, dengan fokus pada dukungan layanan konsultan dan pusat pelatihan pertanian di PT Matari Agro Indonesia."

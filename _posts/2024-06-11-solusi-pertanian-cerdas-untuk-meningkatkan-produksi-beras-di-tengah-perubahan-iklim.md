@@ -1,5 +1,6 @@
 ---
 layout: post
+lang: id
 title: "Solusi Pertanian Cerdas untuk Meningkatkan Produksi Beras di Tengah Perubahan Iklim"
 keyword: "pertanian cerdas iklim, produksi beras, perubahan iklim, PT Matari Agro Indonesia, solusi pertanian, agroekologi, pengendalian OPT, pusat pelatihan pertanian"
 desk: "Pentingnya pertanian cerdas iklim dalam meningkatkan produksi beras di tengah tantangan perubahan iklim"
