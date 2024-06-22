@@ -27,6 +27,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/cara-ampuh-membasmi-hama-dan-penyakit-pada-tanaman-padi</loc>
+    <lastmod>2024-06-18</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/strategi-pengendalian-tungro-pada-tanaman-padi-untuk-pertanian-berkelanjutan</loc>
     <lastmod>2024-06-11</lastmod>
   </sitemap>
