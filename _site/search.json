@@ -1,6 +1,36 @@
 [
   
   {
+    "title"    : "Tips Sukses Bertani Hidroponik untuk Pemula",
+    "image"    : "/img/hidroponik.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, hidroponik, sayur, sayuran, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/tips-sukses-bertani-hidroponik-untuk-pemula",
+    "date"     : "2024-06-23 00:00:00 +0700",
+    "desc"     : "Bertani hidroponik semakin populer di Indonesia, terutama di kalangan petani yang memiliki keterbatasan lahan. Sistem ini memungkinkan penanaman tanaman tanpa menggunakan tanah, melainkan dengan media tanam khusus dan larutan nutrisi yang tepat. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan dan pusat pelatihan pertanian, berkomitmen untuk memberikan panduan lengkap agar Anda sukses memulai bertani hidroponik."
+    } ,
+    
+  {
+    "title"    : "Peluang Bisnis Menguntungkan dari Bertani Sayuran Organik",
+    "image"    : "/img/tren_sayuran_organik.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, hidroponik, sayur, sayuran, terintegrasi, konsultan, ketahanan, pangan",
+    "url"      : "/articles/peluang-bisnis-menguntungkan-dari-bertani-sayuran-organik",
+    "date"     : "2024-06-23 00:00:00 +0700",
+    "desc"     : "Permintaan akan sayur organik di Indonesia semakin meningkat seiring dengan meningkatnya kesadaran masyarakat akan pentingnya kesehatan dan pola makan yang lebih sehat. Sayuran organik dianggap lebih sehat dan bebas dari pestisida kimia, sehingga banyak diminati oleh konsumen yang peduli dengan kesehatan. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan dan pusat pelatihan pertanian, hadir untuk membantu Anda memanfaatkan peluang bisnis yang menguntungkan ini."
+    } ,
+    
+  {
+    "title"    : "Panduan Menanam Cabai Rawit di Pot Agar Berbuah Lebat",
+    "image"    : "/img/cabe_rawit.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, hidroponik, sayur, sayuran, cabe, rawit, konsultan, ketahanan, pangan",
+    "url"      : "/articles/panduan-menanam-cabai-rawit-di-pot-agar-berbuah-lebat",
+    "date"     : "2024-06-23 00:00:00 +0700",
+    "desc"     : "Cabai rawit tidak hanya menjadi bumbu wajib di dapur Indonesia tetapi juga merupakan tanaman yang relatif mudah untuk ditanam, bahkan di lahan terbatas seperti dalam pot. PT Matari Agro Indonesia, sebagai pusat pelatihan dan konsultan pertanian, memberikan panduan komprehensif bagi mereka yang ingin menanam cabai rawit secara efektif dalam pot."
+    } ,
+    
+  {
     "title"    : "Strategi Pengelolaan Air dalam Pertanian: Cara-cara Efisien untuk Mengelola Sumber Daya Air di Lahan Pertanian",
     "image"    : "/img/sprinkler_padi.jpg",    
     "category" : "Inovasi",
