@@ -7,6 +7,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/penggunaan-teknologi-dalam-pertanian-untuk-meningkatkan-kualitas-hasil-panen</loc>
+    <lastmod>2024-06-23</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/peluang-bisnis-menguntungkan-dari-bertani-sayuran-organik</loc>
     <lastmod>2024-06-23</lastmod>
   </sitemap>
