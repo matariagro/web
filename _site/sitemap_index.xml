@@ -7,6 +7,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-pemasaran-produk-pertanian-secara-online-di-era-digital</loc>
+    <lastmod>2024-06-23</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/penggunaan-teknologi-dalam-pertanian-untuk-meningkatkan-kualitas-hasil-panen</loc>
     <lastmod>2024-06-23</lastmod>
   </sitemap>
