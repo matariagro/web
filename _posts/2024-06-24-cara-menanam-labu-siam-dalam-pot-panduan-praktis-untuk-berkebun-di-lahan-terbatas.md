@@ -8,7 +8,7 @@ category: Inovasi
 tags: pertanian inovatif organik hidroponik sayur sayuran terintegrasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
-image: labu_siam_pot.jpeg
+image: labu_siam_pot.jpg
 ---
 
 Menanam labu siam (Sechium edule) dalam pot merupakan solusi yang ideal bagi mereka yang ingin berkebun namun memiliki keterbatasan lahan. Labu siam adalah tanaman merambat yang sangat fleksibel, mampu tumbuh dengan baik bahkan di ruang yang sempit seperti teras atau balkon. Keunggulan ini menjadikannya pilihan yang tepat bagi penghuni perkotaan yang ingin menikmati hasil pertanian segar tanpa memerlukan lahan yang luas. Selain itu, labu siam juga terkenal mudah dirawat, sehingga cocok untuk pekebun pemula maupun yang berpengalaman. 
