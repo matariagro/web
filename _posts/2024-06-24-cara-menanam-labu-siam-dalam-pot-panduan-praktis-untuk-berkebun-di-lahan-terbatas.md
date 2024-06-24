@@ -11,7 +11,7 @@ nav: Inovasi
 image: labu_siam_pot.jpg
 ---
 
-Menanam labu siam (Sechium edule) dalam pot merupakan solusi yang ideal bagi mereka yang ingin berkebun namun memiliki keterbatasan lahan. Labu siam adalah tanaman merambat yang sangat fleksibel, mampu tumbuh dengan baik bahkan di ruang yang sempit seperti teras atau balkon. Keunggulan ini menjadikannya pilihan yang tepat bagi penghuni perkotaan yang ingin menikmati hasil pertanian segar tanpa memerlukan lahan yang luas. Selain itu, labu siam juga terkenal mudah dirawat, sehingga cocok untuk pekebun pemula maupun yang berpengalaman. 
+Menanam labu siam (*Sechium edule*) dalam pot merupakan solusi yang ideal bagi mereka yang ingin berkebun namun memiliki keterbatasan lahan. Labu siam adalah tanaman merambat yang sangat fleksibel, mampu tumbuh dengan baik bahkan di ruang yang sempit seperti teras atau balkon. Keunggulan ini menjadikannya pilihan yang tepat bagi penghuni perkotaan yang ingin menikmati hasil pertanian segar tanpa memerlukan lahan yang luas. Selain itu, labu siam juga terkenal mudah dirawat, sehingga cocok untuk pekebun pemula maupun yang berpengalaman. 
 
 Panduan praktis ini akan membantu Anda menanam labu siam dalam pot dengan langkah-langkah yang sederhana namun efektif, mulai dari pemilihan benih yang tepat hingga proses panen. Anda akan mempelajari cara mempersiapkan media tanam yang sesuai, teknik menanam bibit dengan benar, dan cara merawat tanaman agar tumbuh subur. Dengan mengikuti panduan ini, Anda dapat menikmati hasil panen labu siam yang melimpah dan berkualitas, meski hanya memiliki ruang tanam yang terbatas.
 
