@@ -5,7 +5,7 @@ keyword: "pertanian organik, ramah lingkungan, praktik pertanian berkelanjutan, 
 desk: "Artikel ini mengulas pentingnya pertanian organik dan praktik ramah lingkungan untuk memenuhi permintaan pasar yang meningkat terhadap produk organik"
 subtitle: Inovasi Pertanian
 nav: Inovasi
-image: pertanian_organik.jpg
+image: organic_fertilizer.jpg
 ---
 
 Pertanian organik dan praktik ramah lingkungan semakin mendapat sorotan di tengah-tengah meningkatnya kesadaran akan kesehatan dan keberlanjutan lingkungan. Dr. Dian Pratiwi, seorang ahli pertanian dari Universitas Gadjah Mada, menjelaskan, "Pertanian organik menekankan penggunaan bahan organik alami dan menghindari pestisida dan pupuk kimia yang berpotensi merusak lingkungan dan kesehatan manusia."
