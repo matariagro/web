@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/tips-and-trik-panduan-lengkap-menanam-bawang-merah-dalam-polybag</loc>
+    <lastmod>2024-06-28</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/cara-menanam-kunyit-di-pot-agar-cepat-tumbuh-dan-subur-menghasilkan</loc>
     <lastmod>2024-06-28</lastmod>
   </sitemap>
