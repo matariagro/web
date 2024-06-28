@@ -18,6 +18,20 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/pupuk-organik-ramah-lingkungan-meningkatkan-kesuburan-tanah-untuk-pertanian-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-28</news:publication_date>
+                <news:title>Pupuk Organik Ramah Lingkungan: Meningkatkan Kesuburan Tanah untuk Pertanian Berkelanjutan</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/cara-menanam-kunyit-di-pot-agar-cepat-tumbuh-dan-subur-menghasilkan</loc>
         <news:news>
             <news:publication>
