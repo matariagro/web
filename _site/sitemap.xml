@@ -32,6 +32,20 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/cara-menanam-labu-siam-dalam-pot-panduan-praktis-untuk-berkebun-di-lahan-terbatas</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-24</news:publication_date>
+                <news:title>Cara Menanam Labu Siam dalam Pot: Panduan Praktis untuk Berkebun di Lahan Terbatas</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/tips-sukses-bertani-hidroponik-untuk-pemula</loc>
         <news:news>
             <news:publication>

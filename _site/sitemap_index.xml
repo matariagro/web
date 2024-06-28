@@ -12,6 +12,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/cara-menanam-labu-siam-dalam-pot-panduan-praktis-untuk-berkebun-di-lahan-terbatas</loc>
+    <lastmod>2024-06-24</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/tips-sukses-bertani-hidroponik-untuk-pemula</loc>
     <lastmod>2024-06-23</lastmod>
   </sitemap>
