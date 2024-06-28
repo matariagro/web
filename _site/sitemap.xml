@@ -4,6 +4,62 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/penggilingan-padi-terpadu-kunci-peningkatan-mutu-dan-hasil-agroindustri-padi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-29</news:publication_date>
+                <news:title>Penggilingan Padi Terpadu: Kunci Peningkatan Mutu dan Hasil Agroindustri Padi</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/pemanfaatan-limbah-penggilingan-padi-bekatul-sebagai-sumber-pangan-alternatif</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-29</news:publication_date>
+                <news:title>Pemanfaatan Limbah Penggilingan Padi: Bekatul sebagai Sumber Pangan Alternatif</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/manfaat-dan-potensi-produk-turunan-padi-mendukung-keberlanjutan-pertanian-di-indonesia</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-29</news:publication_date>
+                <news:title>Manfaat dan Potensi Produk Turunan Padi: Mendukung Keberlanjutan Pertanian di Indonesia</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/diversifikasi-pangan-strategi-pengurangan-ketergantungan-pada-beras-untuk-ketahanan-pangan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-29</news:publication_date>
+                <news:title>Diversifikasi Pangan: Strategi Pengurangan Ketergantungan pada Beras untuk Ketahanan Pangan</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/tips-and-trik-panduan-lengkap-menanam-bawang-merah-dalam-polybag</loc>
         <news:news>
             <news:publication>
