@@ -60,6 +60,20 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/harga-gabah-anjlok-petani-menjerit-tantangan-dan-solusi-untuk-keberlanjutan-pertanian</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-06-29</news:publication_date>
+                <news:title>Harga Gabah Anjlok, Petani Menjerit: Tantangan dan Solusi untuk Keberlanjutan Pertanian</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/diversifikasi-pangan-strategi-pengurangan-ketergantungan-pada-beras-untuk-ketahanan-pangan</loc>
         <news:news>
             <news:publication>
