@@ -10,7 +10,7 @@ group :jekyll_plugins do
   gem "jekyll-sitemap"
 end
 
-gem "google-protobuf", "~> 4.27.1"
+gem "google-protobuf", "~> 4.27.2"
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 gem "webrick", "~> 1.7"
 gem "rake", "~> 13.2.1"
