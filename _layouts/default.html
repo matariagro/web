@@ -155,7 +155,6 @@
             </div>
             <div class="col-lg-5 px-5 text-end">
                 <div class="h-100 d-inline-flex align-items-center mx-n2">
-                    <button onclick="translatePage()">English</button>
                     <div class="h-100 d-inline-flex align-items-center me-4">
                         <span class="fa fa-phone-alt me-2"></span>
                         <span>+62822 2017 5779</span>
@@ -164,7 +163,9 @@
                         <span class="far fa-envelope me-2"></span>
                         <span>info@matariagro.com</span>
                     </div>
-                    <a onclick="translatePage()"><img class="language" src="/img/icon/british.png"></a>
+                    <a class="d-none d-lg-block" href="https://matariagro.com"><img class="language" src="/img/icon/indonesia.png"></a>
+                    <a class="d-none d-lg-block" onclick="translatePage()"><img class="language" src="/img/icon/british.png"></a>
+                    
                         <!--a class="d-none d-lg-block" href="{{ site.url }}/en/" title="English"><img class="language" src="/img/icon/british.png"></a-->             
                  </div>
             </div>
@@ -176,7 +177,9 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a class="navbar-brand d-flex align-items-center px-2 px-lg-5" href="{{ site.url }}/"><img src="{{ site.url }}/img/logo.png" alt="Matariagro.com"></a>
-            <a class="icon-flag d-lg-none" href="{{ site.url }}/en/" title="English"><img class="language" src="/img/icon/british.png"></a> 
+            <a class="icon-flag d-lg-none" href="https://matariagro.com"><img class="language" src="/img/icon/indonesia.png"></a>
+            <a class="icon-flag d-lg-none" onclick="translatePage()"><img class="language" src="/img/icon/british.png"></a>
+                    <!-- a class="icon-flag d-lg-none" href="{{ site.url }}/en/" title="English"><img class="language" src="/img/icon/british.png"></a --> 
         <button type="button" class="navbar-toggler me-2" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
