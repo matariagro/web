@@ -57,18 +57,12 @@
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{ site.url }}/img/favicon.png" type="image/png">
-    <!-- google translate -->
+    <!-- gtranslate -->
     <script>
-        function translatePage(targetLang) {
+        function translatePage() {
             var currentUrl = window.location.href;
-            var translateUrl = "https://translate.google.com/translate?hl=" + targetLang + "&sl=id&tl=" + targetLang + "&u=" + encodeURIComponent(currentUrl);
+            var translateUrl = "https://translate.google.com/translate?hl=en&sl=id&tl=en&u=" + encodeURIComponent(currentUrl);
             window.location.href = translateUrl;
-        }
-
-        function goToOriginalUrl() {
-            var currentUrl = window.location.href;
-            var originalUrl = currentUrl.includes('translate.google.com') ? decodeURIComponent(currentUrl.split('&u=')[1]) : currentUrl;
-            window.location.href = originalUrl;
         }
     </script>
 
@@ -169,8 +163,8 @@
                         <span class="far fa-envelope me-2"></span>
                         <span>info@matariagro.com</span>
                     </div>
-                    <a class="d-none d-lg-block" onclick="goToOriginalUrl()"><img class="language" src="/img/icon/indonesia.png"></a>
-                    <a class="d-none d-lg-block" onclick="translatePage('en')"><img class="language" src="/img/icon/british.png"></a>
+                    <!--a class="d-none d-lg-block" href="{{ site.url }}"><img class="language" src="/img/icon/indonesia.png"></a-->
+                    <a class="d-none d-lg-block" onclick="translatePage()"><img class="language" src="/img/icon/british.png"></a>
                     
                         <!--a class="d-none d-lg-block" href="{{ site.url }}/en/" title="English"><img class="language" src="/img/icon/british.png"></a-->             
                  </div>
@@ -183,8 +177,8 @@
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top p-0">
         <a class="navbar-brand d-flex align-items-center px-2 px-lg-5" href="{{ site.url }}/"><img src="{{ site.url }}/img/logo.png" alt="Matariagro.com"></a>
-            <a class="icon-flag d-lg-none" onclick="goToOriginalUrl()"><img class="language" src="/img/icon/indonesia.png"></a>
-            <a class="icon-flag d-lg-none" onclick="translatePage('en')"><img class="language" src="/img/icon/british.png"></a>
+            <!--a class="icon-flag d-lg-none" href="{{ site.url }}"><img class="language" src="/img/icon/indonesia.png"></a-->
+            <a class="icon-flag d-lg-none" onclick="translatePage()"><img class="language" src="/img/icon/british.png"></a>
                     <!-- a class="icon-flag d-lg-none" href="{{ site.url }}/en/" title="English"><img class="language" src="/img/icon/british.png"></a --> 
         <button type="button" class="navbar-toggler me-2" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
