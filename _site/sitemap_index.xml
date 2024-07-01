@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/teknik-budidaya-terong-organik-pendekatan-pertanian-terpadu-dan-pengendalian-biologis</loc>
+    <lastmod>2024-07-01</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/teknik-budidaya-tanaman-organik-yang-efektif-di-indonesia</loc>
     <lastmod>2024-07-01</lastmod>
   </sitemap>
