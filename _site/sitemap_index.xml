@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/mengelola-hama-dan-penyakit-tanaman-tanpa-pestisida-pendekatan-organik-yang-berkelanjutan</loc>
+    <lastmod>2024-07-01</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/analisis-pasar-dan-potensi-ekonomi-pertanian-organik-di-indonesia</loc>
+    <lastmod>2024-07-01</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/teknologi-baru-digunakan-untuk-meningkatkan-kualitas-padi</loc>
     <lastmod>2024-06-29</lastmod>
   </sitemap>

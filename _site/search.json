@@ -1,6 +1,26 @@
 [
   
   {
+    "title"    : "Mengelola Hama dan Penyakit Tanaman Tanpa Pestisida: Pendekatan Organik yang Berkelanjutan",
+    "image"    : "/img/organik_farm.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/mengelola-hama-dan-penyakit-tanaman-tanpa-pestisida-pendekatan-organik-yang-berkelanjutan",
+    "date"     : "2024-07-01 00:00:00 +0700",
+    "desc"     : "Pertanian organik semakin mendapat perhatian karena mampu mengintegrasikan prinsip-prinsip keberlanjutan dalam mengelola lahan pertanian. Salah satu aspek utama dari pertanian organik adalah pengendalian hama dan penyakit tanaman tanpa bergantung pada pestisida kimia sintetis yang dapat membahayakan lingkungan dan kesehatan manusia. Di dalam artikel ini, kita akan menjelajahi berbagai strategi dan metode yang efektif dalam pengendalian hama dan penyakit tanaman secara organik, serta mengemukakan pendekatan berkelanjutan yang dapat diterapkan oleh petani."
+    } ,
+    
+  {
+    "title"    : "Analisis Pasar dan Potensi Ekonomi Pertanian Organik di Indonesia",
+    "image"    : "/img/organik_sayuran.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/analisis-pasar-dan-potensi-ekonomi-pertanian-organik-di-indonesia",
+    "date"     : "2024-07-01 00:00:00 +0700",
+    "desc"     : "Pertanian organik di Indonesia saat ini sedang mengalami pertumbuhan yang pesat, terutama didorong oleh meningkatnya kesadaran akan keberlanjutan lingkungan dan pentingnya produk pertanian yang sehat bagi konsumen. Perkembangan ini tercermin dari meningkatnya jumlah petani yang beralih ke metode pertanian organik, yang tidak hanya mengurangi penggunaan pestisida dan pupuk kimia tetapi juga meningkatkan kualitas hasil pertanian. Artikel ini akan membahas bagaimana pasar pertanian organik di Indonesia terus berkembang, mencakup potensi ekonominya yang signifikan dalam konteks global dan lokal."
+    } ,
+    
+  {
     "title"    : "Teknologi Baru Digunakan untuk Meningkatkan Kualitas Padi",
     "image"    : "/img/padi_protani.jpeg",    
     "category" : "Inovasi",
