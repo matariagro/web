@@ -4,6 +4,20 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/tips-memulai-usaha-pertanian-panduan-praktis-bagi-pemula-di-bidang-pertanian</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-02</news:publication_date>
+                <news:title>Tips Memulai Usaha Pertanian: Panduan Praktis bagi Pemula di Bidang Pertanian</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/pertanian-perkotaan-solusi-kreatif-untuk-pemenuhan-kebutuhan-pangan-di-lingkungan-urban</loc>
         <news:news>
             <news:publication>

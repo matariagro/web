@@ -1,6 +1,16 @@
 [
   
   {
+    "title"    : "Tips Memulai Usaha Pertanian: Panduan Praktis bagi Pemula di Bidang Pertanian",
+    "image"    : "/img/urban_farm.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, sayur, bebas, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/tips-memulai-usaha-pertanian-panduan-praktis-bagi-pemula-di-bidang-pertanian",
+    "date"     : "2024-07-02 00:00:00 +0700",
+    "desc"     : "Memulai usaha pertanian merupakan langkah yang menantang, terutama bagi para pemula yang belum memiliki pengalaman luas di bidang ini. Artikel ini bertujuan untuk memberikan panduan praktis dan strategis bagi mereka yang ingin memasuki dunia pertanian dengan baik persiapan. Langkah pertama yang krusial adalah pemahaman menyeluruh tentang berbagai aspek yang terlibat dalam pertanian, mulai dari pemilihan jenis tanaman yang sesuai dengan kondisi lokal, teknik budidaya yang efektif, hingga manajemen risiko yang mungkin dihadapi. Dengan memahami ini, para calon petani dapat mengurangi ketidakpastian dan meningkatkan peluang keberhasilan dalam bisnis pertanian mereka."
+    } ,
+    
+  {
     "title"    : "Pertanian Perkotaan: Solusi Kreatif untuk Pemenuhan Kebutuhan Pangan di Lingkungan Urban",
     "image"    : "/img/pertanian_perkotaan.jpg",    
     "category" : "Inovasi",
