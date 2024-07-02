@@ -22,6 +22,11 @@
   </sitemap>
 
   <sitemap>
+    <loc>http://localhost:4000/articles/dampak-sosial-dan-ekonomi-budidaya-padi-peran-penting-implikasi-sosial-dan-kebijakan-pemerintah</loc>
+    <lastmod>2024-07-03</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/tips-memulai-usaha-pertanian-panduan-praktis-bagi-pemula-di-bidang-pertanian</loc>
     <lastmod>2024-07-02</lastmod>
   </sitemap>
