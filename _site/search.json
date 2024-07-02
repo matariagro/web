@@ -1,6 +1,46 @@
 [
   
   {
+    "title"    : "Tips Meningkatkan Produktivitas Padi dengan Metode SRI (System of Rice Intensification)",
+    "image"    : "/img/sri_padi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, padi, bebas, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/tips-meningkatkan-produktivitas-padi-dengan-metode-sri-system-of-rice-intensification",
+    "date"     : "2024-07-03 00:00:00 +0700",
+    "desc"     : "Metode SRI atau System of Rice Intensification telah menjadi sorotan dalam dunia pertanian, tidak hanya karena berhasil meningkatkan produktivitas padi secara signifikan, tetapi juga karena pendekatannya yang inovatif dalam mengelola sumber daya pertanian secara efisien. Konsep utama dari SRI melibatkan penggunaan benih yang berkualitas tinggi, penanaman dengan jarak yang lebih luas, dan manajemen air yang hemat. Pendekatan ini tidak hanya menghasilkan hasil panen yang lebih tinggi, tetapi juga mengurangi dampak negatif terhadap lingkungan, seperti penggunaan air yang berlebihan dan penggunaan pupuk kimia yang berlebihan."
+    } ,
+    
+  {
+    "title"    : "Strategi Meningkatkan Ketahanan Pangan Nasional: Kontribusi PT Matari Agro Indonesia dalam Transformasi Pertanian Berkelanjutan",
+    "image"    : "/img/ketahanan_pangan.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, padi, bebas, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/strategi-meningkatkan-ketahanan-pangan-nasional-kontribusi-pt-matari-agro-indonesia-dalam-transformasi-pertanian-berkelanjutan",
+    "date"     : "2024-07-03 00:00:00 +0700",
+    "desc"     : "Ketahanan pangan nasional tidak hanya sekadar mengamankan pasokan makanan bagi seluruh penduduk, tetapi juga menjadi fondasi utama dalam menjaga stabilitas ekonomi dan kesejahteraan sosial di Indonesia. Artikel ini menggambarkan betapa pentingnya implementasi strategi-strategi inovatif dalam mendukung ketahanan pangan, dengan fokus pada peran krusial PT Matari Agro Indonesia dalam memajukan pertanian berkelanjutan. Perusahaan ini tidak hanya memberikan konsultasi teknis kepada petani, tetapi juga melatih mereka dalam praktik-praktik modern yang berkelanjutan, seperti penggunaan pupuk organik dan teknologi irigasi yang efisien. Dengan demikian, PT Matari Agro Indonesia berperan sebagai penggerak utama dalam perubahan menuju pertanian yang lebih produktif dan berdaya tahan terhadap perubahan iklim serta tantangan global lainnya."
+    } ,
+    
+  {
+    "title"    : "Solusi Pertanian Berkelanjutan: Pemanfaatan Limbah Pertanian untuk Pupuk Organik",
+    "image"    : "/img/limbah_padi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, padi, bebas, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/solusi-pertanian-berkelanjutan-pemanfaatan-limbah-pertanian-untuk-pupuk-organik",
+    "date"     : "2024-07-03 00:00:00 +0700",
+    "desc"     : "Pemanfaatan limbah pertanian untuk menghasilkan pupuk organik tidak hanya mengurangi jumlah limbah yang tidak terpakai tetapi juga mendukung pertanian berkelanjutan dan ramah lingkungan. Proses ini melibatkan serangkaian langkah mulai dari pengumpulan limbah pertanian seperti jerami, kompos sisa panen, dan hijauan, hingga pengolahan melalui teknik fermentasi dan dekomposisi yang terkendali. PT Matari Agro Indonesia memainkan peran kunci dalam mengedukasi petani mengenai teknik-teknik modern ini, memberikan panduan dalam memilih bahan baku yang tepat dan proses pengolahan yang optimal untuk menghasilkan pupuk organik yang berkualitas tinggi."
+    } ,
+    
+  {
+    "title"    : "Ekonomi Padi di Indonesia: Biaya Produksi, Harga Jual, dan Analisis Usaha Tani",
+    "image"    : "/img/ekonomi_padi.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, organik, padi, bebas, pestisida, konsultan, ketahanan, pangan",
+    "url"      : "/articles/ekonomi-padi-di-indonesia-biaya-produksi,-harga-jual,-dan-analisis-usaha-tani",
+    "date"     : "2024-07-03 00:00:00 +0700",
+    "desc"     : "Pertanian padi tidak hanya menjadi tulang punggung dalam pemenuhan kebutuhan pangan bagi jutaan penduduk Indonesia, tetapi juga berperan penting dalam mendukung perekonomian nasional. Sebagai salah satu komoditas utama, padi memberikan kontribusi signifikan terhadap pendapatan petani di berbagai wilayah, baik di pedesaan maupun di daerah perkotaan yang tergantung pada produksi pertanian. Artikel ini bertujuan untuk menggali lebih dalam mengenai aspek ekonomi kunci yang terkait dengan pertanian padi di Indonesia."
+    } ,
+    
+  {
     "title"    : "Tips Memulai Usaha Pertanian: Panduan Praktis bagi Pemula di Bidang Pertanian",
     "image"    : "/img/urban_farm.jpg",    
     "category" : "Inovasi",

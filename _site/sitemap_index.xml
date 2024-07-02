@@ -2,6 +2,26 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/tips-meningkatkan-produktivitas-padi-dengan-metode-sri-system-of-rice-intensification</loc>
+    <lastmod>2024-07-03</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/strategi-meningkatkan-ketahanan-pangan-nasional-kontribusi-pt-matari-agro-indonesia-dalam-transformasi-pertanian-berkelanjutan</loc>
+    <lastmod>2024-07-03</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/solusi-pertanian-berkelanjutan-pemanfaatan-limbah-pertanian-untuk-pupuk-organik</loc>
+    <lastmod>2024-07-03</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/ekonomi-padi-di-indonesia-biaya-produksi,-harga-jual,-dan-analisis-usaha-tani</loc>
+    <lastmod>2024-07-03</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/tips-memulai-usaha-pertanian-panduan-praktis-bagi-pemula-di-bidang-pertanian</loc>
     <lastmod>2024-07-02</lastmod>
   </sitemap>
@@ -1173,6 +1193,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page14/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page15/</loc>
       <lastmod></lastmod>
     </sitemap>
   

@@ -4,6 +4,62 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/tips-meningkatkan-produktivitas-padi-dengan-metode-sri-system-of-rice-intensification</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-03</news:publication_date>
+                <news:title>Tips Meningkatkan Produktivitas Padi dengan Metode SRI (System of Rice Intensification)</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/strategi-meningkatkan-ketahanan-pangan-nasional-kontribusi-pt-matari-agro-indonesia-dalam-transformasi-pertanian-berkelanjutan</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-03</news:publication_date>
+                <news:title>Strategi Meningkatkan Ketahanan Pangan Nasional: Kontribusi PT Matari Agro Indonesia dalam Transformasi Pertanian Berkelanjutan</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/solusi-pertanian-berkelanjutan-pemanfaatan-limbah-pertanian-untuk-pupuk-organik</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-03</news:publication_date>
+                <news:title>Solusi Pertanian Berkelanjutan: Pemanfaatan Limbah Pertanian untuk Pupuk Organik</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/ekonomi-padi-di-indonesia-biaya-produksi,-harga-jual,-dan-analisis-usaha-tani</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-03</news:publication_date>
+                <news:title>Ekonomi Padi di Indonesia: Biaya Produksi, Harga Jual, dan Analisis Usaha Tani</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/tips-memulai-usaha-pertanian-panduan-praktis-bagi-pemula-di-bidang-pertanian</loc>
         <news:news>
             <news:publication>
