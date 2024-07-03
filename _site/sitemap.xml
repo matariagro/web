@@ -46,6 +46,20 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/mengatasi-tanah-asam-strategi-optimal-untuk-meningkatkan-penyerapan-pupuk-dan-produktivitas-tanaman</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-03</news:publication_date>
+                <news:title>Mengatasi Tanah Asam: Strategi Optimal untuk Meningkatkan Penyerapan Pupuk dan Produktivitas Tanaman</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/ekonomi-padi-di-indonesia-biaya-produksi,-harga-jual,-dan-analisis-usaha-tani</loc>
         <news:news>
             <news:publication>
