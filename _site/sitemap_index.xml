@@ -2,6 +2,16 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/mengenal-jenis-hama-dan-penyakit-tanaman-padi-gejala-dampak-dan-strategi-pengendalian-efektif</loc>
+    <lastmod>2024-07-07</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/inovasi-dalam-budidaya-padi-teknologi-maju-ramah-lingkungan-dan-presisi</loc>
+    <lastmod>2024-07-07</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/tips-meningkatkan-produktivitas-padi-dengan-metode-sri-system-of-rice-intensification</loc>
     <lastmod>2024-07-03</lastmod>
   </sitemap>

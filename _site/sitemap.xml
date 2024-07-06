@@ -4,6 +4,34 @@
     
     
     <url>
+        <loc>http://localhost:4000/articles/mengenal-jenis-hama-dan-penyakit-tanaman-padi-gejala-dampak-dan-strategi-pengendalian-efektif</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-07</news:publication_date>
+                <news:title>Mengenal Jenis Hama dan Penyakit Tanaman Padi: Gejala, Dampak, dan Strategi Pengendalian Efektif</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
+        <loc>http://localhost:4000/articles/inovasi-dalam-budidaya-padi-teknologi-maju-ramah-lingkungan-dan-presisi</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2024-07-07</news:publication_date>
+                <news:title>Inovasi dalam Budidaya Padi: Teknologi Maju, Ramah Lingkungan, dan Presisi</news:title>
+        </news:news>    
+    </url>
+    
+    
+    
+    <url>
         <loc>http://localhost:4000/articles/tips-meningkatkan-produktivitas-padi-dengan-metode-sri-system-of-rice-intensification</loc>
         <news:news>
             <news:publication>
