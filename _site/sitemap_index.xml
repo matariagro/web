@@ -2,6 +2,21 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/strategi-peningkatan-produktivitas-tanaman-jagung-melalui-teknologi-tepat-guna</loc>
+    <lastmod>2024-07-08</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/peluang-agribisnis-dan-pemanfaatan-hasil-panen-tanaman-jagung</loc>
+    <lastmod>2024-07-08</lastmod>
+  </sitemap>
+
+  <sitemap>
+    <loc>http://localhost:4000/articles/panduan-praktis-untuk-petani-jagung-dari-benih-berkualitas-hingga-panen-melimpah</loc>
+    <lastmod>2024-07-08</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/rantai-pasok-gabah-di-industri-beras-dari-petani-hingga-pabrik-beras</loc>
     <lastmod>2024-07-07</lastmod>
   </sitemap>
