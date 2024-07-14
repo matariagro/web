@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Harga Gabah Anjlok, Petani Menjerit: Tantangan dan Solusi untuk Keberlanjutan Pertanian"
 keyword: "harga gabah anjlok, petani menjerit, krisis pertanian, solusi harga gabah, PT Matari Agro Indonesia, keberlanjutan pertanian"
 desk: "Artikel ini membahas penurunan harga gabah yang signifikan di Indonesia, dampaknya terhadap petani, dan solusi potensial untuk mengatasi krisis ini, termasuk peran PT Matari Agro Indonesia dalam mendukung keberlanjutan pertanian."

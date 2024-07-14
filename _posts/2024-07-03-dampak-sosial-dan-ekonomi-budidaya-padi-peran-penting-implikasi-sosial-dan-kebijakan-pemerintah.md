@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Dampak Sosial dan Ekonomi Budidaya Padi: Peran Penting, Implikasi Sosial, dan Kebijakan Pemerintah"
 keyword: "budidaya padi, dampak sosial, dampak ekonomi, kebijakan pemerintah, pertanian padi, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Pelajari lebih dalam mengenai dampak sosial dan ekonomi dari budidaya padi, serta kebijakan pemerintah terkait di Indonesia."

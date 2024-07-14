@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Tips Sukses Bertani Hidroponik untuk Pemula"
 keyword: "Hidroponik, bertani hidroponik, panduan hidroponik, tips hidroponik, pertanian hidroponik, media tanam hidroponik, tanaman hidroponik, PT Matari Agro Indonesia"
 desk: "Panduan lengkap untuk sukses memulai bertani hidroponik, termasuk pemilihan jenis tanaman, media tanam, serta tips perawatan tanaman hidroponik yang disusun oleh PT Matari Agro Indonesia."

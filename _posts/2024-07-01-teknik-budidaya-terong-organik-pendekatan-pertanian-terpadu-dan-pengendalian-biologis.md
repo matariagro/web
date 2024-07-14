@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Teknik Budidaya Terong Organik: Pendekatan Pertanian Terpadu dan Pengendalian Biologis"
 keyword: "budidaya terong organik, teknik pertanian terpadu, pengendalian biologis, konsultan pertanian, pelatihan pertanian, PT Matari Agro Indonesia"
 desk: "Telusuri teknik terbaru dalam budidaya terong organik dengan pendekatan pertanian terpadu dan pengendalian biologis di PT Matari Agro Indonesia"

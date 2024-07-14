@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Rahasia Merawat Tanaman Padi Agar Tumbuh Subur dan Bebas Hama!"
 keyword: "tanaman padi, perawatan tanaman, subur, bebas hama, penyiraman tanaman, pemupukan, penyiangan, pengendalian hama, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Panduan lengkap untuk merawat tanaman padi agar tumbuh subur dan terbebas dari hama dan penyakit. Pelajari teknik penyiraman, pemupukan, penyiangan, serta pengendalian hama yang efektif."

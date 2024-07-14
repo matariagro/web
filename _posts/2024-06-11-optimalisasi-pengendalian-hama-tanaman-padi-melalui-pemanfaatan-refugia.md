@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Optimalisasi Pengendalian Hama Tanaman Padi melalui Pemanfaatan Refugia"
 keyword: "hama tanaman padi, pengendalian hama, refugia, musuh alami, petani padi, PT Matari Agro Indonesia"
 desk: "Penggunaan refugia sebagai solusi alternatif untuk mengendalikan hama tanaman padi secara alami, dengan menekankan pentingnya konservasi musuh alami dalam ekosistem pertanian"

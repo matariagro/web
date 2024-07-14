@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Manfaat dan Potensi Produk Turunan Padi: Mendukung Keberlanjutan Pertanian di Indonesia"
 keyword: "produk turunan padi, sekam padi, bekatul, tepung padi, dedak padi, pertanian berkelanjutan, pengolahan hasil samping padi, PT Matari Agro Indonesia"
 desk: "Produk turunan padi seperti sekam padi, bekatul, tepung padi, dan dedak padi, serta manfaat dan potensi mereka dalam mendukung keberlanjutan pertanian di Indonesia"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Praktis: Cara Mengatasi Penyakit Tungro pada Tanaman Padi"
 keyword: "penyakit tungro, padi, cara mengatasi tungro, padi tungro, penyakit tanaman padi, perawatan padi, kesehatan tanaman padi, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Cara mengatasi penyakit tungro pada padi, dari gejala hingga pengendalian efektif, untuk meningkatkan produktivitas pertanian di Indonesia"

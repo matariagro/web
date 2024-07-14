@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Teknik Budidaya Tanaman Organik yang Efektif di Indonesia"
 keyword: "pertanian organik, ekonomi pertanian Indonesia, konsultan pertanian, pelatihan pertanian, PT Matari Agro Indonesia"
 desk: "Beberapa teknik pertanian organik terbaik yang diterapkan oleh PT. Matari Agro, mulai dari pengelolaan tanah secara organik hingga pengendalian hama dan penyakit tanaman yang berbasis biologis"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Ekonomi Padi di Indonesia: Biaya Produksi, Harga Jual, dan Analisis Usaha Tani"
 keyword: "ekonomi padi, biaya produksi padi, harga jual padi, analisis usaha tani, pertanian padi, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Temukan informasi terperinci mengenai ekonomi padi di Indonesia, termasuk biaya produksi, harga jual, dan analisis mendalam mengenai usaha tani padi. Artikel ini mendukung layanan konsultan dan pusat pelatihan pertanian terpadu PT Matari Agro, yang berperan dalam meningkatkan efisiensi dan keberlanjutan pertanian padi di Indonesia."

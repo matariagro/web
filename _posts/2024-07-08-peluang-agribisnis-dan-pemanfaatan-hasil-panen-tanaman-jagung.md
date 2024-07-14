@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Peluang Agribisnis dan Pemanfaatan Hasil Panen Tanaman Jagung"
 keyword: "agribisnis tanaman jagung, pengolahan hasil panen jagung, strategi pemasaran jagung, teknologi digital dalam agribisnis, kebijakan pemerintah agribisnis, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Peluang usaha agribisnis tanaman jagung di Indonesia, cara mengolah hasil panen jagung menjadi produk bernilai tinggi, strategi pemasaran, peran teknologi digital, dan kebijakan pemerintah yang mendukung sektor agribisnis jagung"

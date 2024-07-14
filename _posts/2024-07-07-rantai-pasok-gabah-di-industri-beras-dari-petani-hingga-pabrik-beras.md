@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Rantai Pasok Gabah di Industri Beras: Dari Petani hingga Pabrik Beras"
 keyword: "rantai pasok gabah, industri beras, petani, pengepul, pabrik beras, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Eksplorasi rantai pasok gabah dalam industri beras, mulai dari petani, pengepul, hingga pabrik beras. Pelajari peran masing-masing dan tantangan yang dihadapi"

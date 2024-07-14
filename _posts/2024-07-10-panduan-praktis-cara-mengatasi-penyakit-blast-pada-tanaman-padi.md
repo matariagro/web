@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Praktis: Cara Mengatasi Penyakit Blast pada Tanaman Padi"
 keyword: "penyakit blast padi, mengatasi blast padi, pencegahan penyakit padi, cara mengatasi blast, blast pada tanaman padi, perawatan padi, kesehatan tanaman padi, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Cara mengatasi penyakit blast pada tanaman padi, mulai dari identifikasi gejala, strategi pencegahan, hingga metode pengendalian yang efektif untuk petani"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Tips Memulai Usaha Pertanian: Panduan Praktis bagi Pemula di Bidang Pertanian"
 keyword: "tips memulai usaha pertanian, panduan praktis pertanian, pemula dalam pertanian, PT Matari Agro Indonesia, konsultan pertanian, pelatihan pertanian terpadu"
 desk: "Temukan panduan praktis untuk memulai usaha pertanian bagi pemula melalui artikel ini. PT Matari Agro Indonesia sebagai konsultan dan pusat pelatihan pertanian terpadu memberikan tips dan strategi untuk membangun bisnis pertanian yang sukses dan berkelanjutan"

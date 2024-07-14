@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Cara Menanam Labu Siam dalam Pot: Panduan Praktis untuk Berkebun di Lahan Terbatas"
 keyword: "menanam labu siam, labu siam dalam pot, berkebun di lahan terbatas, cara menanam labu siam, pertanian urban, budidaya labu siam, tips berkebun, PT Matari Agro Indonesia"
 suksesdesk: "Panduan lengkap menanam labu siam dalam pot produksi melimpah dengan mudah"

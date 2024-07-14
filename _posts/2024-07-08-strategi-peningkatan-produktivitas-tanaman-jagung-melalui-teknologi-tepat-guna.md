@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Peningkatan Produktivitas Tanaman Jagung melalui Teknologi Tepat Guna"
 keyword: "teknologi budidaya jagung, varietas jagung unggul, pengendalian hama jagung, teknik irigasi jagung, pemupukan optimal jagung, solusi kekeringan jagung, solusi banjir jagung, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Strategi peningkatan produktivitas tanaman jagung melalui penggunaan teknologi tepat guna, varietas unggul, pengendalian hama dan penyakit, teknik irigasi dan pemupukan optimal, serta solusi mengatasi kekeringan dan banjir"

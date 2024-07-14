@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Efektif Mengatasi Kekurangan Nutrisi dan Menyeimbangkan Nutrisi pada Tanaman Padi"
 keyword: "kekurangan nutrisi padi, keseimbangan nutrisi padi, pemupukan padi, cara mengatasi kekurangan nutrisi, nutrisi tanaman padi, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Panduan lengkap mengatasi kekurangan nutrisi pada padi dan cara menyeimbangkan nutrisi untuk meningkatkan produktivitas dan kualitas tanaman padi secara berkelanjutan."

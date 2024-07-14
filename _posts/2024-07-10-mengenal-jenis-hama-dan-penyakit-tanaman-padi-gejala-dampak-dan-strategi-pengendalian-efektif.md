@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Mengenal Jenis Hama dan Penyakit Tanaman Padi: Gejala, Dampak, dan Strategi Pengendalian Efektif"
 keyword: "hama tanaman padi, penyakit tanaman padi, gejala, dampak, pengendalian, pencegahan, pertanian, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Pelajari jenis-jenis hama dan penyakit tanaman padi, gejalanya, dampaknya, serta strategi efektif pengendalian dan pencegahannya"

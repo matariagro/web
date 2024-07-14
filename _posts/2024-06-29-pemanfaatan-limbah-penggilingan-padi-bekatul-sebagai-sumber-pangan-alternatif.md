@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Pemanfaatan Limbah Penggilingan Padi: Bekatul sebagai Sumber Pangan Alternatif"
 keyword: "bekatul, limbah penggilingan padi, diversifikasi pangan, ketahanan pangan, manfaat bekatul, PT Matari Agro Indonesia"
 desk: "Cara memanfaatkan bekatul sebagai sumber pangan alternatif dalam artikel ini. PT Matari Agro Indonesia memberikan panduan lengkap untuk diversifikasi pangan dengan menggunakan bekatul yang bernilai gizi tinggi."

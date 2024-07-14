@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Pupuk Organik Ramah Lingkungan: Meningkatkan Kesuburan Tanah untuk Pertanian Berkelanjutan"
 keyword: "pupuk organik, kesuburan tanah, pupuk kandang, pupuk kompos, pupuk hayati, pertanian berkelanjutan, PT Matari Agro Indonesia"
 desk: "Jenis-jenis pupuk organik ramah lingkungan seperti pupuk kandang, pupuk kompos, dan pupuk hayati yang dapat meningkatkan kesuburan tanah dan kualitas hasil pertanian secara berkelanjutan."

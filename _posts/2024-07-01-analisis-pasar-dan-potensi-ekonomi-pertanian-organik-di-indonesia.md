@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Analisis Pasar dan Potensi Ekonomi Pertanian Organik di Indonesia"
 keyword: "pertanian organik, ekonomi pertanian Indonesia, konsultan pertanian, pelatihan pertanian, PT Matari Agro Indonesia"
 desk: "Telusuri pertumbuhan pasar dan potensi ekonomi pertanian organik di Indonesia serta peran PT Matari Agro Indonesia sebagai konsultan dan pusat pelatihan terkemuka"

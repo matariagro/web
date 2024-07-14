@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Tips and Trik: Panduan Lengkap Menanam Bawang Merah dalam Polybag"
 keyword: "menanam bawang merah, bawang merah polybag, pertanian bawang merah, tips menanam bawang merah, panen bawang merah, PT Matari Agro Indonesia"
 desk: "Cara menanam bawang merah dengan sukses dalam polybag, mulai dari persiapan bibit hingga perawatan dan masa panen. Temukan panduan praktis yang disajikan PT Matari Agro Indonesia untuk meningkatkan hasil panen bawang merah Anda."

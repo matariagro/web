@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Praktis Budidaya Sayuran Organik di Perkotaan"
 keyword: "budidaya sayuran organik, pertanian perkotaan, panduan praktis pertanian, PT Matari Agro, konsultan pertanian, pelatihan pertanian terpadu"
 desk: "Temukan panduan praktis untuk budidaya sayuran organik di perkotaan melalui artikel ini. PT Matari Agro Indonesia sebagai konsultan dan pusat pelatihan pertanian terpadu membagikan pengetahuan dan teknik terbaru dalam mendukung pertumbuhan pertanian organik di lingkungan urban"

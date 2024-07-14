@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Menanam Cabai Rawit di Pot Agar Berbuah Lebat"
 keyword: "menanam cabai rawit, panduan bertani cabai, cabai rawit di pot, budidaya cabai rawit, PT Matari Agro Indonesia"
 desk: "Cara menanam cabai rawit di pot agar berbuah lebat dengan panduan lengkap dari PT Matari Agro Indonesia. Cocok untuk individu, perusahaan pertanian, dan pemerintah daerah di seluruh Indonesia yang tertarik dengan pertanian dalam skala kecil"

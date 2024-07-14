@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Pemasaran Produk Pertanian Secara Online di Era Digital"
 keyword: "pertanian, pemasaran online, era digital, tanaman hias, sayur organik, bibit tanaman, PT Matari Agro Indonesia"
 desk: "Dalam era digital ini, pasar pertanian mengalami perubahan yang signifikan seiring dengan perkembangan teknologi"

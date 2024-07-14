@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Teknologi Baru Digunakan untuk Meningkatkan Kualitas Padi"
 keyword: "teknologi pertanian, kualitas padi, varietas padi unggul, budidaya padi, produktivitas pertanian, kesejahteraan petani, PT Matari Agro Indonesia"
 desk: "Artikel ini membahas berbagai teknologi baru yang digunakan untuk meningkatkan kualitas padi, termasuk varietas padi unggul dan teknik budidaya efisien, yang bertujuan untuk meningkatkan produktivitas dan kesejahteraan petani di Indonesia"

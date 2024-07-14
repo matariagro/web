@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Penggilingan Padi Terpadu: Kunci Peningkatan Mutu dan Hasil Agroindustri Padi"
 keyword: "penggilingan padi, agroindustri padi, mutu beras, pengolahan hasil samping, agribisnis terpadu, manajemen mutu, PT Matari Agro Indonesia"
 desk: "Penggilingan padi yang terpadu adalah kunci untuk meningkatkan mutu dan hasil agroindustri padi."

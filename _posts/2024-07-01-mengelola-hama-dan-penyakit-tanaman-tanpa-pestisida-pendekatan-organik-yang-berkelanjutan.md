@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Mengelola Hama dan Penyakit Tanaman Tanpa Pestisida: Pendekatan Organik yang Berkelanjutan"
 keyword: "pengendalian hama organik, penyakit tanaman, tanpa pestisida, keberlanjutan pertanian, metode organik, PT Matari Agro Indonesia"
 desk: "Artikel ini membahas strategi dan metode pengendalian hama dan penyakit tanaman secara organik, menyoroti pendekatan berkelanjutan untuk meningkatkan produktivitas tanaman dengan meminimalkan penggunaan pestisida"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Tips Meningkatkan Produktivitas Padi dengan Metode SRI (System of Rice Intensification)"
 keyword: "metode SRI, System of Rice Intensification, meningkatkan produktivitas padi, teknik bercocok tanam, pertanian padi, PT Matari Agro Indonesia, konsultan pertanian, pelatihan pertanian terpadu"
 desk: "Temukan panduan praktis untuk meningkatkan produktivitas padi dengan metode SRI (System of Rice Intensification). PT Matari Agro Indonesia sebagai konsultan dan pusat pelatihan pertanian terpadu memberikan tips, manfaat, dan contoh sukses penerapan metode SRI di Indonesia"

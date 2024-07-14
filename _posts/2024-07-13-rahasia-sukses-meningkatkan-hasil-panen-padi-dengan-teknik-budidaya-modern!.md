@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Rahasia Sukses Meningkatkan Hasil Panen Padi dengan Teknik Budidaya Modern!"
 keyword: "hasil panen padi, teknik budidaya modern, benih unggul, tanam jajar legowo, pemupukan berimbang, pengendalian hama padi, panen tepat waktu, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Temukan teknik-teknik budidaya modern yang dapat meningkatkan hasil panen padi Anda secara signifikan. Pelajari strategi penggunaan benih unggul, tanam jajar legowo, pemupukan berimbang, hingga pengendalian hama terpadu."

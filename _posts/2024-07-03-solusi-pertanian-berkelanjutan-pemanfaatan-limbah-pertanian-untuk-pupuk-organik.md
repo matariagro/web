@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Solusi Pertanian Berkelanjutan: Pemanfaatan Limbah Pertanian untuk Pupuk Organik"
 keyword: "limbah pertanian, pupuk organik, pengolahan limbah, pertanian berkelanjutan, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Temukan cara-cara efektif mengolah limbah pertanian menjadi pupuk organik yang bermanfaat. Artikel ini membahas proses pengolahan limbah, manfaat pupuk organik, serta peran PT Matari Agro Indonesia dalam mendukung pertanian berkelanjutan"

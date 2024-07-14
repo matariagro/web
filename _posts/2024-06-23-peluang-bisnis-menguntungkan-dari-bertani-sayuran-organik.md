@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Peluang Bisnis Menguntungkan dari Bertani Sayuran Organik"
 keyword: "bisnis sayuran organik, budidaya sayuran organik, peluang bisnis pertanian, pemasaran sayuran organik, keuntungan bertani organik, PT Matari Agro Indonesia"
 desk: "Peluang bisnis menguntungkan dari bertani sayuran organik. Dapatkan panduan lengkap dari cara budidaya, strategi pemasaran, hingga analisis keuntungan yang bisa diperoleh dengan dukungan PT Matari Agro Indonesia"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Penggunaan Teknologi dalam Pertanian untuk Meningkatkan Kualitas Hasil Panen"
 keyword: "pertanian, teknologi pertaniam, pertanian modern, hasil pertanian, PT Matari Agro Indonesia"
 desk: "Pertanian memegang peranan vital dalam ekonomi global, tidak terkecuali di Indonesia"

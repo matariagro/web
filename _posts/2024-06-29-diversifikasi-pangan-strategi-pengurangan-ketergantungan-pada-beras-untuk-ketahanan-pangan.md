@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Diversifikasi Pangan: Strategi Pengurangan Ketergantungan pada Beras untuk Ketahanan Pangan"
 keyword: "diversifikasi pangan, ketahanan pangan, konsumsi beras, sumber karbohidrat lokal, UMKM pangan lokal, Indonesia, PT Matari Agro Indonesia"
 desk: "Diversifikasi pangan adalah strategi penting untuk mengurangi ketergantungan pada beras dan memperkuat ketahanan pangan."

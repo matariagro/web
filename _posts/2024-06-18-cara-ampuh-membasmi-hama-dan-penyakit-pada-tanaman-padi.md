@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Cara Ampuh Membasmi Hama dan Penyakit pada Tanaman Padi"
 keyword: "hama dan penyakit pada padi, pestisida alami, pengendalian hama terpadu, PT Matari Agro Indonesia"
 desk: "Cara ampuh membasmi hama dan penyakit pada tanaman padi, termasuk penggunaan pestisida alami dan metode pengendalian hama terpadu dalam panduan ini dari PT Matari Agro Indonesia"

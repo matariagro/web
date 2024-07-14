@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Cara Menanam Kunyit di Pot Agar Cepat Tumbuh dan Subur Menghasilkan"
 keyword: "menanam kunyit di pot, budidaya kunyit, cara menanam kunyit, tanaman kunyit subur, pertanian urban, PT Matari Agro Indonesia"
 desk: "Cara menanam kunyit di pot agar cepat tumbuh dan subur menghasilkan. Dapatkan panduan lengkap mulai dari persiapan media tanam hingga cara panen."

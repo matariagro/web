@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Optimalisasi Pupuk dan Nutrisi untuk Padi yang Berkelanjutan"
 keyword: "pupuk padi, nutrisi padi, jenis pupuk padi, pertanian padi, pupuk organik, pupuk anorganik, teknik pemupukan, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Panduan lengkap mengenai jenis pupuk yang tepat untuk padi, termasuk pupuk organik dan anorganik, serta teknik pemupukan untuk hasil panen optimal"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Meningkatkan Ketahanan Pangan Nasional: Kontribusi PT Matari Agro Indonesia dalam Transformasi Pertanian Berkelanjutan"
 keyword: "ketahanan pangan nasional, produksi pangan, pengurangan pasca panen, diversifikasi pangan, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Temukan strategi-strategi efektif untuk meningkatkan ketahanan pangan nasional dalam artikel ini. Kami membahas langkah-langkah seperti peningkatan produksi pangan, pengurangan kerugian pasca panen, dan diversifikasi pangan, serta peran PT Matari Agro Indonesia dalam mendukung transformasi pertanian berkelanjutan di Indonesia"

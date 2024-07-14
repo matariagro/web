@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Strategi Pengendalian Tungro pada Tanaman Padi untuk Pertanian Berkelanjutan"
 keyword: "penyakit tungro, hama padi, pengendalian hama, wereng hijau, virus tungro, varietas tahan, PT Matari Agro Indonesia"
 desk: "Strategi pengendalian penyakit tungro pada tanaman padi yang disebabkan oleh infeksi virus dan ditularkan oleh wereng hijau"

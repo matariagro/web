@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Praktis untuk Petani Jagung: Dari Benih Berkualitas hingga Panen Melimpah"
 keyword: "petani jagung, budidaya jagung, benih jagung berkualitas, teknik penyemaian jagung, perawatan tanaman jagung, hama jagung, panen jagung, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Tips praktis budidaya jagung: memilih benih berkualitas, teknik penyemaian, perawatan, pengendalian hama alami, dan cara meningkatkan hasil panen."

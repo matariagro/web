@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "9 Ide Peluang Usaha di Bidang Pertanian, Apa Saja?"
 keyword: "pertanian, tanaman hias, sayur organik, bibit tanaman, PT Matari Agro Indonesia"
 desk: "Pertanian adalah salah satu sektor yang paling penting dalam perekonomian suatu negara"

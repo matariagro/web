@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Mengatasi Tanah Asam: Strategi Optimal untuk Meningkatkan Penyerapan Pupuk dan Produktivitas Tanaman"
 keyword: "tanah asam, penyerapan pupuk, aluminium beracun, netralisasi pH, pertanian, fosfor, mikroorganisme tanah, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Tanah asam menghambat penyerapan pupuk. Pelajari cara mengatasi masalah ini dengan strategi efektif dari PT Matari Agro Indonesia untuk hasil panen optimal"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Panduan Praktis: Cara Mengatasi Hama Wereng Coklat pada Tanaman Padi"
 keyword: "hama wereng coklat, pengendalian hama wereng, budidaya padi, pestisida alami, teknik pertanian, cara mengatasi wereng, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Cara mengatasi hama wereng coklat pada tanaman padi dengan teknik efektif dan ramah lingkungan untuk menjaga hasil panen tetap optimal"

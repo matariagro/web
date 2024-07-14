@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Pertanian Perkotaan: Solusi Kreatif untuk Pemenuhan Kebutuhan Pangan di Lingkungan Urban"
 keyword: "pertanian perkotaan, urban farming, kebun vertikal, hidroponik, akuaponik, pertanian berkelanjutan, PT Matari Agro Indonesia, konsultan pertanian, pelatihan pertanian terpadu"
 desk: "Telusuri konsep dan praktik pertanian perkotaan melalui artikel ini, yang mencakup penggunaan ruang terbatas untuk budidaya sayuran dan buah segar di kota"

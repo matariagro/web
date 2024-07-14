@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Inovasi dalam Budidaya Padi: Teknologi Maju, Ramah Lingkungan, dan Presisi"
 keyword: "teknologi budidaya padi, inovasi pertanian, budidaya presisi, pertanian ramah lingkungan, konsultan pertanian, pelatihan pertanian terpadu, PT Matari Agro Indonesia"
 desk: "Pelajari teknologi terbaru dalam budidaya padi: inovatif, ramah lingkungan, dan presisi untuk meningkatkan produktivitas pertanian dengan PT Matari Agro Indonesia"

@@ -1,6 +1,5 @@
 ---
 layout: post
-lang: id
 title: "Cara Memperpanjang Usia Seledri Hingga 4 Tahun dengan Metode Polibag"
 keyword: "menanam seledri, usia seledri, metode polibag, pertanian seledri, budidaya seledri, PT Matari Agro Indonesia"
 desk: "Cara memperpanjang usia tanaman seledri hingga 4 tahun dengan metode polibag. Temukan tips praktis mulai dari penanaman hingga perawatan untuk memastikan seledri tumbuh subur dan berkelanjutan"
