@@ -61,13 +61,11 @@ layout: default
       <h2>Artikel Lainnya</h2>
       <ul class="post-list">
       {% for post in site.posts limit:5 %}
-      {% if post.lang == 'id' %}
       <li class="articles-item">
       <h5><a href="{{ post.url }}" title="Lihat Detail">{{ post.title | truncate: 70 }}</a></h5>
       <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb"></a>
       <p>{{ post.excerpt | strip_html | truncatewords: 17 }}</p>
       </li>
-      {% endif %}
       {% endfor %}
       </ul>
       <a class="btn btn-primary mt-4 py-6 px-6 col-md-6 mx-auto" href="{{ site.url }}/articles">Lihat lebih banyak</a>                            
