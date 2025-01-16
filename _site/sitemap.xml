@@ -15,6 +15,18 @@
     </url>
     
     <url>
+        <loc>http://localhost:4000/articles/inovasi-budidaya-padi-gogo-di-lahan-replanting-kelapa-sawit-studi-kasus-pelalawan-riau</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2025-01-16</news:publication_date>
+                <news:title>Inovasi Budidaya Padi Gogo di Lahan Replanting Kelapa Sawit: Studi Kasus Pelalawan, Riau</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/pemberdayaan-petani-hutan-melalui-budidaya-padi-gogo-untuk-meningkatkan-produksi-dan-kesejahteraan</loc>
         <news:news>
             <news:publication>
