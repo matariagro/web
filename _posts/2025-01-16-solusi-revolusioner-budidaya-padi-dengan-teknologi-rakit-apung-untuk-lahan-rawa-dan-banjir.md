@@ -10,10 +10,6 @@ nav: Inovasi
 image: padi_apung.jpeg
 ---
  
-Berikut adalah artikel yang telah diperbarui dengan penjelasan teknis mengenai budidaya padi dengan teknologi rakit apung, termasuk studi kasus di Kecamatan Sumpiuh, Kabupaten Banyumas:
-
----
-
 Musim penghujan sering kali menjadi tantangan besar bagi para petani padi di Indonesia. Curah hujan yang tinggi, terutama di daerah rawan banjir dan genangan air, dapat menyebabkan kerusakan serius pada tanaman padi. Kondisi ini mengakibatkan akar tanaman terendam dalam waktu lama, menghambat proses pertumbuhan, dan meningkatkan risiko serangan hama dan penyakit. Akibatnya, hasil panen berkurang drastis, bahkan dalam banyak kasus, petani mengalami gagal panen total.  
 
 Selain itu, lahan sawah yang tergenang dalam jangka waktu lama sering kali tidak dapat digunakan untuk budidaya konvensional. Hal ini memaksa petani untuk mencari solusi lain, seperti menanam komoditas selain padi atau meninggalkan lahan mereka untuk sementara waktu. Kondisi ini tentu saja berdampak langsung pada pendapatan petani dan ketahanan pangan di wilayah tersebut. Tanpa adanya intervensi yang tepat, lahan-lahan ini akan terus menjadi kendala besar bagi upaya peningkatan produktivitas pertanian.  

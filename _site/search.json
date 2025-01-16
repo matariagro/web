@@ -1,6 +1,56 @@
 [
   
   {
+    "title"    : "Solusi Revolusioner: Budidaya Padi dengan Teknologi Rakit Apung untuk Lahan Rawa dan Banjir",
+    "image"    : "/img/padi_apung.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, apung, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/solusi-revolusioner-budidaya-padi-dengan-teknologi-rakit-apung-untuk-lahan-rawa-dan-banjir",
+    "date"     : "2025-01-16 00:00:00 +0700",
+    "desc"     : "Musim penghujan sering kali menjadi tantangan besar bagi para petani padi di Indonesia. Curah hujan yang tinggi, terutama di daerah rawan banjir dan genangan air, dapat menyebabkan kerusakan serius pada tanaman padi. Kondisi ini mengakibatkan akar tanaman terendam dalam waktu lama, menghambat proses pertumbuhan, dan meningkatkan risiko serangan hama dan penyakit. Akibatnya, hasil panen berkurang drastis, bahkan dalam banyak kasus, petani mengalami gagal panen total."
+    } ,
+    
+  {
+    "title"    : "Pemberdayaan Petani Hutan Melalui Budidaya Padi Gogo untuk Meningkatkan Produksi dan Kesejahteraan",
+    "image"    : "/img/padi_hutan.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, pupuk, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/pemberdayaan-petani-hutan-melalui-budidaya-padi-gogo-untuk-meningkatkan-produksi-dan-kesejahteraan",
+    "date"     : "2024-12-05 00:00:00 +0700",
+    "desc"     : "Kawasan hutan di Indonesia memiliki potensi besar untuk dimanfaatkan dalam meningkatkan kesejahteraan masyarakat, khususnya petani hutan. Namun, potensi ini seringkali belum dimaksimalkan akibat berbagai keterbatasan, seperti akses teknologi dan pasar. Salah satu solusi yang kini mendapatkan perhatian adalah budidaya padi gogo."
+    } ,
+    
+  {
+    "title"    : "Optimalisasi Lahan Sawah Tadah Hujan dengan Padi Gogo: Strategi Mencapai Swasembada Beras",
+    "image"    : "/img/padi_gogo_genjah.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, pupuk, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/optimalisasi-lahan-sawah-tadah-hujan-dengan-padi-gogo-strategi-mencapai-swasembada-beras",
+    "date"     : "2024-12-05 00:00:00 +0700",
+    "desc"     : "Indonesia sebagai negara agraris menghadapi tantangan serius dalam mencapai swasembada beras yang berkelanjutan. Ketergantungan tinggi pada lahan sawah irigasi, yang hanya mencakup sekitar 7,4 juta hektare, membuat produksi padi rentan terhadap perubahan iklim dan keterbatasan sumber daya air. Di sisi lain, sawah tadah hujan yang luasnya mencapai 1,9 juta hektare masih kurang optimal dimanfaatkan. Sawah ini sering kali memiliki produktivitas yang rendah akibat ketergantungan pada curah hujan yang tidak menentu dan minimnya penerapan teknologi pertanian modern."
+    } ,
+    
+  {
+    "title"    : "Strategi Jitu Meningkatkan Produksi dan Kesejahteraan Petani Hutan dengan Padi Gogo",
+    "image"    : "/img/padi_gogo.jpg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, pupuk, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/strategi-jitu-meningkatkan-produksi-dan-kesejahteraan-petani-hutan-dengan-padi-gogo",
+    "date"     : "2024-12-04 00:00:00 +0700",
+    "desc"     : "Indonesia memiliki luas kawasan hutan yang mencapai 120 juta hektare, namun sebagian besar lahan tersebut belum sepenuhnya dimanfaatkan untuk mendukung produksi pangan dan kesejahteraan petani. Melalui pendekatan agroforestri, padi gogo menjadi salah satu solusi efektif untuk memanfaatkan lahan hutan kering tanpa merusak ekosistem. Dengan teknologi dan strategi budidaya yang tepat, petani hutan dapat meningkatkan produksi padi sekaligus meningkatkan pendapatan mereka secara berkelanjutan."
+    } ,
+    
+  {
+    "title"    : "Padi Gogo: Solusi Cerdas Tingkatkan Produksi Padi Nasional di Lahan Suboptimal",
+    "image"    : "/img/unsoed1_sawah.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, pupuk, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/padi-gogo-solusi-cerdas-tingkatkan-produksi-padi-nasional-di-lahan-suboptimal",
+    "date"     : "2024-12-04 00:00:00 +0700",
+    "desc"     : "Padi merupakan komoditas utama yang menopang ketahanan pangan nasional. Namun, tantangan seperti keterbatasan lahan sawah dan kebutuhan akan peningkatan produksi membuat inovasi dalam pertanian semakin mendesak. Salah satu solusi yang mulai mendapatkan perhatian adalah padi gogo, varietas padi yang mampu tumbuh di lahan kering atau suboptimal. Dengan potensi luas lahan kering di Indonesia mencapai lebih dari 12 juta hektare, pengembangan padi gogo bisa menjadi kunci untuk meningkatkan produksi padi nasional tanpa perlu membuka lahan baru."
+    } ,
+    
+  {
     "title"    : "Rahasia Sukses Meningkatkan Hasil Panen Padi dengan Teknik Budidaya Modern!",
     "image"    : "/img/budidaya_padi.jpg",    
     "category" : "Inovasi",
