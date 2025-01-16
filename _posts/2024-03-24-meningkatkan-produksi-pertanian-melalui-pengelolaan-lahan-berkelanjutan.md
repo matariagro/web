@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "pengelolaan lahan berkelanjutan, praktik pertanian organik, konsultan pertanian, pelatihan pertanian, Matari Agro Indonesia"
 desk: "Pelajari pentingnya pengelolaan lahan berkelanjutan dalam pertanian, praktik organik, dan peran Matari Agro Indonesia dalam meningkatkan keberlanjutan pertanian"
 image: pemeriksaan_protani.jpg
+img-alt: Pemeriksaaan Lapangan Padi Protani
 ---
 
 Pertanian adalah tulang punggung perekonomian Indonesia, memberikan mata pencaharian bagi jutaan petani dan menyediakan pangan bagi masyarakat. Namun, tantangan seperti perubahan iklim, degradasi tanah, dan tekanan ekonomi telah menempatkan pertanian dalam posisi yang rentan. Salah satu kunci untuk mengatasi tantangan ini adalah melalui pengelolaan lahan yang berkelanjutan. Di tengah era perubahan iklim dan pertumbuhan populasi yang cepat, menjaga dan mengelola lahan secara berkelanjutan menjadi krusial dalam meningkatkan produksi pertanian.

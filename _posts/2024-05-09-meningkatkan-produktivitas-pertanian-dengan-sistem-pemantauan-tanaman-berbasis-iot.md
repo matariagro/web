@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung_presisi.jpg
+img-alt: Jagung Presisi
 ---
 
 Pertanian modern semakin mengandalkan teknologi untuk meningkatkan efisiensi dan produktivitas. Salah satu inovasi terbaru yang telah membawa perubahan signifikan dalam cara petani mengelola pertanian mereka adalah penerapan sistem pemantauan tanaman berbasis Internet of Things (IoT). Dengan menggunakan sensor dan perangkat terhubung, sistem ini memungkinkan petani untuk memantau kondisi tanaman secara real-time dan mengambil tindakan yang diperlukan untuk mengoptimalkan pertumbuhan dan hasil panen.

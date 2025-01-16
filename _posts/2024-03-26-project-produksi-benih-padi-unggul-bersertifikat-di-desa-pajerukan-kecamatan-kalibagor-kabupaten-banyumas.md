@@ -4,6 +4,7 @@ title: "Project: Produksi benih padi unggul bersertifikat di Desa Pajerukan Keca
 subtitle: Produksi Benih Unggul
 nav: Artikel
 image: produksi_benih.jpg
+img-alt: Produksi Benih
 ---
 
 Di tengah upaya memajukan sektor pertanian, sebuah kerja sama yang menarik antara kelompok tani Ngudi Tuwuh di Desa Pajerukan, Kecamatan Kalibagor, Kabupaten Banyumas dengan berbagai pihak telah berhasil menciptakan terobosan yang menguntungkan bagi petani. Kegiatan ini dimulai dengan proses sosialisasi yang membawa kabar baik tentang peluang kerja sama dalam produksi benih padi bersertifikat varietas Inpago Unsoed Protani. Kegiatan dilaksanakan pada musim tanam tahun 2020/2021 yang melibatkan 15 petani.

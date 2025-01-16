@@ -8,6 +8,7 @@ tags: pertanian inovatif SRI sistem intensifikasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_sri.jpg
+img-alt: Padi SRI
 ---
 
 Sistem Intensifikasi Padi atau System Rice of Intensification (SRI) telah menjadi metode budidaya padi yang diminati karena mampu meningkatkan produktivitas dengan cara yang lebih efisien dan berkelanjutan. Konsep SRI didasarkan pada enam komponen penting yang harus diterapkan dengan cermat untuk mencapai hasil yang optimal.

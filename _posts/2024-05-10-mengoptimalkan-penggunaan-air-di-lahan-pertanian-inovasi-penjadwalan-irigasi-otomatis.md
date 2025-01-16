@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi transpalanter regenerasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: irigasi.jpeg
+img-alt: Irigasi Sawah
 ---
 
 Penggunaan air yang efisien dan cerdas adalah kunci keberhasilan dalam pertanian modern. Di PT Matari Agro Indonesia, upaya terus dilakukan untuk meningkatkan penggunaan air di lahan pertanian dengan memanfaatkan inovasi terkini dalam penjadwalan irigasi otomatis.

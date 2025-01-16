@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: buncis_kenya.jpeg
+img-alt: Buncis Kenya
 ---
 
 Buncis Kenya telah menjadi primadona di dunia pertanian, menarik perhatian baik dari pasar lokal maupun internasional. Dengan karakteristik yang unik dan keistimewaan yang dimilikinya, buncis Kenya menawarkan potensi besar bagi para petani dan pengusaha di Indonesia. Varietas ini bukan hanya memberikan hasil panen yang melimpah, tetapi juga memiliki citarasa yang istimewa, membuatnya menjadi pilihan utama di berbagai masakan dunia. Dalam artikel ini, kami akan menjelajahi lebih dalam tentang budidaya buncis Kenya, dari keunggulannya hingga proses budidayanya, serta potensi keuntungan yang dapat Anda raih.

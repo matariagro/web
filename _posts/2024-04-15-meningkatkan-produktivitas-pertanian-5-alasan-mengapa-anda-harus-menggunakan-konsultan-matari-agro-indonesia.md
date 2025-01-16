@@ -6,6 +6,7 @@ desk: "Temukan mengapa mempekerjakan konsultan pertanian seperti Matari Agro Ind
 subtitle: Manajemen Produksi
 nav: Manajemen
 image: iot_padi.jpg
+img-alt: IOT Padi
 ---
 
 Perusahaan pertanian baru-baru ini mulai tertarik untuk mempekerjakan perusahaan konsultan pertanian di Indonesia. Industri pertanian menyumbang 13,78% dari Produk Domestik Bruto (PDB) nasional dan mempekerjakan sekitar 34% dari angkatan kerja di negara ini. Namun, sektor ini telah mengalami keterlambatan dalam beberapa tahun terakhir dalam memperbarui metode dan penggunaan teknologi. Di sinilah perusahaan konsultan pertanian memainkan peran besar dalam masa depan pertanian di Indonesia. Berikut adalah 5 alasan mengapa Anda harus mempekerjakan perusahaan konsultan pertanian di Indonesia untuk proyek pertanian Anda.

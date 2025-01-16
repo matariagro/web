@@ -8,6 +8,7 @@ tags: pertanian inovatif organik deversifikasi pangan alternatif konsultan ketah
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pangan_alternatif.jpg
+img-alt: Pangan Alternatif
 ---
 
 Diversifikasi pangan adalah strategi penting yang dirancang untuk mengurangi ketergantungan pada satu jenis makanan, seperti beras, guna memperkuat ketahanan pangan nasional. Di Indonesia, konsumsi beras mencapai angka yang sangat tinggi, yaitu 94,9 kg per kapita per tahun. Tingginya ketergantungan masyarakat pada beras menimbulkan risiko terhadap stabilitas pangan, terutama jika terjadi gangguan pada produksi atau distribusi beras. Oleh karena itu, gerakan diversifikasi pangan sangat diperlukan untuk mengajak masyarakat mengonsumsi sumber karbohidrat lokal nonberas seperti jagung, ubi jalar, sagu, dan talas.

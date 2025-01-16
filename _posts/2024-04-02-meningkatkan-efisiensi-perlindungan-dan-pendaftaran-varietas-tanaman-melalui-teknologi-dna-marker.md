@@ -4,6 +4,7 @@ title: "Meningkatkan Efisiensi Perlindungan dan Pendaftaran Varietas Tanaman mel
 subtitle: Inovasi Teknologi
 nav: Teknologi
 image: dna_maker.jpg
+img-alt: DNA Maker
 ---
 
 Pemanfaatan teknologi DNA Marker telah menjadi sorotan sebagai solusi terobosan dalam mempercepat proses perlindungan, pendaftaran, dan pelepasan varietas tanaman. Dr. Prihasto Setyanto, Plt Sekretaris Jenderal Kementerian Pertanian, menyoroti bahwa proses pelepasan varietas tanaman seringkali memakan waktu lama karena uji keunggulan. Oleh karena itu, penggunaan teknologi DNA Marker diakui sebagai langkah penting untuk memastikan keakuratan pengujian dalam ranah PVT (Perlindungan Varietas Tanaman), serta pengujian terkait pendaftaran dan pelepasan varietas tanaman.

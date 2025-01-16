@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi bebas pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: limbah_padi.jpg
+img-alt: Limbah Padi
 ---
 
 Pemanfaatan limbah pertanian untuk menghasilkan pupuk organik tidak hanya mengurangi jumlah limbah yang tidak terpakai tetapi juga mendukung pertanian berkelanjutan dan ramah lingkungan. Proses ini melibatkan serangkaian langkah mulai dari pengumpulan limbah pertanian seperti jerami, kompos sisa panen, dan hijauan, hingga pengolahan melalui teknik fermentasi dan dekomposisi yang terkendali. PT Matari Agro Indonesia memainkan peran kunci dalam mengedukasi petani mengenai teknik-teknik modern ini, memberikan panduan dalam memilih bahan baku yang tepat dan proses pengolahan yang optimal untuk menghasilkan pupuk organik yang berkualitas tinggi.

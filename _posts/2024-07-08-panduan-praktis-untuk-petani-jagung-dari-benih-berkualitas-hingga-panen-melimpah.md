@@ -8,6 +8,7 @@ tags: pertanian inovatif agribisnis jagung konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: trik_jagung.jpg
+img-alt: Trik Praktis Jagung
 ---
 
 Jagung merupakan salah satu komoditas pertanian penting di Indonesia, tidak hanya sebagai sumber pangan tetapi juga sebagai bahan baku industri. Keberhasilan dalam budidaya jagung dapat memberikan keuntungan ekonomi yang signifikan bagi petani. Artikel ini memberikan panduan lengkap dan praktis untuk petani, mulai dari cara memilih benih berkualitas hingga teknik perawatan dan pengendalian hama secara alami. Diharapkan, dengan menerapkan tips dan trik yang disajikan, para petani dapat meningkatkan produktivitas dan kualitas hasil panen jagung mereka.

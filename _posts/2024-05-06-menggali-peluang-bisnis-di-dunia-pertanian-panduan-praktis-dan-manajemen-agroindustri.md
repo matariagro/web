@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi agroindustri peluang usaha regenerasi
 subtitle: Industri Pertanian
 nav: Agroindustri
 image: agroindustri_kedelai.jpg
+img-alt: Agroindustri Kedelai
 ---
 
 Pertanian memiliki peran vital dalam memastikan ketahanan pangan dan pertumbuhan ekonomi suatu negara. Di Indonesia, dengan sumber daya alam yang melimpah, sektor pertanian memiliki potensi besar untuk berkembang. Namun, untuk mengoptimalkan potensi ini, diperlukan pemahaman yang mendalam tentang karakteristik usaha pertanian yang menjanjikan di masa depan. Artikel ini mengulas secara komprehensif karakteristik tersebut, yang meliputi aspek-aspek seperti potensi keuntungan, keberlanjutan modal, kontinuitas usaha, kreativitas, dan nilai jual produk.

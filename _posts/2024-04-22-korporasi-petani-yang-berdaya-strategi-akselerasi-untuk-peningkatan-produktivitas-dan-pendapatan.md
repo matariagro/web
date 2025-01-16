@@ -8,6 +8,7 @@ tags: korporasi petani pertanian modern transformasi ekonomi inovasi teknologi
 subtitle: Korporasi Petani
 nav: Korporasi
 image: supervisi_padi.jpg
+img-alt: Supervisi Padi
 ---
 
 

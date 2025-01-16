@@ -8,6 +8,7 @@ tags: pertanian inovatif organik potensi teknologi konsultan ketahanan pangan
 subtitle: Peluang Usaha
 nav: Agribisnis
 image: green_house.jpg
+img-alt: Green House
 ---
 
 Pertanian memegang peranan vital dalam ekonomi global, tidak terkecuali di Indonesia. PT Matari Agro Indonesia memahami betapa pentingnya sektor ini dan telah berkomitmen untuk memberikan layanan konsultan dan pusat pelatihan yang mendukung pertumbuhan dan inovasi dalam pertanian modern. Dengan adanya dorongan inovasi teknologi dan perubahan pola hidup yang meningkatkan permintaan akan produk pertanian yang lebih berkelanjutan dan bermutu tinggi, PT Matari Agro Indonesia hadir sebagai mitra yang dapat membantu petani dan pelaku usaha pertanian mengoptimalkan produksi mereka.

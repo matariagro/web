@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "hilirisasi pertanian, Matari Agro Indonesia, inovasi pertanian, korporasi petani, praktik berkelanjutan"
 desk: "Temukan bagaimana Matari Agro Indonesia memimpin gerakan hilirisasi pertanian dengan pendekatan holistik, membantu petani meningkatkan nilai tambah produk mereka dan bersaing dalam pasar global"
 image: rice_mill.jpg
+img-alt: Rice Mill Unit
 ---
 
 Pertanian telah menjadi tulang punggung ekonomi Indonesia selama berabad-abad. Namun, di era modern ini, tantangan yang dihadapi oleh petani semakin kompleks. Untuk memenuhi kebutuhan masyarakat yang semakin meningkat, sambil menghadapi perubahan iklim dan tekanan ekonomi, pendekatan baru diperlukan. Di sinilah konsep hilirisasi pertanian menjadi semakin penting, dan Matari Agro Indonesia telah memimpin gerakan ini dengan pendekatan holistiknya.

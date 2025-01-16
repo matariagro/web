@@ -8,6 +8,7 @@ tags: pertanian inovatif organik terong bebas pestisida konsultan ketahanan pang
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: eggplant_organik.jpg
+img-alt: Eggplant Organik
 ---
 
 Budidaya terong organik di Indonesia semakin mendapat perhatian karena masyarakat semakin sadar akan pentingnya produk pertanian yang tidak hanya sehat tetapi juga berkelanjutan bagi lingkungan. Di tengah tuntutan akan produk pangan yang bebas dari residu kimia, teknik budidaya terong organik menjadi pilihan utama bagi petani yang ingin menghasilkan tanaman dengan nilai tambah tinggi. Artikel ini akan mengulas berbagai teknik efektif dalam budidaya terong organik, dengan fokus pada pendekatan pertanian terpadu dan pengendalian biologis yang diterapkan oleh PT Matari Agro Indonesia. Sebagai pelaku utama dalam industri ini, PT Matari Agro tidak hanya berperan sebagai konsultan untuk petani, tetapi juga sebagai pusat pelatihan yang mendukung pengembangan dan peningkatan kompetensi dalam praktik pertanian organik di seluruh Indonesia.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pemuliaan padi regenerasi konsultan k
 subtitle: Inovasi Pertanian
 nav: Produksi Padi
 image: karanganyar_ciamis.jpg
+img-alt: Karanganyar Ciamis
 ---
 
 ##### Situasi Terkini

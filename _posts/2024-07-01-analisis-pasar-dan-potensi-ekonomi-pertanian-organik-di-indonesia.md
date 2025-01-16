@@ -8,6 +8,7 @@ tags: pertanian inovatif organik pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: organik_sayuran.jpeg
+img-alt: Organik Sayuran
 ---
 
 Pertanian organik di Indonesia saat ini sedang mengalami pertumbuhan yang pesat, terutama didorong oleh meningkatnya kesadaran akan keberlanjutan lingkungan dan pentingnya produk pertanian yang sehat bagi konsumen. Perkembangan ini tercermin dari meningkatnya jumlah petani yang beralih ke metode pertanian organik, yang tidak hanya mengurangi penggunaan pestisida dan pupuk kimia tetapi juga meningkatkan kualitas hasil pertanian. Artikel ini akan membahas bagaimana pasar pertanian organik di Indonesia terus berkembang, mencakup potensi ekonominya yang signifikan dalam konteks global dan lokal.

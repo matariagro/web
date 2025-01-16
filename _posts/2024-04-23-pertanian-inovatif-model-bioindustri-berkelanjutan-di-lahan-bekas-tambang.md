@@ -8,6 +8,7 @@ tags: pertanian inovatif bioindustri berkelanjutan lahan bekas tambang konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: lahan_tambang.jpg
+img-alt: Lahan Tambang
 ---
 
 Pertanian inovatif menjadi kunci dalam menjawab tantangan pertanian modern, terutama di wilayah-wilayah dengan kondisi lingkungan yang tidak biasa, seperti lahan bekas tambang. Di tengah kendala-kendala yang dihadapi, model inovasi pertanian bioindustri berkelanjutan muncul sebagai solusi yang menjanjikan.

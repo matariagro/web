@@ -6,6 +6,7 @@ desk: "Jelajahi potensi strategi berbasis data dalam pertanian untuk masa depan 
 subtitle: Basis Data
 nav: Manajemen
 image: drone_padi.jpg
+img-alt: Drone Padi
 ---
 
 Pertanian telah menjadi tulang punggung ekonomi Indonesia selama berabad-abad, dan pada masa depannya, potensi sektor ini untuk terus berkembang menjadi semakin penting. Namun, dengan tantangan seperti perubahan iklim, peningkatan permintaan pangan, dan tekanan atas sumber daya alam, penting bagi pertanian untuk terus berinovasi dan beradaptasi. Salah satu cara terbaik untuk melakukannya adalah melalui strategi berbasis data yang canggih, dengan bantuan konsultan manajemen pertanian yang ahli.

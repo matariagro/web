@@ -8,6 +8,7 @@ tags: pertanian inovatif turunan beras padi pangan alternatif konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: gabah_panen.jpg
+img-alt: Gabah Panen
 ---
 
 Pertanian merupakan sektor penting dalam ekonomi Indonesia, dan padi adalah salah satu komoditas utama yang diandalkan oleh jutaan petani. Namun, harga gabah yang anjlok dalam beberapa pekan terakhir telah menyebabkan kepanikan di kalangan petani. Di berbagai daerah, harga gabah mengalami penurunan signifikan, membuat para petani kesulitan untuk menutupi biaya produksi dan mendapatkan keuntungan yang layak. Kondisi ini memicu kekhawatiran akan masa depan pertanian padi di Indonesia dan keberlanjutan hidup para petani kecil.

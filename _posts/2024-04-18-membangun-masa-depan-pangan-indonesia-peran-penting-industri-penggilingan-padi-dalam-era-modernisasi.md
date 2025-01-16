@@ -6,6 +6,7 @@ desk: "Temukan peran strategis industri penggilingan padi dalam memperkuat ketah
 subtitle: Modernisasi Industri Pertanian
 nav: Teknologi
 image: rmu_modern.jpg
+img-alt: RMU Modern
 ---
 
 

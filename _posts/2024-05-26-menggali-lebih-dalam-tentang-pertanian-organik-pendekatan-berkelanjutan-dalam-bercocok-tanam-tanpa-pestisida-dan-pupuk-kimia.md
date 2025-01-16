@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor sayuran perkotaan konsultan ketahanan pa
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pertanian_organik_horti.jpg
+img-alt: Pertanian Organik Hortikultura
 ---
 
 Pertanian organik telah menjadi tren yang semakin populer di kalangan petani dan konsumen yang peduli terhadap kesehatan dan keberlanjutan lingkungan. Konsep dasar dari pertanian organik adalah bercocok tanam tanpa menggunakan pestisida, herbisida, atau pupuk kimia sintetis. Sebaliknya, teknik alami seperti kompos, pengomposan hijau, pupuk hijau, dan pengendalian hama dengan predator alami digunakan untuk menjaga keseimbangan ekosistem pertanian.

@@ -4,6 +4,7 @@ title: "Teknologi Modern untuk Budidaya Padi Apung: Melangkah ke Masa Depan Pert
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_apung.jpg
+img-alt: Padi Apung
 ---
 
 Budidaya padi apung telah menjadi solusi vital bagi petani di daerah risiko banjir. Namun, tantangan utama yang dihadapi adalah keterbatasan dalam teknologi yang masih bersifat tradisional dan kurangnya optimalisasi dosis dan teknik pemupukan. Untuk mengatasi hal ini, Pusat Penelitian dan Pengembangan Tanaman Pangan (Puslitbangtan) telah memulai pengembangan teknologi model budidaya padi apung dengan Riset Pengembangan Inovatif Kolaboratif (RPIK) di kolam Agro Edu Wisata IP2TP Sukamandi, Balai Besar Penelitian Tanaman Padi (BB Padi).

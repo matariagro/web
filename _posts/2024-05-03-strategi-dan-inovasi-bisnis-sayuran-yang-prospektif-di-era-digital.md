@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi KUR regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sayur_segar.jpg
+img-alt: Sayur Segar
 ---
 
 

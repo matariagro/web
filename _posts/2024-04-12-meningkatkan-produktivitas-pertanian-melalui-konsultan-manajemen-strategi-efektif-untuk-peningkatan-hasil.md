@@ -6,6 +6,7 @@ desk: "Temukan bagaimana konsultan manajemen pertanian membantu petani di Indone
 subtitle: Konsultan Perencanaan
 nav: Produksi Padi
 image: produksi_padi.jpg
+img-alt: Produksi Padi
 ---
 
 Indonesia, dengan kekayaan alamnya yang melimpah, memiliki potensi besar untuk menjadi salah satu kekuatan pertanian utama di dunia. Namun, tantangan seperti perubahan iklim, fluktuasi pasar, dan infrastruktur yang terbatas seringkali menjadi hambatan bagi petani dalam mencapai potensi maksimal mereka. Di sinilah peran penting konsultan manajemen pertanian hadir: untuk memberikan strategi yang efektif dalam meningkatkan hasil pertanian.

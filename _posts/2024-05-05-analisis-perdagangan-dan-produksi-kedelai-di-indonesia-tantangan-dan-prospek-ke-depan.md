@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kedelai.jpeg
+img-alt: Kedelai
 ---
 
 Produksi kedelai di Indonesia pada tahun 2023 menghadapi tantangan yang signifikan, dengan penurunan produksi yang terus menerus. Data terakhir menunjukkan bahwa produksi kedelai mencapai 270 ribu ton biji kering, menunjukkan penurunan lebih lanjut dari tahun sebelumnya. Provinsi Jawa Barat tetap menjadi kontributor terbesar, meskipun porsi produksinya menurun menjadi 30%. Fenomena ini disebabkan oleh berbagai faktor, termasuk perubahan pola tanam petani, keterbatasan teknologi, dan ketidakpastian cuaca.

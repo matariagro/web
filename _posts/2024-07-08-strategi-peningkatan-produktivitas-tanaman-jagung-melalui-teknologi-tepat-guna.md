@@ -8,6 +8,7 @@ tags: pertanian inovatif agribisnis jagung konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: agribisnis_jagung.jpg
+img-alt: Agribisnis Jagung
 ---
 
 Penggunaan teknologi tepat guna dalam budidaya tanaman jagung memiliki potensi besar untuk meningkatkan produktivitas secara signifikan. Teknologi seperti sistem pemantauan berbasis sensor memungkinkan petani untuk memantau kondisi lahan dan tanaman secara real-time, sehingga mereka dapat mengidentifikasi masalah seperti kekurangan air atau serangan hama lebih awal dan mengambil tindakan yang diperlukan dengan cepat. Dengan pemantauan yang lebih baik, petani dapat mengoptimalkan penggunaan sumber daya dan memastikan tanaman mereka tumbuh dalam kondisi terbaik.

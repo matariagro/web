@@ -8,6 +8,7 @@ tags: Produksi Padi Lahan Teknik Pertanian Panduan
 subtitle: Inovasi Produksi
 nav: Produksi
 image: padi_sawah.jpg
+img-alt: Padi Sawah
 ---
 
 Di tengah tuntutan akan ketersediaan pangan yang stabil dan berkualitas, pertanian padi tetap menjadi tulang punggung bagi masyarakat di berbagai belahan dunia. Namun, untuk mencapai hasil panen yang optimal, persiapan lahan yang tepat adalah kunci utama. Di artikel ini, kami akan membahas langkah-langkah mendalam dalam persiapan lahan untuk pertanian padi, serta teknik pertanian terkini yang dapat membantu meningkatkan produktivitas dan kualitas hasil panen.

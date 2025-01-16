@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor pupuk konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pupuk_organik.png
+img-alt: Pupuk Organik
 ---
 
 Pertanian organik dan ramah lingkungan semakin mendapat perhatian di kalangan petani dan pemangku kepentingan pertanian. Pupuk organik menjadi salah satu komponen kunci dalam praktik pertanian berkelanjutan ini. Artikel ini bertujuan untuk memberikan wawasan mendalam tentang pupuk organik, yang merupakan solusi ramah lingkungan untuk memenuhi kebutuhan nutrisi tanaman tanpa merusak lingkungan.

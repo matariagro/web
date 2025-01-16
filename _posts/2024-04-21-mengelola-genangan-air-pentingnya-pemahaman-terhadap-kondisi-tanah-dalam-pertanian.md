@@ -6,6 +6,7 @@ desk: "Pelajari dampak genangan air pada tanaman dan strategi pengelolaannya dal
 subtitle: Pengendalian OPT
 nav: Pengendalian OPT
 image: genangan_sawah.jpeg
+img-alt: Genangan Sawah
 ---
 
 Di dunia pertanian, genangan air dapat menjadi salah satu masalah yang serius. Kondisi ini terjadi ketika tanah jenuh dengan air dan kehilangan fase gas, yang secara signifikan dapat memengaruhi pertumbuhan tanaman dan kesehatan lahan. Untuk memahami lebih lanjut tentang bagaimana genangan air mempengaruhi pertanian, mari kita telusuri lebih dalam.

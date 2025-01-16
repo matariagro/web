@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor padi perubahan iklim rendah emisi konsul
 subtitle: Strategi Pertanian
 nav: Strategi
 image: pertanian_berkelanjutan_indonesia.jpg
+img-alt: Pertanian Berkelanjutan Indonesia
 ---
 
 Pertanian berkelanjutan adalah kunci untuk menjawab tantangan global dalam bidang pangan, lingkungan, dan ekonomi. Krisis iklim, degradasi tanah, dan peningkatan populasi menuntut adanya sistem pertanian yang tidak hanya produktif tetapi juga ramah lingkungan dan berkelanjutan. Dalam konteks ini, Indonesia, dengan kekayaan alamnya, memiliki potensi besar untuk menjadi pionir dalam praktik pertanian berkelanjutan. Namun, untuk mencapai hal tersebut, diperlukan pendekatan holistik yang melibatkan berbagai pemangku kepentingan mulai dari petani individu hingga pemerintah daerah.

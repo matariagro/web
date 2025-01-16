@@ -4,6 +4,7 @@ title: "Pelatihan perkoperasian, keuangan dan perpajakan bagi petani Banyumas Ra
 subtitle: Pelatihan Perkoperasian
 nav: Artikel
 image: pelatihan_koperasi.jpg
+img-alt: Pelatihan Koperasi
 ---
 
 Sebuah langkah besar telah diambil oleh petani di Kabupaten Banyumas, bersama dengan Koperasi Produsen Citra Kinaraya, dalam upaya memperkuat kelembagaan korporasi petani. Kegiatan pelatihan perkoperasian, keuangan, dan perpajakan telah diselenggarakan, menghadirkan pengurus koperasi petani dan para petani dari Kabupaten Banyumas dan Kabupaten Purbalingga. Kegiatan dilaksanakan pada tanggal 21 November 2021 dan diikuti oleh 15 orang bertempat di Garden Cafe di Jl. Soeparno Purwokerto.

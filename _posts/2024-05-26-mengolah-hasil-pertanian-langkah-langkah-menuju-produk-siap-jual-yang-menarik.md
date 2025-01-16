@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor olahan sayuran nutrisi pupuk konsultan k
 subtitle: Hasil Pertanian
 nav: Panen
 image: packing_sayur.jpg
+img-alt: Packing Sayuran
 ---
 
 Pengolahan hasil pertanian merupakan langkah penting dalam meningkatkan nilai tambah produk pertanian dan membuka peluang bisnis baru. Dengan mengolah hasil pertanian menjadi produk siap jual, petani dapat menambah nilai produk mereka dan menciptakan produk-produk yang menarik minat konsumen.

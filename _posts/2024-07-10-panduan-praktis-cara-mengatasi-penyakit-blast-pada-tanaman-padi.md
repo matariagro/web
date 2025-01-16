@@ -8,6 +8,7 @@ tags: pertanian inovatif hama wereng batang coklat konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: blast_padi.jpg
+img-alt: Blast Padi
 ---
 
 Penyakit blast padi, yang disebabkan oleh jamur Magnaporthe oryzae, merupakan ancaman serius bagi tanaman padi di Indonesia. Penyakit ini dapat menyerang berbagai bagian tanaman padi, termasuk daun, batang, dan malai, sehingga menyebabkan penurunan hasil panen yang signifikan. Dampaknya sangat merugikan bagi petani, karena penyakit ini dapat mengakibatkan gagal panen jika tidak ditangani dengan tepat. Oleh karena itu, memahami cara mengidentifikasi, mencegah, dan mengendalikan penyakit blast padi sangat penting bagi keberlangsungan usaha pertanian padi di Indonesia.

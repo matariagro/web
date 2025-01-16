@@ -4,6 +4,7 @@ title: "Memanfaatkan Limbah Pertanian: Potensi Energi Bersih dari Jerami dan Sek
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jerami.jpg
+img-alt: Jerami Padi
 ---
 
 Indonesia dikenal sebagai salah satu penghasil beras terbesar di dunia, namun demikian, tingginya produksi padi juga meninggalkan limbah jerami dan sekam padi yang melimpah. Selama ini, limbah ini dimanfaatkan sebagai bahan organik atau pakan ternak, namun tahukah Anda bahwa jerami dan sekam padi juga dapat dijadikan sebagai bahan bakar alternatif yang berkelanjutan?

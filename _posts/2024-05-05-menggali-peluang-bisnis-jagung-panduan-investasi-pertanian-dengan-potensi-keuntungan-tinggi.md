@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung.jpg
+img-alt: Jagung
 ---
 
 

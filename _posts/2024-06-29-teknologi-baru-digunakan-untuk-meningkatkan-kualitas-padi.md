@@ -8,6 +8,7 @@ tags: pertanian inovatif turunan beras padi pangan alternatif konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_protani.jpeg
+img-alt: Padi Protani
 ---
 
 Pertanian padi merupakan sektor penting dalam ekonomi Indonesia, di mana sebagian besar penduduknya menggantungkan hidup dari budidaya tanaman ini. Dalam menghadapi tantangan global seperti perubahan iklim, degradasi lahan, dan kebutuhan pangan yang terus meningkat, para peneliti terus mengembangkan teknologi baru untuk meningkatkan kualitas dan produktivitas padi. PT Matari Agro Indonesia, sebagai pusat layanan konsultan dan pelatihan pertanian terpadu, berkomitmen untuk mendukung petani melalui penerapan teknologi terbaru yang dapat meningkatkan kesejahteraan mereka.

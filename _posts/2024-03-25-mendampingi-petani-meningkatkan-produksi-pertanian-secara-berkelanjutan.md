@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "Matari Agro Indonesia, mendampingi petani, peningkatan produksi pertanian, kolaborasi pertanian"
 desk: "Temukan peran Matari Agro Indonesia dalam mendampingi petani, meningkatkan produksi pertanian melalui kolaborasi, bimbingan, dan solusi berkelanjutan"
 image: pendampingan.jpg
+img-alt: Pendampingan Petani
 ---
 
 Matari Agro Indonesia telah muncul sebagai pelopor utama dalam mendampingi petani untuk meningkatkan produksi pertanian di Indonesia. Mereka tidak hanya menjadi penonton, tetapi mitra sejati dalam perjuangan petani, mengusung moto "Mendampingi petani meningkatkan produksi" dengan semangat kolaborasi dan keberanian.

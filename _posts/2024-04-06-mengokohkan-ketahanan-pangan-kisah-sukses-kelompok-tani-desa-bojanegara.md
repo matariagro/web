@@ -6,6 +6,7 @@ desk: "Program pendampingan kelompok tani di desa Bojanegara, Kecamatan Padamara
 subtitle: Ketahanan Pangan
 nav: Ketahanan
 image: ketahanan_bojanegara.jpg
+img-alt: Ketahanan Pangan Bojanegara
 ---
 
 Desa Bojanegara, yang terletak di Kecamatan Padamara, Kabupaten Purbalingga, telah menjadi sorotan karena keberhasilannya dalam meningkatkan ketahanan pangan melalui program pendampingan kelompok tani. Program ini merupakan hasil kerja sama antara Badan Permusyawaratan Desa (BPD) Bojanegara dan berbagai pihak terkait.

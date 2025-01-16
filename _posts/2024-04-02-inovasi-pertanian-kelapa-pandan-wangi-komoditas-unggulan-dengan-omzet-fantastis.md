@@ -4,6 +4,7 @@ title: "Inovasi Pertanian: Kelapa Pandan Wangi, Komoditas Unggulan dengan Omzet 
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kelapa_pandanwangi.jpg
+img-alt: Kelapa Pandanwangi
 ---
 
 Di tengah pesatnya perkembangan sektor pertanian, seorang pekebun di Sumatera Utara telah mencatatkan pencapaian luar biasa dengan menghasilkan omzet Rp26 juta per minggu dari penjualan kelapa pandan wangi. Keberhasilan ini didorong oleh nilai jual kelapa pandan wangi yang tinggi, mencapai Rp10.000 hingga Rp12.000 per buah, berbanding terbalik dengan kelapa biasa yang hanya dihargai sekitar Rp5.000 per buah.

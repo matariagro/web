@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Pemupukan
 image: pemupukan.jpg
+img-alt: Pemupukan
 ---
 
 Pemupukan merupakan aspek krusial dalam pertanian yang memengaruhi pertumbuhan dan hasil tanaman pangan serta hortikultura. Untuk memastikan tanaman Anda berkembang dengan optimal, diperlukan langkah-langkah yang tepat dalam memupuk tanah. Langkah pertama yang harus dilakukan adalah melakukan analisis tanah secara teratur. Analisis ini akan memberikan gambaran tentang kondisi tanah, termasuk tingkat keasaman, kelembaban, dan kandungan nutrisi yang ada.

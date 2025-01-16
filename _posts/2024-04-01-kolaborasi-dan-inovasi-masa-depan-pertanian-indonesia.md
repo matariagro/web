@@ -4,6 +4,7 @@ title: "Kolaborasi dan Inovasi: Masa Depan Pertanian Indonesia"
 subtitle: Artikel
 nav: Artikel
 image: karanggambas.jpg
+img-alt: Kolaborasi Karanggambas
 ---
 
 Kolaborasi dan inovasi merupakan dua elemen kunci yang tidak terpisahkan dalam menjawab tantangan yang dihadapi oleh sektor pertanian Indonesia di masa depan. Kolaborasi yang efektif antara pemerintah, institusi riset, petani, dan sektor swasta menjadi fondasi utama dalam mendorong terciptanya inovasi yang menggabungkan kearifan lokal dengan teknologi modern. Pemerintah memiliki peran penting dalam menciptakan kebijakan yang mendukung kerjasama antarstakeholder serta memberikan insentif bagi inovasi dalam sektor pertanian. Sementara itu, institusi riset berperan dalam menghasilkan pengetahuan dan teknologi yang relevan dengan kondisi lokal, yang kemudian dapat diadopsi dan diterapkan oleh petani.

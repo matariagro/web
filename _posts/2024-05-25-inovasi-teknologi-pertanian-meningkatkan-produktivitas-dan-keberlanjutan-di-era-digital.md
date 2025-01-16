@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi digital padi perubahan iklim ren
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: digital_farm.jpg
+img-alt: Digital Farm
 ---
 
 Pertanian, sebagai tulang punggung ekonomi di banyak negara, terus menghadapi tekanan untuk meningkatkan produktivitas sambil memperhatikan keberlanjutan lingkungan. Dalam era digital saat ini, inovasi teknologi menjadi kunci untuk mencapai tujuan ini. Salah satu tren yang paling mencolok adalah penggunaan drone dalam pertanian.

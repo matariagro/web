@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "petani padi, perubahan iklim, tantangan pertanian, teknologi irigasi, kebijakan pertanian"
 desk: "Pelajari tantangan petani padi Indonesia dalam menghadapi perubahan iklim dan solusi berkelanjutan melalui kebijakan, teknologi, dan pendidikan petani"
 image: panen.jpg
+img-alt: Panen Padi
 ---
 
 Dalam menghadapi perubahan iklim global yang cepat, petani padi di Indonesia menghadapi tantangan untuk mempertahankan produksi pangan. Peristiwa cuaca ekstrem seperti hujan lebat, banjir dan kekeringan mengancam hasil panen. Ditambah dengan kurangnya inovasi dan adopsi teknologi, mata pencaharian petani memburuk.

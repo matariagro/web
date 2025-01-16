@@ -8,6 +8,7 @@ tags: pertanian inovatif pupuk organik terintegrasi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pupuk_organik.jpg
+img-alt: Pupuk Organik
 ---
 
 Memahami pentingnya kesuburan tanah adalah langkah awal yang krusial dalam merancang strategi pertanian yang berkelanjutan. PT Matari Agro Indonesia, melalui layanan konsultan dan pelatihan pertaniannya, memberikan penekanan yang serius pada penggunaan pupuk organik sebagai solusi ramah lingkungan. Dengan pendekatan ini, Matari Agro tidak hanya membantu petani meningkatkan hasil pertanian mereka tetapi juga berkontribusi positif terhadap keberlanjutan lingkungan.

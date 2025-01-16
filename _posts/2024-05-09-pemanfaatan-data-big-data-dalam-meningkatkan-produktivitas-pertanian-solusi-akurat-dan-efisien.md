@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung_drone.jpg
+img-alt: Jagung Drone
 ---
 
 Pertanian modern semakin mengandalkan teknologi untuk meningkatkan efisiensi dan produktivitas. Salah satu inovasi terbaru yang telah mengubah lanskap pertanian adalah pemanfaatan data big data. Dalam artikel ini, kita akan menjelajahi bagaimana data big data telah menjadi alat yang penting dalam pengambilan keputusan pertanian yang lebih akurat dan efisien.

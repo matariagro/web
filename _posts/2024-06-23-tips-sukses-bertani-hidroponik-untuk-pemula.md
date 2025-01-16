@@ -8,6 +8,7 @@ tags: pertanian inovatif organik hidroponik sayur sayuran terintegrasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: hidroponik.jpeg
+img-alt: Hidroponik
 ---
 
 Bertani hidroponik semakin populer di Indonesia, terutama di kalangan petani yang memiliki keterbatasan lahan. Sistem ini memungkinkan penanaman tanaman tanpa menggunakan tanah, melainkan dengan media tanam khusus dan larutan nutrisi yang tepat. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan dan pusat pelatihan pertanian, berkomitmen untuk memberikan panduan lengkap agar Anda sukses memulai bertani hidroponik.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pemuliaan padi regenerasi konsultan k
 subtitle: Inovasi Pertanian
 nav: Pemuliaan Tanaman
 image: pemuliaan_padi.jpg
+img-alt: Pemuliaan Padi
 ---
 
 Padi, sebagai tanaman pangan utama di dunia, memiliki peran krusial dalam memenuhi kebutuhan pangan global. Potensi varietas padi dapat ditingkatkan melalui program pemuliaan tanaman yang efektif. Berbagai strategi pemuliaan tanaman padi menjadi kunci untuk mencapai swasembada pangan. Berikut beberapa langkah yang dapat diambil:

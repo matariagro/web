@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi intermiten padi perubahan iklim 
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: inovasi_pertanian.jpg
+img-alt: Inovasi PErtanian
 ---
 
 PT Matari Agro Indonesia, melalui dedikasi yang tinggi terhadap keberlanjutan, berperan sebagai agen perubahan dalam menghadapi tantangan besar dalam sektor pertanian. Dalam konteks global di mana perubahan iklim dan degradasi tanah semakin memprihatinkan, pendekatan pertanian organik menjadi semakin vital. Dengan fokus pada penggunaan praktik yang ramah lingkungan dan pemotongan penggunaan bahan kimia sintetis, pertanian organik bukan hanya memberikan solusi untuk mengurangi dampak negatif terhadap lingkungan, tetapi juga meningkatkan kesejahteraan petani dan memperkuat ketahanan pangan di tingkat lokal. Melalui inovasi dan pendekatan kolaboratif, PT Matari Agro Indonesia berkomitmen untuk menjadi pemimpin dalam memperluas adopsi praktik pertanian organik di Indonesia.

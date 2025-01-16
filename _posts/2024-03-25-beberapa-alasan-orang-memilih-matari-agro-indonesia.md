@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "teknologi pertanian, pendekatan berkelanjutan, Matari Agro Indonesia, inovasi pertanian"
 desk: "Temukan keunggulan Matari Agro Indonesia dalam teknologi dan pendekatan berkelanjutan, membantu petani meningkatkan produktivitas dan profitabilitas mereka"
 image: diseminasi_iptek.jpg
+img-alt: Diseminasi Ipteks
 ---
 
 Dikenal karena keunggulan teknologi dan inovasinya, Matari Agro Indonesia menjadi pilihan utama dalam layanan pertanian. Mulai dari pemuliaan tanaman hingga teknik budidaya modern, kami selalu memperkenalkan solusi terdepan bagi petani untuk meningkatkan produktivitas dan profitabilitas mereka. Komitmen kami terhadap pemanfaatan teknologi terkini dan praktik terbaik tercermin dalam setiap layanan, memberikan hasil optimal kepada pelanggan kami.

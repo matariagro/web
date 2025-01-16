@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Pemupukan
 image: ladang_sayuran.jpg
+img-alt: Ladang Sayuran
 ---
 
 Pertanian sayuran merupakan salah satu sektor vital dalam pemenuhan kebutuhan pangan global. Namun, tantangan yang seringkali dihadapi oleh para petani adalah lahan suboptimal yang dapat memengaruhi pertumbuhan dan hasil panen sayuran. Dalam upaya meningkatkan produktivitas pertanian di lahan-lahan seperti ini, pemupukan menjadi salah satu faktor kunci yang perlu diperhatikan dengan seksama. Artikel ini mengulas secara komprehensif strategi optimalisasi pemupukan untuk pertanian sayuran di lahan suboptimal.

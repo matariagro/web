@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi transpalanter regenerasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: transplanter.jpg
+img-alt: Transplanter
 ---
 
 Dalam era digital ini, teknologi pembelajaran mesin telah membawa revolusi besar dalam berbagai bidang, termasuk pertanian. Di PT Matari Agro Indonesia, penerapan teknologi ini telah membuka pintu menuju prediksi produksi tanaman yang lebih akurat dan pemilihan varietas unggul yang lebih efisien.

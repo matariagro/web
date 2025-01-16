@@ -6,6 +6,7 @@ desk: "Infrastruktur yang memadai seperti irigasi, jalan, dan sistem distribusi 
 subtitle: Insfrastruktur Pertanian
 nav: Insfrastruktur
 image: irigasi.jpg
+img-alt: Irigasi Sawah
 ---
 
 Indonesia, dengan kekayaan alamnya yang melimpah, memiliki potensi besar dalam industri pertanian. Namun, untuk memaksimalkan potensi ini, infrastruktur yang memadai sangatlah penting. Infrastruktur, seperti irigasi, jalan, dan sistem distribusi, merupakan tulang punggung bagi pertumbuhan dan perkembangan sektor pertanian di Indonesia.

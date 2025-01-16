@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pemuliaan padi sri kawung regenerasi 
 subtitle: Inovasi Pertanian
 nav: Pemuliaan
 image: sri_kawung.jpg
+img-alt: Sri Kawung
 ---
 
 Di tengah hamparan sawah yang menghijau di BPP Sri Handayani, kecamatan Wonosobo, kabupaten Wonosobo, terjadi sebuah inovasi pertanian yang menjanjikan. Bapak Tukijab, seorang petani lokal yang visioner, bersama kelompok petani di sekitarnya, telah memulai proyek pemuliaan tanaman padi varietas Sri Kawung. Mereka bertekad untuk menghasilkan varietas padi yang tidak hanya berkualitas tinggi tetapi juga memiliki cita rasa yang enak, pulen, dan aroma wangi yang khas.

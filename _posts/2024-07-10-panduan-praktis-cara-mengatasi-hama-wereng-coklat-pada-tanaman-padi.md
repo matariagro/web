@@ -8,6 +8,7 @@ tags: pertanian inovatif hama wereng batang coklat konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: wbc_padi.jpg
+img-alt: WBC Padi
 ---
 
 Hama wereng coklat (Nilaparvata lugens) merupakan salah satu ancaman terbesar bagi tanaman padi di Indonesia. Serangga ini menyerang tanaman padi dengan cara menghisap cairan dari batang dan daun, yang tidak hanya menyebabkan tanaman menjadi layu dan menguning, tetapi juga dapat mengakibatkan tanaman mati jika serangan terjadi dalam skala besar. Kerugian yang diakibatkan oleh serangan wereng coklat sangat signifikan, mulai dari penurunan hasil panen yang drastis hingga risiko gagal panen yang mengancam kesejahteraan petani.

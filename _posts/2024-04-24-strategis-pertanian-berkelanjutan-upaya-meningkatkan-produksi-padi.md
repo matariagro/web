@@ -8,6 +8,7 @@ tags: pertanian inovatif berkelanjutan sistem intensifikasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_berkelanjutan.jpg
+img-alt: Padi Berkelanjutan
 ---
 
 Pertanian padi bukan sekadar kegiatan ekonomi, tetapi juga menyangkut masalah ketahanan pangan dan stabilitas sosial di Indonesia. Untuk memastikan ketersediaan padi sepanjang tahun, diperlukan strategi-strategi yang bertujuan untuk meningkatkan keberlanjutan pertanian padi.

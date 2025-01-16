@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi digital sayuran perkotaan konsul
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sayuran_urban.png
+img-alt: Sayuran Urban
 ---
 
 Budidaya tanaman hortikultura, termasuk sayuran, buah-buahan, dan tanaman hias, semakin menjadi sorotan dalam konteks kebun dan pertanian perkotaan. Tren ini tidak hanya didorong oleh minat yang semakin meningkat dalam pertanian urban, tetapi juga oleh kebutuhan akan sumber makanan lokal yang segar dan berkelanjutan.

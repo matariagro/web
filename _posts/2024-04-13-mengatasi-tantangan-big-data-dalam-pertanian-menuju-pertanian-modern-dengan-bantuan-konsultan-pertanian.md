@@ -6,6 +6,7 @@ desk: "Temukan tantangan utama Big Data dalam sektor pertanian dan bagaimana kon
 subtitle: Basis Data
 nav: Manajemen
 image: big_data_pertanian.jpg
+img-alt: Big Data Pertanian
 ---
 
 Penggunaan Big Data sedang merevolusi sektor pertanian dengan aplikasi-aplikasinya yang dapat memberikan berbagai manfaat kepada petani. Namun, tantangan yang timbul dari penggunaan Big Data dalam pertanian perlu dipahami dan dihadapi. Dalam artikel ini, kami akan menjelaskan beberapa tantangan utama Big Data dalam pertanian dan bagaimana konsultan pertanian dapat membantu petani mengatasi kendala tersebut.

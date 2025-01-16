@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi hama penyakit padi regenerasi konsult
 subtitle: Inovasi Pertanian
 nav: Pengendalian Hama Terpadu
 image: hama_penyakit_padi.jpg
+img-alt: Hama Penyakit Padi
 ---
 
 

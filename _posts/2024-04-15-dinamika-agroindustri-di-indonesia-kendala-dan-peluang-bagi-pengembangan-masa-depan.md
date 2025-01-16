@@ -6,6 +6,7 @@ desk: "Temukan peran dan tantangan dalam pengembangan agroindustri di Indonesia 
 subtitle: Agroindustri
 nav: Agroindustri
 image: agroindustri.jpg
+img-alt: Agroindustri
 ---
 
 Agroindustri telah menjadi bagian penting dari perekonomian Indonesia sejak pertengahan tahun 1970-an. Seiring berjalannya waktu, perannya semakin terlihat signifikan, namun masih diikuti dengan sejumlah kendala yang perlu diatasi untuk mencapai potensinya yang sesungguhnya.

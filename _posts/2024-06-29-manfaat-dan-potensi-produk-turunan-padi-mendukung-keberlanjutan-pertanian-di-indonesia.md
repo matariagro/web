@@ -8,6 +8,7 @@ tags: pertanian inovatif turunan beras deversifikasi pangan alternatif konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: bekatul_dedak.jpg
+img-alt: Bekatul Dedak
 ---
 
 Pertanian padi di Indonesia tidak hanya menyediakan beras sebagai hasil utamanya, tetapi juga menghasilkan beragam produk turunan yang memiliki potensi besar untuk mendukung keberlanjutan pertanian dan industri lainnya. Produk turunan seperti sekam, bekatul, tepung padi, dan dedak memiliki nilai tambah yang signifikan dalam berbagai aspek ekonomi dan lingkungan. Sekam, misalnya, tidak hanya digunakan sebagai bahan bakar untuk pengeringan gabah tetapi juga diolah menjadi pupuk biosilika cair yang meningkatkan produktivitas pertanian secara berkelanjutan.

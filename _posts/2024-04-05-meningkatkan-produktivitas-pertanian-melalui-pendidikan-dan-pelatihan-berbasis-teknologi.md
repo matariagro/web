@@ -6,6 +6,7 @@ desk: "Artikel ini membahas pentingnya pendidikan dan pelatihan berbasis teknolo
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: it_pertanian.jpg
+img-alt: IT Pertanian
 ---
 
 Pertanian di Indonesia telah mengalami transformasi signifikan seiring dengan perkembangan teknologi. Namun, masih terdapat kesenjangan dalam penerapan teknologi di kalangan petani. Untuk mengatasi hal ini, program pendidikan dan pelatihan berbasis teknologi menjadi suatu keharusan. "Pendidikan dan pelatihan yang terfokus pada teknologi pertanian membantu petani memahami dan mengadopsi inovasi terbaru," ungkap Dr. Siti Nurhayati, pakar pertanian dari Universitas Pertanian Bogor.

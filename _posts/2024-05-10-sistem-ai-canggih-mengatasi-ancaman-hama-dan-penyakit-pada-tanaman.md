@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi transpalanter regenerasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: ai_pertanian.jpg
+img-alt: AI Pertanian
 ---
 
 Serangan hama dan penyakit merupakan ancaman serius bagi hasil panen di sektor pertanian. Di PT Matari Agro Indonesia, upaya besar telah dilakukan untuk mengurangi kerugian hasil panen dengan menerapkan sistem pengendalian hama dan penyakit berbasis kecerdasan buatan (AI).

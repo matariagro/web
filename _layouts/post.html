@@ -11,7 +11,7 @@ layout: default
         <!--p>{{ page.date | date: "%d %B %Y" }}</p-->
       </header>
 
-      <img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-articles">
+      <img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-articles">
 
       {{ content }}
     </article>
@@ -63,7 +63,7 @@ layout: default
       {% for post in site.posts limit:5 %}
       <li class="articles-item">
       <h5><a href="{{ post.url }}" title="Lihat Detail">{{ post.title | truncate: 70 }}</a></h5>
-      <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-thumbnail img-thumb"></a>
+      <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.img-alt }}" class="img-thumbnail img-thumb"></a>
       <p>{{ post.excerpt | strip_html | truncatewords: 17 }}</p>
       </li>
       {% endfor %}

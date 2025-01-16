@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "Matari Agro Indonesia, pertanian berkelanjutan, pengelolaan lahan, pelatihan teknis pertanian, keberlanjutan pertanian"
 desk: "Pelajari pentingnya pengelolaan lahan berkelanjutan dalam meningkatkan produksi pertanian di Indonesia, dengan bimbingan Matari Agro Indonesia"
 image: padi_organik.jpg
+img-alt: Padi Organik
 ---
 
 Indonesia, sebagai salah satu negara agraris terbesar di dunia, memiliki potensi besar dalam sektor pertanian. Namun, tantangan yang dihadapi oleh para petani di Indonesia semakin kompleks seiring dengan pertumbuhan populasi dan perubahan iklim yang terus berlangsung. Untuk mengatasi tantangan tersebut dan meningkatkan produksi pertanian, penting bagi kita untuk memperhatikan pentingnya menjaga dan mengelola lahan secara berkelanjutan.

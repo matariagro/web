@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor teknologi drone konsultan ketahanan pang
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: drone_pertanian.jpg
+img-alt: Drone Pertanian
 ---
 
 Pemanfaatan teknologi digital dalam pertanian telah menjadi katalisator bagi transformasi sektor ini. Pertanian, sebagai salah satu sektor ekonomi utama di Indonesia, menghadapi tekanan untuk meningkatkan produktivitas dan keberlanjutan. Dalam menghadapi tantangan tersebut, PT Matari Agro Indonesia, melalui layanan konsultan dan pusat pelatihan pertaniannya, memainkan peran penting dalam mengintegrasikan teknologi digital ke dalam praktik pertanian.

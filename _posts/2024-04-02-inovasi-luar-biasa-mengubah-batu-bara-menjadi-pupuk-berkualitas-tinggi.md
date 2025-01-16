@@ -4,6 +4,7 @@ title: "Inovasi Luar Biasa: Mengubah Batu Bara Menjadi Pupuk Berkualitas Tinggi"
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pupuk_batubara.jpg
+img-alt: Pupuk Batubara
 ---
 
 Selama ini, batu bara dikenal sebagai sumber utama bahan bakar, namun sedikit yang menyadari potensi besar dari batu bara sebagai bahan baku pupuk tanaman. Pupuk yang dihasilkan dari batu bara mampu tidak hanya memperbaiki kualitas lahan, tetapi juga meningkatkan produksi padi dan komoditas pertanian lainnya.

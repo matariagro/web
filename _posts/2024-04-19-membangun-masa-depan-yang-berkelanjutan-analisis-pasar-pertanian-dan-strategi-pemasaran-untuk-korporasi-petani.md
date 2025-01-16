@@ -6,6 +6,7 @@ desk: "Temukan bagaimana Matari Agro Indonesia membantu korporasi petani memaham
 subtitle: Analisis Pasar
 nav: Pasar
 image: komoditi.jpg
+img-alt: Komoditi
 ---
 
 Di tengah dinamika pasar global yang terus berubah, sektor pertanian memegang peranan penting dalam menjaga ketahanan pangan dan menyediakan sumber pendapatan bagi masyarakat. Namun, tantangan tidak hanya terbatas pada produksi; pemahaman yang mendalam tentang pasar pertanian dan penerapan strategi pemasaran yang tepat menjadi kunci kesuksesan bagi korporasi petani.

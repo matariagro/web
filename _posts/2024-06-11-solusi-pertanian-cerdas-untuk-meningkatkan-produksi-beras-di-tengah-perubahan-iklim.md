@@ -8,6 +8,7 @@ tags: pertanian inovatif organik tungro OPT padi beras terintegrasi konsultan ke
 subtitle: Sistem Pertanian
 nav: Smart Farming
 image: padi_iklim.jpg
+img-alt: Padi Iklim
 ---
 
 Produksi beras merupakan komponen penting bagi keamanan pangan global, terutama di negara-negara Asia yang menjadi penghasil utama beras dunia. Negara-negara seperti India, China, Indonesia, dan Thailand menyumbang sebagian besar produksi beras global, yang menjadi sumber pangan pokok bagi miliaran orang. Namun, produksi beras ini kini menghadapi berbagai tantangan yang signifikan, terutama akibat perubahan iklim yang mempengaruhi berbagai aspek pertanian. Tantangan ini mencakup peningkatan suhu, pola curah hujan yang tidak menentu, dan peningkatan frekuensi serta intensitas bencana alam seperti banjir dan kekeringan, yang semuanya berdampak negatif terhadap hasil panen dan produktivitas pertanian.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi benih padi unggul regenerasi konsulta
 subtitle: Inovasi Pertanian
 nav: Benih Unggul
 image: benih_padi_unggul.jpg
+img-alt: Benih Padi Unggul
 ---
 
 ##### Mengatasi Tantangan Kualitas Benih dalam Produksi Padi

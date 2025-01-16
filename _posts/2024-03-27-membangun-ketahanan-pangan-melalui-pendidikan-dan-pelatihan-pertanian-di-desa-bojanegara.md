@@ -4,6 +4,7 @@ title: "Membangun Ketahanan Pangan Melalui Pendidikan dan Pelatihan Pertanian di
 subtitle: Pelatihan Petani 
 nav: Artikel
 image: bintek_bojanegara.jpg
+img-alt: Bimtek Bojanegara
 ---
 
 Desa Bojanegara, Kecamatan Padamara, Kabupaten Purbalingga menjadi pusat perhatian dalam upaya membangun ketahanan pangan melalui program pendidikan dan pelatihan di bidang perikanan dan pertanian. Langkah ini diinisiasi oleh Pemerintah Desa Bojanegara melalui Badan Permusyawaratan Desa (BPD), dengan tujuan mengedukasi dan memberdayakan anggota kelompok tani serta gabungan kelompok tani di wilayah tersebut. Program pelatihan ini dilaksanakan bekerja sama dengan Matari Agro Indonesia, yang menghadirkan para pakar dan tenaga ahli dari Fakultas Pertanian Universitas Jenderal Soedirman (Unsoed).

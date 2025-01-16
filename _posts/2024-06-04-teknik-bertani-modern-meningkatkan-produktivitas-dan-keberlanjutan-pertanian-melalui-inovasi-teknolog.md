@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor sayuran organik drone gps konsultan keta
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pertanian_presisi.jpg
+img-alt: Pertanian Presisi
 ---
 
 Teknik bertani modern telah menjadi kunci dalam meningkatkan produktivitas dan keberlanjutan pertanian di era kontemporer. Artikel ini bertujuan untuk memberikan wawasan tentang berbagai teknik bertani modern yang dapat membantu petani meningkatkan efisiensi produksi mereka dan menjaga keseimbangan lingkungan.

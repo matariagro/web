@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi sayuran regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kale.jpeg
+img-alt: Kale
 ---
 
 

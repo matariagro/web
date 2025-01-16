@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi tembakau regenerasi konsultan ketahan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: tembakau.jpeg
+img-alt: Tembakau
 ---
 
 Industri tembakau telah menjadi bagian integral dari ekonomi Indonesia, menyediakan lapangan pekerjaan yang signifikan dan berkontribusi terhadap penerimaan negara dalam beberapa tahun terakhir. Pada tahun 2023, industri tembakau nasional menyumbang sebesar Rp218 triliun dari pita cukai rokok, menunjukkan betapa pentingnya sektor ini bagi perekonomian nasional.

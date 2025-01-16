@@ -8,6 +8,7 @@ tags: pertanian inovatif organik tungro OPT padi beras terintegrasi konsultan ke
 subtitle: Sistem Pengendalian
 nav: Pengendalian OPT
 image: tungro.jpg
+img-alt: Tungro
 ---
 
 Pertanian berkelanjutan merupakan kunci untuk menjaga ekosistem pertanian yang seimbang dan produktif. Salah satu ancaman utama terhadap tanaman padi di Indonesia adalah penyakit tungro, yang disebabkan oleh infeksi dua jenis virus, yaitu Rice tungro bacilliform virus (RTBV) dan Rice tungro spherical virus (RTSV), yang ditularkan oleh wereng hijau (Nephotettix virescens) secara semipersisten. Penyakit ini tidak hanya menurunkan produktivitas tetapi juga mempengaruhi kualitas hasil panen.

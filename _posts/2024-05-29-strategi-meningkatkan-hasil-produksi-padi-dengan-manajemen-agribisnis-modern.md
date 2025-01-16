@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor sayuran nutrisi pupuk konsultan ketahana
 subtitle: Inovasi Produksi Padi
 nav: Inovasi
 image: produksi_padi_ladang.jpg
+img-alt: Produksi Padi Gogo
 ---
 
 

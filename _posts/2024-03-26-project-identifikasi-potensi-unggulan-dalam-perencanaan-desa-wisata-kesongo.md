@@ -4,6 +4,7 @@ title: "Project: Identifikasi potensi unggulan dalam perencanaan Desa Wisata Kes
 subtitle: Perencanaan Desa Wisata 
 nav: Artikel
 image: tuntang.jpg
+img-alt: Project Desa Wisata Tuntang
 ---
 
 

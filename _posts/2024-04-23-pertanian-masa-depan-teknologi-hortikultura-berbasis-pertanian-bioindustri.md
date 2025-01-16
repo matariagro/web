@@ -8,6 +8,7 @@ tags: pertanian inovatif bioindustri berkelanjutan hortukultura konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: hortikultura.jpg
+img-alt: Hortikultura
 ---
 
 Teknologi hortikultura berbasis pertanian bioindustri menjadi sorotan dalam upaya menciptakan pertanian yang lebih maju dan berkelanjutan. Konsep ini menggabungkan teknologi modern dengan prinsip-prinsip bioindustri untuk meningkatkan efisiensi dan produktivitas dalam produksi tanaman hortikultura.

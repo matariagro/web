@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi kubis regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kobis.jpeg
+img-alt: Kobis
 ---
 
 Kubis, atau kol, merupakan sayuran semusim yang biasanya tumbuh subur di dataran tinggi dengan ketinggian antara 1000 hingga 3000 meter di atas permukaan laut (mdpl). Namun, dengan perkembangan teknologi pertanian, varietas kubis tertentu juga dapat ditanam di dataran rendah.

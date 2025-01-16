@@ -4,6 +4,7 @@ title: "Strategi Terbaru dalam Pengendalian Hama Padi: Memanfaatkan Laba-laba Pe
 subtitle: Pengendalian Hama
 nav: OPT
 image: lycosa.jpg
+img-alt: Lycosa
 ---
 
 Hama merupakan salah satu masalah utama yang dihadapi oleh petani padi, karena serangan hama dapat menyebabkan penurunan hasil panen bahkan hingga gagal panen. Untuk mengatasi serangan hama, petani telah mengembangkan berbagai metode, mulai dari penggunaan pestisida sintetis hingga pengendalian secara alami. Salah satu metode pengendalian hama alami yang menarik adalah menggunakan predator alami seperti laba-laba pemburu Lycosa.

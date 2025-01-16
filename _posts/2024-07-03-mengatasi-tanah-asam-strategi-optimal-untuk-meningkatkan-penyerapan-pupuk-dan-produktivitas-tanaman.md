@@ -8,6 +8,7 @@ tags: pertanian inovatif padi dampak ekonomi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: tanah_masam.jpg
+img-alt: Tanah Masam
 ---
 
 Pentingnya pemahaman terhadap karakteristik tanah dalam pertanian tidak bisa dianggap remeh. Salah satu masalah yang sering dihadapi oleh petani di berbagai daerah, termasuk Indonesia, adalah tanah asam. Tanah dengan tingkat keasaman tinggi ini dapat menyebabkan berbagai hambatan dalam penyerapan nutrisi oleh tanaman, sehingga berpengaruh negatif pada pertumbuhan dan hasil panen. Artikel ini akan mengupas secara mendalam mengapa tanah asam dapat menghambat penyerapan pupuk dan solusi praktis yang dapat diambil untuk mengatasinya.

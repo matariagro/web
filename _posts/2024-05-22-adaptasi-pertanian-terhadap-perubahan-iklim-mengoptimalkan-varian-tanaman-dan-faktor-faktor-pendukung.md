@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi intermiten padi perubahan iklim 
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: dampak_perubahan_iklim.jpg
+img-alt: Dampak Perubahan Iklim
 ---
 
 Salah satu tantangan besar dalam pertanian adalah pengelolaan air, terutama di lahan sawah, di mana penggunaan air yang berlebihan dapat menyebabkan masalah lingkungan seperti peningkatan emisi gas metana. Untuk mengatasi hal ini, PT Matari Agro Indonesia mendorong penggunaan teknologi irigasi berselang, atau yang dikenal sebagai intermittent irrigation. Teknologi ini telah terbukti efektif dalam mengurangi emisi gas metana dari lahan sawah sambil tetap mempertahankan produktivitas tanaman.

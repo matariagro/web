@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_gogo.jpg
+img-alt: Padi Gogo
 ---
 
 Indonesia memiliki luas kawasan hutan yang mencapai 120 juta hektare, namun sebagian besar lahan tersebut belum sepenuhnya dimanfaatkan untuk mendukung produksi pangan dan kesejahteraan petani. Melalui pendekatan agroforestri, padi gogo menjadi salah satu solusi efektif untuk memanfaatkan lahan hutan kering tanpa merusak ekosistem. Dengan teknologi dan strategi budidaya yang tepat, petani hutan dapat meningkatkan produksi padi sekaligus meningkatkan pendapatan mereka secara berkelanjutan.  

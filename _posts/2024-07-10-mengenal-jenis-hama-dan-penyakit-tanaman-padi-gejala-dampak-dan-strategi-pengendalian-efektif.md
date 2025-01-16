@@ -8,6 +8,7 @@ tags: pertanian inovatif padi dampak ekonomi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: hpt_utama_padi.jpg
+img-alt: HPT Utama Padi
 ---
 
 Tanaman padi merupakan salah satu tanaman pangan utama di Indonesia dan negara-negara lain di dunia. Kehidupan sehari-hari banyak masyarakat bergantung pada hasil panen padi. Namun, tantangan besar bagi petani adalah serangan hama dan penyakit yang dapat mengancam produktivitas tanaman. Artikel ini akan membahas secara komprehensif berbagai jenis hama dan penyakit yang sering menyerang tanaman padi. Kami akan menguraikan gejala masing-masing serangan ini serta dampaknya yang dapat signifikan terhadap pertumbuhan dan hasil panen, sehingga memberikan pemahaman yang mendalam kepada pembaca tentang betapa pentingnya pengelolaan hama dan penyakit dalam pertanian padi.

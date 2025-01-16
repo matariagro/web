@@ -6,6 +6,7 @@ desk: "Temukan bagaimana digitalisasi telah merevolusi industri pertanian di Ind
 subtitle: Inovasi Teknologi
 nav: Inovasi
 image: digital_transformation.jpg
+img-alt: Digital Transformasi
 ---
 
 Dalam era digital saat ini, teknologi telah menjadi aspek krusial dalam mengoptimalkan proses pertanian. Matari Agro Indonesia, sebagai penyedia jasa konsultan pertanian terkemuka di Indonesia, telah mengambil langkah maju dalam memanfaatkan digitalisasi untuk merampingkan operasi pertanian. Salah satu instrumen penting dalam transformasi ini adalah "Peta Digitalisasi", yang menjadi kunci dalam meningkatkan efisiensi dan produktivitas pertanian.

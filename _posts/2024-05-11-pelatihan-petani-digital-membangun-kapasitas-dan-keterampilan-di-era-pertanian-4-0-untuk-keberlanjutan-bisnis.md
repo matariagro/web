@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi digitalisasi regenerasi konsultan ket
 subtitle: Inovasi Pertanian
 nav: Digitalisasi
 image: petani_digital.jpeg
+img-alt: Petani Digital
 ---
 
 Dalam era di mana teknologi semakin merasuk ke dalam berbagai aspek kehidupan, termasuk pertanian, PT Matari Agro Indonesia mengambil langkah maju dengan memperkenalkan pelatihan petani digital. Langkah ini diambil sebagai bagian dari strategi perusahaan untuk membangun kapasitas dan keterampilan petani di Era Pertanian 4.0.

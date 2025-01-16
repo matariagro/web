@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: unsoed1_sawah.jpeg
+img-alt: Padi Unsoed 1
 ---
 
 Padi merupakan komoditas utama yang menopang ketahanan pangan nasional. Namun, tantangan seperti keterbatasan lahan sawah dan kebutuhan akan peningkatan produksi membuat inovasi dalam pertanian semakin mendesak. Salah satu solusi yang mulai mendapatkan perhatian adalah padi gogo, varietas padi yang mampu tumbuh di lahan kering atau suboptimal. Dengan potensi luas lahan kering di Indonesia mencapai lebih dari 12 juta hektare, pengembangan padi gogo bisa menjadi kunci untuk meningkatkan produksi padi nasional tanpa perlu membuka lahan baru.  

@@ -6,6 +6,7 @@ desk: "Artikel ini mengulas pentingnya modernisasi pabrik penggilingan beras dal
 subtitle: Modernisasi Industri Pertanian
 nav: Teknologi
 image: rice_mill_unit.jpg
+img-alt: Rice Mill Unit
 ---
 
 

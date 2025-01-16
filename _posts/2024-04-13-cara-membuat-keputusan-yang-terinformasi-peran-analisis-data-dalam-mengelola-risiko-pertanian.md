@@ -6,6 +6,7 @@ desk: "Pelajari bagaimana analisis data memainkan peran kunci dalam mengelola ri
 subtitle: Konsultan Perencanaan
 nav: Produksi Tanaman
 image: produksi_sayuran.jpg
+img-alt: Produksi Sayuran
 ---
 
 

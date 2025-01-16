@@ -8,6 +8,7 @@ tags: pertanian inovatif padi dampak ekonomi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pemupukan_padi.jpg
+img-alt: Pemupukan Padi
 ---
 
 Budidaya padi yang sukses tidak lepas dari pemahaman mendalam tentang kebutuhan nutrisi dan pemupukan yang tepat. Artikel ini menyajikan panduan lengkap tentang berbagai jenis pupuk yang sesuai untuk padi, termasuk pupuk organik seperti kompos dan pupuk kandang, serta pupuk anorganik seperti urea, SP-36, dan KCl. Kami juga membahas teknik pemupukan yang efektif pada setiap tahap pertumbuhan tanaman, mulai dari pemupukan dasar hingga pemupukan susulan, yang dirancang untuk memaksimalkan hasil panen dan kualitas beras.

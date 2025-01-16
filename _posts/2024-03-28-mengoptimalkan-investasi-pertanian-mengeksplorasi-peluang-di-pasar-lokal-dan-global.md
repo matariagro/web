@@ -5,6 +5,7 @@ subtitle: Artikel
 nav: Artikel
 desk: "Dalam era modern ini, pasar pertanian, baik di tingkat lokal maupun global, telah menjadi pusat perhatian yang semakin meningkat"
 image: lembah_padi.png
+img-alt: Lembah Padi
 ---
 
 

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik tungro OPT padi beras terintegrasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: elnino_padi.jpg
+img-alt: Elnino Padi
 ---
 
 Perubahan iklim telah menjadi isu global yang tak terelakkan, mempengaruhi berbagai sektor, termasuk pertanian. Di Indonesia, sektor ini merupakan tulang punggung ekonomi yang sangat bergantung pada kondisi cuaca dan iklim. Menghadapi fenomena ini, PT Matari Agro Indonesia berkomitmen untuk mendukung sektor pertanian melalui layanan konsultasi dan pelatihan yang adaptif dan inovatif.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pemuliaan padi regenerasi konsultan k
 subtitle: Inovasi Pertanian
 nav: Pemuliaan Tanaman
 image: padi_unsoed1.jpg
+img-alt: Padi Unsoed 1
 ---
 
 Padi merupakan tanaman yang memiliki peran strategis dalam memenuhi kebutuhan pangan di seluruh dunia. Potensi varietas padi dapat ditingkatkan melalui program pemuliaan tanaman yang efektif. Salah satu pendekatan yang relevan adalah pemuliaan tanaman partisipatif, yang melibatkan kerjasama antara petani dan pemulia dalam proses pemilihan galur dan pengembangan varietas unggul.

@@ -4,6 +4,7 @@ title: "Inovasi teknologi dalam upaya meningkatkan produktivitas pertanian"
 subtitle: Inovasi Teknologi
 nav: Inovasi
 image: inovasi.jpg
+img-alt: Inovasi Pertanian
 --- 
 
 Inovasi teknologi telah membuka peluang besar dalam meningkatkan produktivitas dan efisiensi dalam sektor pertanian, khususnya di Indonesia yang merupakan negara agraris dengan banyak tantangan dalam pengelolaan lahan dan sumber daya alam. Teknologi seperti pertanian berbasis digital, penggunaan drone, dan sistem sensor telah terbukti memberikan manfaat yang signifikan bagi petani dalam meningkatkan hasil panen, mengoptimalkan penggunaan sumber daya, dan mengurangi risiko kerugian. Pertanian berbasis digital, misalnya, memanfaatkan teknologi informasi dan komunikasi (TIK) untuk memantau kondisi tanaman, mengatur irigasi, dan mengelola pasokan pupuk secara efisien. Penggunaan drone dalam pertanian memungkinkan petani untuk melakukan pemetaan lahan secara akurat, pemantauan tanaman secara real-time, serta deteksi hama dan penyakit dengan cepat dan tepat. Sementara itu, sistem sensor dapat memberikan data yang akurat tentang kondisi tanah, kelembaban udara, dan kualitas air, yang sangat membantu dalam pengambilan keputusan yang tepat dalam pengelolaan pertanian.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pemuliaan padi regenerasi konsultan k
 subtitle: Inovasi Pertanian
 nav: Irigasi
 image: irigasi_sawah.jpg
+img-alt: Irigasi Sawah
 ---
 
 ##### Ketergantungan pada Musim Hujan: Tantangan Utama Petani Padi

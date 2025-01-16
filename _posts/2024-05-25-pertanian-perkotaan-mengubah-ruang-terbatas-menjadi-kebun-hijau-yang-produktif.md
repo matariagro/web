@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi digital sayuran perkotaan konsul
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pertanian_kota.jpg
+img-alt: Pertanian Kota
 ---
 
 Pertanian perkotaan telah menjadi tren yang semakin populer di kalangan mereka yang tinggal di lingkungan perkotaan. Dengan ruang terbatas dan keterbatasan lahan, individu kreatif mengubah halaman belakang, atap bangunan, atau bahkan pot di dalam rumah menjadi kebun produktif yang menghasilkan berbagai jenis tanaman.

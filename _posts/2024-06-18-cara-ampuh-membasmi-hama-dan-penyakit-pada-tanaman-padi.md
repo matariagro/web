@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi hama penyakit konsultan ketahanan pangan
 subtitle: Pengendalian OPT
 nav: Pengendalian
 image: hpt_padi.jpg
+img-alt: HPT Padi
 ---
 
 Padi merupakan tanaman pangan strategis di Indonesia yang memerlukan perlindungan yang efektif dari serangan hama dan penyakit agar hasil panennya maksimal. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan pertanian, memberikan panduan komprehensif mengenai cara-cara ampuh untuk membasmi hama dan penyakit pada tanaman padi.

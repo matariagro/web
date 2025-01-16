@@ -6,6 +6,7 @@ desk: "Temukan panduan mendalam tentang langkah-langkah kunci dalam persiapan la
 subtitle: Pengendalian OPT
 nav: Pengendalian OPT
 image: lahan_pertanian.jpg
+img-alt: Lahan Pertanian
 ---
 
 

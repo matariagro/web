@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi blockchain regenerasi konsultan ketah
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: blockchain_pertanian.jpg
+img-alt: Blockchain Pertanian
 ---
 
 Di tengah-tengah tuntutan akan transparansi dan keamanan dalam rantai pasok pertanian, teknologi blockchain telah muncul sebagai solusi yang menjanjikan. Blockchain, yang dikenal karena ketangguhannya dalam menyimpan dan mengelola data secara terdesentralisasi dan aman, telah merevolusi cara kita memandang sistem pertanian.

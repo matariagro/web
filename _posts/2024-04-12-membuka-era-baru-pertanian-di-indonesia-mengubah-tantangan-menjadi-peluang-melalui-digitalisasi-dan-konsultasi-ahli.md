@@ -6,6 +6,7 @@ desk: "Jelajahi bagaimana digitalisasi dan konsultasi ahli mengubah wajah pertan
 subtitle: Inovasi Teknologi
 nav: Teknologi
 image: digitalisasi_pertanian.jpg
+img-alt: Digitalisasi Pertanian
 ---
 
 Indonesia, negara agraris dengan sumber daya alam yang melimpah, terus berjuang untuk meningkatkan produktivitas pertanian. Namun, di tengah tantangan iklim yang tak pasti, perubahan pola tanam, dan permintaan pasar yang fluktuatif, inovasi diperlukan lebih dari sebelumnya. Inilah di mana digitalisasi dan konsultasi ahli memainkan peran kunci dalam mengubah tantangan menjadi peluang dalam sektor pertanian.

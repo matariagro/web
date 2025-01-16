@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hilirisasi padi IoT regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Teknologi Pertanian
 image: padi_iot.jpeg
+img-alt: Padi IOT
 ---
 
 Teknologi Pertanian (AgriTech) telah membawa perubahan signifikan dalam cara kita memandang dan mempraktikkan pertanian. Di era digital ini, penggunaan teknologi telah menjadi kunci untuk meningkatkan efisiensi, produktivitas, dan keberlanjutan dalam sektor pertanian. PT Matari Agro Indonesia, sebagai pemimpin dalam penyediaan layanan konsultasi dan pelatihan pertanian, telah memperkenalkan solusi inovatif yang berbasis teknologi untuk membantu individu, perusahaan pertanian, dan pemerintah daerah mengoptimalkan operasi mereka.

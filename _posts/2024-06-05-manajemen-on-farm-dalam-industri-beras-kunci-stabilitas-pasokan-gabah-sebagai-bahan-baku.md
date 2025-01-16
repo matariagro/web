@@ -8,6 +8,7 @@ tags: pertanian inovatif organik industri padi beras terintegrasi konsultan keta
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: korporasi_petani.jpg
+img-alt: Korporasi Petani
 ---
 
 Industri beras membutuhkan manajemen on-farm yang efektif untuk memastikan kelangsungan pasokan gabah sebagai bahan baku. Namun, untuk mencapai kapasitas produksi yang optimal, perlu diperhatikan juga skala usaha minimum yang diperlukan. Dalam konteks ini, PT Matari Agro Indonesia, melalui layanan konsultan dan pusat pelatihan pertaniannya, menyoroti pentingnya manajemen lahan dan skala usaha dalam mendukung industri beras.

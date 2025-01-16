@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hilirisasi padi perubahan iklim rendah e
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_rendah_emisi.jpg
+img-alt: Padi Rendah Emisi
 ---
 
 Dalam menghadapi tantangan perubahan iklim, pertanian menjadi salah satu sektor yang harus beradaptasi dengan cepat dan efisien. Salah satu langkah kunci yang dapat diambil adalah memilih varietas padi yang menghasilkan emisi gas metana yang lebih rendah. PT Matari Agro Indonesia telah mengidentifikasi sejumlah varietas padi yang memiliki potensi untuk mengurangi dampak lingkungan, sambil tetap menjaga produktivitas dan kualitas hasil panen.

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor irigasi digital pengendalian hama penyak
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: opt_organik.jpg
+img-alt: OPT Organik
 ---
 
 Pengendalian hama dan penyakit tanaman merupakan salah satu aspek terpenting dalam pertanian modern. Tantangan ini dapat menyebabkan kerugian besar bagi petani jika tidak ditangani dengan tepat. Oleh karena itu, ada kebutuhan yang meningkat untuk mengembangkan strategi yang efektif dalam pengendalian hama dan penyakit tanaman.

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik industri padi beras terintegrasi konsultan keta
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: gabah_kering.jpg
+img-alt: Gabah Kering
 ---
 
 PT Matari Agro Indonesia berkomitmen untuk memajukan industri pertanian di Indonesia melalui layanan konsultan dan pusat pelatihan pertanian yang berkualitas. Kami menyadari bahwa salah satu kunci keberhasilan dalam industri pertanian adalah memiliki sistem distribusi yang efisien dan berdaya saing tinggi. Oleh karena itu, fokus utama kami adalah mengembangkan dan menerapkan teknologi serta metode distribusi yang dapat mengurangi biaya, meningkatkan efisiensi, dan menjaga kualitas produk dari tahap pengumpulan hingga sampai ke tangan konsumen. Dengan pendekatan ini, kami tidak hanya mendukung para petani dalam meningkatkan produktivitas dan kualitas hasil panen mereka, tetapi juga membantu mereka untuk lebih kompetitif di pasar yang semakin global dan dinamis.

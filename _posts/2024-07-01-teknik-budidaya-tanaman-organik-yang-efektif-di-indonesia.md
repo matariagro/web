@@ -8,6 +8,7 @@ tags: pertanian inovatif organik pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: organik_agro.jpg
+img-alt: Organik Agro
 ---
 
 Pertanian organik semakin menjadi pilihan utama dalam upaya menjaga kesehatan tanah dan lingkungan, serta memproduksi hasil pertanian yang berkualitas tinggi. Di Indonesia, PT. Matari Agro telah memainkan peran penting dalam mengembangkan teknik budidaya tanaman organik yang efektif dan berkelanjutan. Dengan mengintegrasikan prinsip-prinsip pertanian organik modern dan pengalaman yang mendalam, perusahaan ini tidak hanya menghasilkan produk pertanian yang ramah lingkungan, tetapi juga mempromosikan keberlanjutan lingkungan dan ekonomi bagi masyarakat petani lokal.

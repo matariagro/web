@@ -8,6 +8,7 @@ tags: pertanian inovatif organik irigasi padi beras terintegrasi konsultan ketah
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sprinkler_padi.jpg
+img-alt: Sprinkler Padi
 ---
 
 Pengelolaan air yang efisien merupakan salah satu kunci keberhasilan pertanian modern, terutama dalam menghadapi tantangan perubahan iklim dan peningkatan kebutuhan pangan. PT Matari Agro Indonesia berkomitmen untuk mendukung para petani dengan berbagai strategi dan teknologi yang membantu mengelola sumber daya air secara optimal.

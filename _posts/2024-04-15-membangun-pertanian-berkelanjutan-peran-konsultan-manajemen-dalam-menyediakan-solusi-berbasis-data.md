@@ -6,6 +6,7 @@ desk: "Pelajari bagaimana konsultan manajemen pertanian berperan dalam membangun
 subtitle: Pertanian Berkelanjutan
 nav: Manajemen
 image: pertanian_berkelanjutan.jpg
+img-alt: Pertanian Berkelanjutan
 ---
 
 Pertanian berkelanjutan telah menjadi tujuan yang semakin penting di era modern ini, terutama di Indonesia yang merupakan salah satu produsen pertanian terbesar di dunia. Dengan tantangan seperti perubahan iklim, degradasi tanah, dan kebutuhan akan efisiensi sumber daya, pertanian berkelanjutan bukanlah pilihan, tetapi kebutuhan. Dalam upaya mencapai tujuan tersebut, konsultan manajemen pertanian memainkan peran penting dengan menyediakan solusi berbasis data yang dapat membantu petani mengelola lahan mereka dengan lebih efisien.

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik industri padi beras terintegrasi konsultan keta
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: rice_mill_unit.jpg
+img-alt: Rice Mill Unit
 ---
 
 Indonesia adalah negara agraris dengan sektor pertanian yang memainkan peran penting dalam perekonomian. Namun, sektor ini menghadapi tantangan besar, terutama terkait fragmentasi lahan yang luas dan rendahnya adopsi teknologi modern di kalangan petani. Konsolidasi lahan dan petani menjadi strategi krusial untuk mendorong industrialisasi dan hilirisasi produksi beras yang terintegrasi.

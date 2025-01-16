@@ -4,6 +4,7 @@ title: "Project: Asessment dan Pendampingan Industri Pertanian bersama Adam Smit
 subtitle: Pendampingan Industri Pertanian
 nav: Artikel
 image: timor_leste.jpg
+img-alt: Asessment Timor Leste
 ---
 
 Sebuah upaya kolaboratif yang signifikan telah dilakukan di Baucau Timor Leste, di mana Assessment dan Pendampingan Industri Pertanian telah diadakan sebagai bagian dari kerja sama antara pemerintah lokal dan Adam Smith Foundation. Kegiatan assessment ini bertujuan untuk mengkondisikan para petani agar siap menghadapi pengembangan industri pertanian yang lebih maju dan berkelanjutan di masa depan.

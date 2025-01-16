@@ -8,6 +8,7 @@ tags: pertanian inovatif agribisnis jagung konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: panen_jagung.jpeg
+img-alt: Panen Jagung
 ---
 
 Agribisnis tanaman jagung merupakan sektor yang sangat potensial dalam perekonomian Indonesia. Sebagai negara agraris, mayoritas penduduk Indonesia bergantung pada sektor pertanian, yang tidak hanya menyediakan sumber pangan utama tetapi juga menjadi mata pencaharian utama bagi jutaan petani. Dengan berbagai peluang yang ada, sektor agribisnis tanaman jagung memiliki potensi besar untuk meningkatkan kesejahteraan petani dan mendorong produktivitas nasional. Melalui diversifikasi produk dan peningkatan nilai tambah, agribisnis dapat menjadi motor penggerak perekonomian yang lebih inklusif dan berkelanjutan.

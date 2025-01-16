@@ -4,6 +4,7 @@ title: "Membangun Korporasi Petani: Kolaborasi Kementerian ATR/BPN dan Swasta"
 subtitle: Korporasi Petani
 nav: Korporasi
 image: batang.jpg
+img-alt: Korporasi Petani
 ---
 
 Menteri Agraria Tata Ruang/Badan Pertanahan Nasional (ATR/BPN), Sofyan Djalil turun langsung memimpin pemberdayaan petani melalui program GTRA yang dijabarkan dalam demplot korporasi petani. Pertanian organik telah menjadi fokus utama dalam upaya menjaga keberlanjutan lingkungan dan kesehatan masyarakat. Namun, di banyak daerah, pembaruan pertanian organik seringkali terhambat oleh masalah kepemilikan lahan yang kompleks. Di sinilah proyek demplot pertanian organik berbasis korporasi petani di Desa Depok dan Desa Tegalsari, Kecamatan Kandeman, Kabupaten Batang, Jawa Tengah, menjadi langkah penting dalam menyelesaikan sengketa lahan sambil memajukan pertanian organik.

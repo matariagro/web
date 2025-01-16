@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi KUR regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: wartel.jpeg
+img-alt: Wortel
 ---
 
 Wortel merupakan salah satu komoditas unggulan dalam pertanian Indonesia yang juga menjadi sayuran favorit banyak orang. Bagi masyarakat perkotaan dengan lahan terbatas, menanam wortel dalam polibag atau pot menjadi alternatif yang praktis untuk membudidayakan sayuran secara mandiri di rumah.

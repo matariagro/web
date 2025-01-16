@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi komoditas konsultan
 subtitle: Hilirisasi Pertanian
 nav: Hilirisasi
 image: hilirisasi.jpg
+img-alt: Hilirisasi
 ---
 
 Peningkatan ekspor sektor pertanian pada Januari 2024, seperti yang dicatat oleh Badan Pusat Statistik (BPS), telah menghadirkan berita positif bagi pertanian Indonesia. Dengan kenaikan sebesar 11,72 persen dibandingkan bulan sebelumnya, pertanian telah memberikan kontribusi signifikan terhadap kinerja ekspor nasional. Komoditas seperti cengkeh, produk obat, dan aromatik menjadi pendorong utama di balik peningkatan ini.

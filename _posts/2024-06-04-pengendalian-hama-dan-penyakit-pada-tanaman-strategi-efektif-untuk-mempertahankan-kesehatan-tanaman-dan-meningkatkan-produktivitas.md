@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hama penyakit konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Pengendalian OPT
 image: hama_wereng.jpg
+img-alt: hama Wereng
 ---
 
 Pengendalian hama dan penyakit pada tanaman merupakan aspek penting dalam praktik pertanian yang berkelanjutan. Artikel ini bertujuan untuk memberikan wawasan mendalam tentang strategi efektif untuk mengatasi masalah ini, memberikan petani pengetahuan dan keterampilan yang diperlukan untuk menjaga kesehatan tanaman dan meningkatkan produktivitas pertanian.

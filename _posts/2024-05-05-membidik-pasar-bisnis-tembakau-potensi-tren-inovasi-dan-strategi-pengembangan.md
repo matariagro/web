@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi tembakau regenerasi konsultan ketahan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: tembakau_hijau.jpg
+img-alt: Tembakau Hijau
 ---
 
 Bisnis tembakau memiliki potensi yang menarik dan beragam. Permintaan yang terus meningkat menjadikan budidaya tembakau sebagai bisnis yang menjanjikan. Wilayah Indonesia dengan dataran tinggi memberikan kondisi yang ideal untuk budidaya tembakau, namun perawatan intensif diperlukan untuk menghasilkan tembakau berkualitas.

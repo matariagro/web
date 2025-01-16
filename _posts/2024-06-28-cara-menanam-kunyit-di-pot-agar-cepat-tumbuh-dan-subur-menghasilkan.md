@@ -8,6 +8,7 @@ tags: pertanian inovatif organik sayur sayuran kunyit terintegrasi konsultan ket
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kunyit.jpg
+img-alt: Kunyit
 ---
 
 Menanam kunyit (*Curcuma longa*) di pot adalah solusi ideal bagi mereka yang ingin menikmati manfaat tanaman herbal ini tetapi memiliki keterbatasan lahan. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan dan pelatihan pertanian terpadu, berkomitmen untuk membantu para petani dan pecinta tanaman urban dalam memaksimalkan potensi tanaman herbal seperti kunyit, bahkan di ruang yang terbatas. Melalui program pelatihan yang komprehensif dan bimbingan praktis, PT Matari Agro Indonesia memberikan pengetahuan dan keterampilan yang diperlukan untuk berhasil menanam kunyit di pot, memastikan tanaman tumbuh subur dan sehat.

@@ -4,6 +4,7 @@ title: "Mengukir Prestasi: Pendampingan Produksi Benih Padi Varietas Protani di 
 subtitle: Pendampingan Petani 
 nav: Artikel
 image: gintungan.jpg
+img-alt: Pendampingan Produksi Benih
 ---
 
 Desa Gintungan, Kecamatan Gebang, Kabupaten Purworejo menjadi saksi atas sebuah peristiwa yang menggugah semangat petani setempat. Kerjasama dalam produksi benih padi varietas Protani menjadi tonggak keberhasilan, yang tak hanya menghadirkan keunggulan hasil, tetapi juga membawa pengetahuan yang berharga bagi para petani. Dalam kerangka kemitraan dengan PB Great Quality Seed Purwokerto, Matari Agro Indonesia turut hadir dengan tim ahli yang dipimpin langsung oleh Prof. Totok Agung DH dan Dr. Dyah Susanti dari Fakultas Pertanian Universitas Jenderal Soedirman (Unsoed).

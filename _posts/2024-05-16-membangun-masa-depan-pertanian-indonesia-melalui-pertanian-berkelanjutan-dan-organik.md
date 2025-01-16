@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hilirisasi pupuk regenerasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Pertanian Organik
 image: pertanian_organik.jpg
+img-alt: Pertanian Organik
 ---
 
 Pertanian telah menjadi tulang punggung ekonomi Indonesia selama berabad-abad, menyediakan mata pencaharian bagi jutaan orang dan menyumbang secara signifikan terhadap perekonomian negara. Namun, pertumbuhan populasi, urbanisasi, dan perubahan iklim telah menempatkan tekanan besar pada sistem pertanian konvensional. Untuk mengatasi tantangan ini, PT. Matari Agro Indonesia berkomitmen untuk memperkenalkan pendekatan yang inovatif dan berkelanjutan dalam praktik pertanian, dengan fokus khusus pada pertanian berkelanjutan dan organik.

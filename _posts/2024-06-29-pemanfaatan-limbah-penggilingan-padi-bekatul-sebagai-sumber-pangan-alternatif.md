@@ -8,6 +8,7 @@ tags: pertanian inovatif organik bekatul pangan alternatif konsultan ketahanan p
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: bekatul.jpeg
+img-alt: Bekatul
 ---
 
 Pemanfaatan limbah hasil penggilingan padi adalah salah satu langkah inovatif dalam mendukung ketahanan pangan dan diversifikasi pangan. Bekatul, hasil sampingan dari penggilingan padi, sering kali dianggap remeh padahal memiliki nilai gizi tinggi dan dapat menjadi sumber pangan alternatif. PT Matari Agro Indonesia, melalui layanan konsultan dan pelatihan pertaniannya, berkomitmen untuk mengedukasi masyarakat tentang manfaat dan cara pengolahan bekatul agar dapat dimanfaatkan secara optimal. Artikel ini akan membahas secara mendalam tentang bekatul, mulai dari pengenalan, manfaat, hingga cara pengolahannya.

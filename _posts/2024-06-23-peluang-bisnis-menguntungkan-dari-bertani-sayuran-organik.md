@@ -8,6 +8,7 @@ tags: pertanian inovatif organik hidroponik sayur sayuran terintegrasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: tren_sayuran_organik.jpg
+img-alt: Tren Sayuran Organik
 ---
 
 Permintaan akan sayur organik di Indonesia semakin meningkat seiring dengan meningkatnya kesadaran masyarakat akan pentingnya kesehatan dan pola makan yang lebih sehat. Sayuran organik dianggap lebih sehat dan bebas dari pestisida kimia, sehingga banyak diminati oleh konsumen yang peduli dengan kesehatan. PT Matari Agro Indonesia, sebagai penyedia layanan konsultan dan pusat pelatihan pertanian, hadir untuk membantu Anda memanfaatkan peluang bisnis yang menguntungkan ini.

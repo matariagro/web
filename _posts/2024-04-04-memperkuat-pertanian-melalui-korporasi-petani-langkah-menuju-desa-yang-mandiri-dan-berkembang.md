@@ -4,6 +4,7 @@ title: "Memperkuat Pertanian Melalui Korporasi Petani: Langkah Menuju Desa yang 
 subtitle: Korporasi Pertanian
 nav: Korporasi
 image: desa_mandiri.jpg
+img-alt: Desa Mandiri
 ---
 
 

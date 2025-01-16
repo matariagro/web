@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hilirisasi sayuran regenerasi konsultan 
 subtitle: Inovasi Pertanian
 nav: Pertanian Organik
 image: sayuran_organik.jpg
+img-alt: Sayuran Organik
 ---
 
 Ketahanan pangan adalah salah satu pilar utama pembangunan berkelanjutan, dan produksi sayuran organik telah terbukti menjadi strategi yang efektif dalam mencapai tujuan ini. Di tengah meningkatnya kesadaran akan pentingnya kesehatan dan lingkungan, permintaan akan produk pertanian organik terus meningkat, memberikan peluang besar bagi pelaku usaha pertanian di Indonesia. PT. Matari Agro Indonesia, sebagai pelopor dalam pertanian berkelanjutan, telah melangkah maju dengan menawarkan layanan konsultan dan pelatihan dalam produksi sayuran organik yang sehat, serta mengadopsi model bisnis digital untuk menjangkau target audience dari berbagai lapisan masyarakat.

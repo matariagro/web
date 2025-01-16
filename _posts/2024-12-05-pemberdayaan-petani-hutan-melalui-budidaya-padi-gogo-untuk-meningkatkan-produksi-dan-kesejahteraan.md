@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_hutan.jpg
+img-alt: Pdai Hutan
 ---
  
 Kawasan hutan di Indonesia memiliki potensi besar untuk dimanfaatkan dalam meningkatkan kesejahteraan masyarakat, khususnya petani hutan. Namun, potensi ini seringkali belum dimaksimalkan akibat berbagai keterbatasan, seperti akses teknologi dan pasar. Salah satu solusi yang kini mendapatkan perhatian adalah budidaya padi gogo.  

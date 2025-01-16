@@ -8,6 +8,7 @@ tags: korporasi petani pertanian modern transformasi ekonomi inovasi teknologi
 subtitle: Korporasi Petani
 nav: Korporasi
 image: rmu.jpg
+img-alt: RMU
 ---
 
 Pertanian telah menjadi tulang punggung bagi banyak negara di dunia, dan untuk memastikan kelangsungan dan peningkatan produktivitasnya, korporasi petani muncul sebagai solusi yang menjanjikan. Konsep dasar korporasi petani melibatkan pembentukan sebuah badan usaha yang bertujuan untuk mengintegrasikan usaha petani, memanfaatkan skala ekonomi, dan memperkenalkan transformasi ekonomi dan teknologi modern dalam bidang pertanian.

@@ -4,6 +4,7 @@ title: "Pembinaan Kelompok Petani: Mengukir Prestasi dengan Produksi Benih Berse
 subtitle: Pendampingan Petani 
 nav: Artikel
 image: pendampingan_petani.jpg
+img-alt: Pendampingan Petani
 ---
 
 Di tengah gemuruh sawah yang terhampar luas, desa Kebumen, sebuah wilayah yang subur di Kecamatan Baturraden, Kabupaten Banyumas menjadi saksi atas kegiatan pembinaan kelompok petani yang menginspirasi. Para petani dan wanita tani berkumpul untuk meraih satu tujuan besar: menghasilkan benih padi bersertifikat yang berkualitas unggul. Kegiatan ini bukan sekadar pertemuan biasa, tetapi juga sebuah sekolah lapang yang mengedukasi para petani tentang sistem budidaya padi terstandar yang diperlukan untuk memproduksi benih berkualitas tinggi.

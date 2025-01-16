@@ -6,6 +6,7 @@ desk: "Temukan bagaimana teknologi membantu meningkatkan produksi padi dengan in
 subtitle: Manajemen Produksi
 nav: Manajemen
 image: padi_optimal.jpg
+img-alt: Padi Optimal
 ---
 
 Padi merupakan salah satu makanan paling populer di dunia. Ini adalah makanan pokok yang memiliki signifikansi budaya dalam berbagai masakan di seluruh dunia, dari Asia hingga Afrika dan Amerika. Bahkan, padi menyumbang setidaknya 20% dari asupan kalori harian untuk lebih dari 3,5 miliar orang. Untuk terus menyediakan makanan pokok yang diperlukan ini bagi jutaan orang di seluruh dunia, penting bahwa pertanian padi menjadi efisien dan menghasilkan hasil yang tinggi. Berikut adalah beberapa upaya yang menunjukkan bagaimana teknologi meningkatkan produksi padi.

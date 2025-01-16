@@ -4,6 +4,7 @@ title: "Proses Produksi Beras Premium 'TOTOGI' bersama Petani Mitra di Wilayah B
 subtitle: Industri Beras Premium 
 nav: Artikel
 image: beras_premium.jpg
+img-alt: Beras Premium
 ---
 
 Dalam upaya meningkatkan nilai tambah hasil pertanian di wilayah Banyumas Raya, Universitas Jenderal Soedirman (UNSOED) telah menginisiasi sebuah program kolaboratif yang melibatkan petani mitra dalam proses produksi beras premium. Program ini merupakan bagian dari inisiatif Teaching Industry yang dilakukan oleh Fakultas Pertanian UNSOED, yang bertujuan untuk menghilirisasi hasil penelitian menjadi produk yang siap pasarkan.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: jagung_iot.jpg
+img-alt: Jagung IOT
 ---
 
 Teknologi sensor telah menjadi tonggak penting dalam dunia pertanian modern. Dengan kemampuannya untuk memberikan data secara real-time tentang kondisi tanah, tanaman, dan lingkungan, teknologi sensor memungkinkan para petani untuk mengoptimalkan penggunaan sumber daya dan meningkatkan hasil panen mereka. Salah satu konsep yang muncul dari pemanfaatan teknologi sensor ini adalah pertanian presisi, di mana setiap langkah dalam proses pertanian dapat disesuaikan secara individual berdasarkan informasi yang diberikan oleh sensor.

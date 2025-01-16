@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi bebas pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: ekonomi_padi.jpg
+img-alt: Ekonomi Padi
 ---
 
 Pertanian padi tidak hanya menjadi tulang punggung dalam pemenuhan kebutuhan pangan bagi jutaan penduduk Indonesia, tetapi juga berperan penting dalam mendukung perekonomian nasional. Sebagai salah satu komoditas utama, padi memberikan kontribusi signifikan terhadap pendapatan petani di berbagai wilayah, baik di pedesaan maupun di daerah perkotaan yang tergantung pada produksi pertanian. Artikel ini bertujuan untuk menggali lebih dalam mengenai aspek ekonomi kunci yang terkait dengan pertanian padi di Indonesia.

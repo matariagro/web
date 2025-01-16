@@ -8,6 +8,7 @@ tags: pertanian inovatif padi dampak ekonomi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: ekonomi_pedesaan.jpg
+img-alt: Ekonomi Pedesaan
 ---
 
 Pertanian padi memainkan peran sentral dalam ekonomi dan kehidupan sosial di Indonesia, menjadi tulang punggung bagi jutaan petani dan masyarakat pedesaan. Secara ekonomi, budidaya padi tidak hanya menyediakan mata pencaharian tetap bagi petani, tetapi juga menjadi motor penggerak ekonomi lokal melalui industri pengolahan dan distribusi hasil pertanian. Dampak ekonominya terasa luas, mencakup dari tingkat desa hingga ke pasar global, memengaruhi stabilitas harga bahan pangan dan kontribusi terhadap PDB nasional.

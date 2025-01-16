@@ -8,6 +8,7 @@ tags: pertanian inovatif organik pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: organik_farm.jpg
+img-alt: Organik Farm
 ---
 
 Pertanian organik semakin mendapat perhatian karena mampu mengintegrasikan prinsip-prinsip keberlanjutan dalam mengelola lahan pertanian. Salah satu aspek utama dari pertanian organik adalah pengendalian hama dan penyakit tanaman tanpa bergantung pada pestisida kimia sintetis yang dapat membahayakan lingkungan dan kesehatan manusia. Di dalam artikel ini, kita akan menjelajahi berbagai strategi dan metode yang efektif dalam pengendalian hama dan penyakit tanaman secara organik, serta mengemukakan pendekatan berkelanjutan yang dapat diterapkan oleh petani.

@@ -6,6 +6,7 @@ desk: "Teknologi telah menjadi kunci dalam memajukan sektor pertanian, membawa p
 subtitle: Artikel
 nav: Inovasi
 image: panen_padi.jpg
+img-alt: Panen Padi
 ---
 
 Teknologi telah menjadi kunci dalam memajukan sektor pertanian, membawa perubahan yang signifikan dalam meningkatkan produktivitas dan efisiensi. Di era modern ini, inovasi teknologi pertanian menjadi semakin penting dalam menghadapi tantangan seperti perubahan iklim, populasi yang terus meningkat, dan permintaan pangan yang semakin tinggi. Dalam artikel ini, kita akan menjelajahi bagaimana inovasi teknologi pertanian telah membawa revolusi dalam peningkatan produktivitas, dengan fokus pada peran teknologi dalam meningkatkan produksi tanaman padi.

@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: trik_budidaya_padi.jpg
+img-alt: Trik Budidaya Padi
 ---
 
 Dalam dunia pertanian, merawat tanaman padi agar tumbuh subur dan terbebas dari hama serta penyakit merupakan tantangan yang harus dihadapi dengan strategi yang tepat. Artikel ini menghadirkan panduan lengkap tentang cara merawat tanaman padi untuk mencapai pertumbuhan yang optimal dan produktif. Dari teknik penyiraman yang tepat waktu hingga pengendalian hama yang terintegrasi, setiap langkah yang dibahas di sini dirancang untuk membantu petani mengoptimalkan hasil panen mereka dengan efisien dan berkelanjutan.

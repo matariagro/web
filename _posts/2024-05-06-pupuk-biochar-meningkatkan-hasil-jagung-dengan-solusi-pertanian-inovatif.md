@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pupuk regenerasi konsultan ketahanan 
 subtitle: Pupuk Pertanian
 nav: Pemupukan
 image: biochar.jpg
+img-alt: Biochar
 ---
 
 Studi baru menyoroti bahwa penggunaan pupuk NPK anorganik telah membantu meningkatkan kesuburan tanah dan hasil jagung, meskipun menghadapi tantangan dalam fiksasi fosfor anorganik. Gabungan penggunaan biochar dan bakteri pemacu pertumbuhan tanaman menunjukkan hasil yang menjanjikan, meningkatkan keasaman tanah, efisiensi penggunaan nutrisi, dan pertumbuhan jagung.

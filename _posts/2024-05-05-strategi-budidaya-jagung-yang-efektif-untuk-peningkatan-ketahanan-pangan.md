@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Ketahanan Pangan
 image: jagung_kuning.jpg
+img-alt: Jagung Kuning
 ---
 
 

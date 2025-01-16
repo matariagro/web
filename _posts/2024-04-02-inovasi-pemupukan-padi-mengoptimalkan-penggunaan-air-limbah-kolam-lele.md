@@ -4,6 +4,7 @@ title: "Inovasi Pemupukan Padi: Mengoptimalkan Penggunaan Air Limbah Kolam Lele"
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_lele.jpg
+img-alt: Padi Ikan Lele
 ---
 
 Pemupukan merupakan salah satu tahapan krusial dalam budidaya padi, terutama dalam skala komersil dan luas. Jenis pupuk yang digunakan dapat bervariasi, tergantung pada kondisi lahan dan kebutuhan petani. Di antara jenis pupuk yang umum digunakan adalah organik dan nonorganik. Namun, sebuah inovasi menarik muncul ketika petani dari Kelompok Tani Sehat Glagah pada musim tanam pertama 2021/2022 mulai menggantikan pupuk kimia dengan air limbah kolam lele.

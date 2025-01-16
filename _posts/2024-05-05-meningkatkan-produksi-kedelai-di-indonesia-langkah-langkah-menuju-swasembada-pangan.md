@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: kedelai_opt.jpg
+img-alt: Kedelao OPT
 ---
 
 Kedelai menjadi salah satu komoditas penting yang masih mengalami defisit di Indonesia, bersama dengan beberapa komoditas pangan lainnya seperti daging sapi, bawang putih, dan gula pasir. Untuk memenuhi kebutuhan tersebut, Indonesia mengandalkan impor, karena produksi dalam negeri belum mampu mencukupi.

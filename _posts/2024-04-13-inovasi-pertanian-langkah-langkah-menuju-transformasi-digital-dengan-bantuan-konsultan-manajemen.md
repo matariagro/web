@@ -6,6 +6,7 @@ desk: "Temukan bagaimana inovasi pertanian dan transformasi digital membantu pet
 subtitle: Inovasi Pertanian
 nav: Teknologi
 image: transformasi_digital.jpg
+img-alt: Transformasi Digital
 ---
 
 Pertanian telah mengalami perkembangan signifikan selama beberapa dekade terakhir, terutama dengan munculnya teknologi dan inovasi baru. Di Indonesia, di mana pertanian memainkan peran penting dalam perekonomian dan mata pencaharian sebagian besar penduduk, transformasi digital menjadi kunci untuk meningkatkan produktivitas dan efisiensi. Dalam upaya ini, peran konsultan manajemen pertanian sangatlah penting.

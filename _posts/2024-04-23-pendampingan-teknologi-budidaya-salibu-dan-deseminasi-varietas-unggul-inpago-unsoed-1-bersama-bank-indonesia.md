@@ -8,6 +8,7 @@ tags: teknologi budidaya salibu deseminasi varietas unggul Inpago Unsoed 1
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: salibu_cilacap.jpg
+image: Salibu Padi Gogo
 ---
 
 Pertanian merupakan salah satu sektor vital dalam perekonomian Indonesia, khususnya dalam penyediaan pangan bagi masyarakat. Di Kabupaten Cilacap, tepatnya di Desa Gandrungmanis, Kecamatan Gandrungmangu, upaya untuk meningkatkan produktivitas dan efisiensi dalam budidaya tanaman padi telah dilakukan melalui proyek pendampingan teknologi budidaya dan deseminasi varietas unggul Inpago Unsoed 1. Proyek ini merupakan hasil kerjasama antara Bank Indonesia Perwakilan Purwokerto, Fakultas Pertanian Universitas Jenderal Soedirman (Unsoed), dan masyarakat petani setempat.

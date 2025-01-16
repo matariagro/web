@@ -6,6 +6,7 @@ nav: Artikel
 keyword: "modernisasi pertanian, teknologi pertanian, pertanian berkelanjutan, Matari Agro Indonesia"
 desk: "Temukan bagaimana modernisasi pertanian dan teknologi dapat meningkatkan skala produksi dan efisiensi pertanian di Indonesia dengan bimbingan Matari Agro Indonesia"
 image: combine_harvester.jpg
+img-alt: Combine Harvester
 ---
 
 

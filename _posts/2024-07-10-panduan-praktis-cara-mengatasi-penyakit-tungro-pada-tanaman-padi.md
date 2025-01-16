@@ -8,6 +8,7 @@ tags: pertanian inovatif hama wereng batang coklat konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: tungro_padi.jpg
+img-alt: Tungro Padi
 ---
 
 Penyakit tungro pada padi menjadi salah satu ancaman utama bagi pertanian padi di Indonesia. Penyakit ini disebabkan oleh dua jenis virus yang ditularkan oleh wereng hijau, yang dapat menyebabkan penurunan hasil panen secara drastis bahkan hingga gagal panen. Dampak dari penyakit tungro tidak hanya merugikan secara ekonomi tetapi juga mengancam ketahanan pangan nasional. Artikel ini hadir untuk memberikan panduan lengkap dan praktis bagi petani dalam menghadapi penyakit tungro, dari mengenali gejala awal, strategi pencegahan yang efektif, hingga metode pengendalian yang dapat diandalkan.

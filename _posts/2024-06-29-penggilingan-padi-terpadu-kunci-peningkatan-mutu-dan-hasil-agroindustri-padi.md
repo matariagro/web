@@ -8,6 +8,7 @@ tags: pertanian inovatif beras deversifikasi pangan alternatif konsultan ketahan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: industri_beras.jpg
+img-alt: Industri Beras
 ---
 
 Penggilingan padi merupakan titik sentral dalam agroindustri padi di Indonesia. Saat ini, banyak penggilingan padi masih menggunakan peralatan sederhana dan usang, yang menyebabkan hasil produksi yang relatif rendah. Untuk meningkatkan mutu dan hasil, diperlukan pendekatan sistem agribisnis yang terpadu. Pendekatan ini tidak hanya fokus pada produksi beras berkualitas, tetapi juga melibatkan pengolahan hasil samping seperti tepung beras, produk bihun, pakan ternak, dan briket arang sekam, serta manajemen mutu yang konsisten. Dengan strategi usaha penggilingan padi terpadu, nilai tambah yang dihasilkan dapat berkisar antara Rp 6,4 juta hingga Rp 16,6 juta per hektar.

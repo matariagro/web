@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi jagung regenerasi konsultan ketahanan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: drone_perkebunan.jpg
+img-alt: Drone Perkebunan
 ---
 
 Pertanian modern semakin mengadopsi teknologi canggih untuk meningkatkan efisiensi dan produktivitas. Salah satu teknologi terbaru yang telah membawa perubahan besar dalam industri pertanian adalah penggunaan drone dalam pemetaan dan pemantauan pertanian. Dalam studi kasus di perkebunan, penggunaan drone telah membawa manfaat yang signifikan bagi petani, membantu mereka mengoptimalkan operasi pertanian mereka.

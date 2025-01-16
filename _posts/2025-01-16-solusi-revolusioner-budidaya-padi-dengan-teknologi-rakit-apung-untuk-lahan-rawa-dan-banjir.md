@@ -8,6 +8,7 @@ tags: pertanian inovatif padi apung budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_apung.jpeg
+img-alt: Budidaya Padi Apung
 ---
  
 Musim penghujan sering kali menjadi tantangan besar bagi para petani padi di Indonesia. Curah hujan yang tinggi, terutama di daerah rawan banjir dan genangan air, dapat menyebabkan kerusakan serius pada tanaman padi. Kondisi ini mengakibatkan akar tanaman terendam dalam waktu lama, menghambat proses pertumbuhan, dan meningkatkan risiko serangan hama dan penyakit. Akibatnya, hasil panen berkurang drastis, bahkan dalam banyak kasus, petani mengalami gagal panen total.  

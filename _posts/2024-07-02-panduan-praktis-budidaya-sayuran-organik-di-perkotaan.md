@@ -8,6 +8,7 @@ tags: pertanian inovatif organik sayur bebas pestisida konsultan ketahanan panga
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: urban_farming.jpg
+img-alt: Urban Farming
 ---
 
 Budidaya sayuran organik di perkotaan semakin diminati sebagai solusi untuk mengatasi tantangan ketahanan pangan, mengurangi jejak karbon, dan mempromosikan gaya hidup yang lebih sehat di tengah kota-kota padat penduduk. Artikel ini bertujuan untuk memberikan panduan praktis bagi para urban farmer yang tertarik untuk memulai dan mengelola kebun sayur organik di lingkungan perkotaan yang terbatas. PT Matari Agro Indonesia, yang dikenal sebagai pemimpin dalam layanan konsultan dan pusat pelatihan pertanian terpadu, memiliki peran krusial dalam memfasilitasi transfer pengetahuan dan keterampilan teknis yang diperlukan untuk sukses dalam budidaya sayuran organik di lokasi dengan ruang terbatas dan tantangan lingkungan yang unik.

@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi KUR regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: buncis_baby.jpg
+img-alt: Buncis Baby
 ---
 
 Pasar buncis baby telah menunjukkan pertumbuhan yang signifikan dalam beberapa tahun terakhir, terutama di era digital saat ini. Dengan semakin banyaknya orang yang beralih ke gaya hidup sehat dan pola makan yang lebih baik, permintaan akan sayuran segar seperti buncis baby terus meningkat. Ini menjadi peluang bisnis yang menjanjikan bagi para petani dan pengusaha di sektor pertanian. Di tengah perkembangan teknologi informasi dan aksesibilitas internet yang semakin mudah, pasar digital telah menjadi wadah utama bagi para pelaku bisnis pertanian untuk memasarkan produk mereka.

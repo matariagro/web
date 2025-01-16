@@ -8,6 +8,7 @@ tags: pertanian inovatif organik seledri sayur sayuran terintegrasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: seledri.jpg
+img-alt: Seledri
 ---
 
 Menanam seledri (*Apium graveolens*) dalam polibag adalah teknik inovatif yang memungkinkan tanaman ini bertahan hingga 4 tahun. Di tengah kebutuhan akan metode pertanian yang efisien dan berkelanjutan, PT Matari Agro Indonesia hadir sebagai mitra andal bagi para petani dan hobiis tanaman. Melalui layanan konsultan dan pelatihan pertanian terpadu, PT Matari Agro Indonesia berkomitmen untuk memberikan solusi praktis yang dapat meningkatkan produktivitas dan kualitas hasil pertanian. Pendekatan yang disesuaikan dengan kebutuhan individu memastikan bahwa setiap pelaku usaha tani mendapatkan dukungan yang diperlukan untuk mencapai keberhasilan.

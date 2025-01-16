@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi KUR regenerasi konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: aglonema.jpg
+img-alt: Aglonema
 ---
 
 Tanaman hias telah menjadi tren yang populer di kalangan berbagai lapisan masyarakat. Salah satu tanaman hias yang diminati adalah Aglaonema, yang dikenal dengan corak daunnya yang unik dan tahan terhadap berbagai kondisi lingkungan. Dalam konteks ini, peluang bisnis dalam budidaya Aglaonema menjadi semakin menarik, terutama di era digital saat ini. Pasar digital membuka peluang besar bagi para petani dan pengusaha untuk memasarkan produk mereka secara efisien dan efektif kepada khalayak yang lebih luas.

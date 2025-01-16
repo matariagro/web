@@ -8,6 +8,7 @@ tags: pertanian inovatif organik industri padi beras terintegrasi konsultan keta
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pelatihan_koperasi.jpg
+img-alt: Pelatihan Koperasi
 ---
 
 Pengembangan pertanian tanaman padi menjadi industri yang lebih maju dan berkelanjutan membutuhkan penguatan kelembagaan petani sebagai salah satu elemen kunci dalam proses hilirisasi dan modernisasi. Indonesia, sebagai salah satu produsen utama beras di dunia, memiliki potensi besar untuk meningkatkan nilai tambah produk beras melalui proses hilirisasi, yaitu transformasi dari produksi beras mentah menjadi produk olahan yang lebih bernilai tinggi.

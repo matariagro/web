@@ -8,6 +8,7 @@ tags: pertanian inovatif padi gogo replanting sawit budidaya modern konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_gogo_sawit.jpeg
+img-alt: Padi Gogo Kelapa Sawit
 ---
 
 Musim penghujan dan curah hujan yang tidak menentu kerap menjadi tantangan besar bagi petani, terutama di lahan marginal seperti replanting kelapa sawit. Namun, kini hadir inovasi yang menawarkan solusi nyata: budidaya padi gogo dengan varietas unggul hasil pengembangan Universitas Jenderal Soedirman (Unsoed).  

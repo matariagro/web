@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor sayuran nutrisi pupuk konsultan ketahana
 subtitle: Nutrisi Tanaman
 nav: Nutrisi
 image: nutrisi_tanaman.jpg
+img-alt: Nutrisi Tanaman
 ---
 
 Pupuk dan nutrisi tanaman merupakan faktor kunci dalam meningkatkan pertumbuhan, kesehatan, dan produktivitas tanaman. Pupuk memberikan nutrisi yang diperlukan oleh tanaman untuk tumbuh dengan optimal, sementara nutrisi tanaman memastikan bahwa tanaman memiliki akses yang cukup terhadap unsur-unsur esensial untuk pertumbuhan yang sehat.

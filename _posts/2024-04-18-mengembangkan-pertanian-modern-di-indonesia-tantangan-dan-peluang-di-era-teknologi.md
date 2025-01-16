@@ -6,6 +6,7 @@ desk: "Artikel ini mengulas tantangan dan peluang dalam mengembangkan pertanian 
 subtitle: Modernisasi Pertanian
 nav: Teknologi
 image: drone_sawah.jpeg
+img-alt: Drone Sawah
 ---
 
 

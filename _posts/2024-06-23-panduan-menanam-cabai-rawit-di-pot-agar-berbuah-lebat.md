@@ -8,6 +8,7 @@ tags: pertanian inovatif organik hidroponik sayur sayuran cabe rawit konsultan k
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: cabe_rawit.jpg
+img-alt: Cabe Rawit
 ---
 
 Cabai rawit tidak hanya menjadi bumbu wajib di dapur Indonesia tetapi juga merupakan tanaman yang relatif mudah untuk ditanam, bahkan di lahan terbatas seperti dalam pot. PT Matari Agro Indonesia, sebagai pusat pelatihan dan konsultan pertanian, memberikan panduan komprehensif bagi mereka yang ingin menanam cabai rawit secara efektif dalam pot.

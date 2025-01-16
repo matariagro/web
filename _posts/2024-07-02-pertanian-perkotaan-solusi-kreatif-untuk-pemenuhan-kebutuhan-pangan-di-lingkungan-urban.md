@@ -8,6 +8,7 @@ tags: pertanian inovatif organik sayur bebas pestisida konsultan ketahanan panga
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pertanian_perkotaan.jpg
+img-alt: Pertanian Perkotaan
 ---
 
 Pertanian perkotaan telah menjadi solusi inovatif yang penting dalam menjawab tantangan pemenuhan kebutuhan pangan di lingkungan urban yang padat penduduk. Artikel ini akan mengulas berbagai konsep dan praktik dalam pertanian perkotaan yang menjadi alternatif efektif dalam memanfaatkan ruang terbatas di perkotaan. Salah satu metode yang semakin populer adalah vertikultur, di mana tanaman ditanam secara vertikal menggunakan struktur bertingkat seperti dinding atau rak, yang memungkinkan penggunaan ruang secara efisien. Selain itu, teknik hidroponik dan akuaponik juga menjadi sorotan, di mana tanaman tumbuh tanpa tanah dengan nutrisi larutan atau menggunakan limbah ikan sebagai sumber nutrisi.

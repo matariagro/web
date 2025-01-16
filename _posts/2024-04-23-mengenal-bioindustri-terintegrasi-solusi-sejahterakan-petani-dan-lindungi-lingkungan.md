@@ -8,6 +8,7 @@ tags: pertanian bioindustri terintegrasi berkelanjutan kesejahteraan lingkungan
 subtitle: Bioindustri
 nav: Bioindustri
 image: bioindustri.jpg
+img-alt: Bioindustri
 ---
 
 Bioindustri terintegrasi mungkin terdengar asing bagi sebagian orang, namun konsep ini menjadi kunci dalam menjawab tantangan pertanian modern. Bioindustri terintegrasi tidak hanya tentang menghasilkan tanaman atau hewan, melainkan juga mengelola seluruh aspek kehidupan pertanian, termasuk limbah organik.

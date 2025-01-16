@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_gogo_genjah.jpg
+img-alt: Padi Gogo Genjah
 ---
 
 Indonesia sebagai negara agraris menghadapi tantangan serius dalam mencapai swasembada beras yang berkelanjutan. Ketergantungan tinggi pada lahan sawah irigasi, yang hanya mencakup sekitar 7,4 juta hektare, membuat produksi padi rentan terhadap perubahan iklim dan keterbatasan sumber daya air. Di sisi lain, sawah tadah hujan yang luasnya mencapai 1,9 juta hektare masih kurang optimal dimanfaatkan. Sawah ini sering kali memiliki produktivitas yang rendah akibat ketergantungan pada curah hujan yang tidak menentu dan minimnya penerapan teknologi pertanian modern.  

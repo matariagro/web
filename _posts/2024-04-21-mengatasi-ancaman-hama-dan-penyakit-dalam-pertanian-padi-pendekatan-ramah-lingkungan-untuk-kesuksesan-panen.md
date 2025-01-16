@@ -6,6 +6,7 @@ desk: "Temukan strategi pengendalian hama dan penyakit yang efektif dan ramah li
 subtitle: Pengendalian OPT
 nav: Pengendalian OPT
 image: padi_kuning.jpg
+img-alt: Padi Kuning
 ---
 
 Di dunia pertanian, perjuangan melawan hama dan penyakit menjadi salah satu tantangan utama bagi petani. Setiap tahun, lebih dari sepertiga produksi tanaman padi hilang karena serangan hama dan penyakit. Oleh karena itu, memahami musuh tanaman dan mengembangkan pendekatan yang ramah lingkungan sangat penting untuk menjaga keberhasilan panen. Mari kita telusuri lebih dalam tentang hama dan penyakit padi yang paling umum serta strategi pengendalian yang efektif.

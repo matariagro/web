@@ -4,6 +4,7 @@ title: "Korporasi Petani: Konsep dan Manfaatnya Bagi Petani"
 subtitle: Korporasi Petani
 nav: Korporasi
 image: korporasi_petani.jpg
+img-alt: Korporasi Petani
 ---
 
 Korporasi petani, sebagai model bisnis yang menggabungkan sejumlah petani untuk membentuk entitas hukum dengan tujuan bersama, telah menjadi strategi yang semakin populer dalam dunia pertanian. Adopsi korporasi petani memberikan peluang bagi para petani untuk meningkatkan daya saing mereka di pasar global. Dengan bergabung dalam korporasi, para petani dapat memanfaatkan skala ekonomi, mengurangi biaya produksi, dan meningkatkan akses terhadap teknologi dan pasar.

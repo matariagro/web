@@ -8,6 +8,7 @@ tags: pertanian terpadu terintegrasi kemandirian keberlanjutan
 subtitle: Pertanian Terintegrasi
 nav: Terintegrasi
 image: pertanian_terpadu.jpg
+img-alt: Pertanian Terpadu
 ---
 
 Pertanian Terintegrasi merupakan konsep yang revolusioner dalam dunia pertanian. Lebih dari sekadar memproduksi tanaman atau hewan, pertanian terintegrasi melibatkan seluruh aspek kehidupan pertanian, mulai dari faktor petani, produksi, hingga sistem politik, ekonomi, dan sosial. Dalam pertanian terintegrasi, tidak hanya mengenai apa yang ditanam atau dipelihara, tetapi juga bagaimana cara menjalankan pertanian dengan memanfaatkan sinergi antara berbagai komponen.

@@ -4,6 +4,7 @@ title: "Program Outing Class dan Pelatihan Kewirausahaan Agrobisnis di Joglo Lar
 subtitle: Pelatihan Agribisnis 
 nav: Artikel
 image: pelatihan_agribisnis.jpg
+img-alt: Pelatihan Agribisnis
 ---
 
 Di tengah keprihatinan akan masalah sampah organik dan potensi pemberdayaan ekonomi masyarakat, Joglo Larva Center di Jatiasih, Bekasi, telah menjadi pelopor dalam menggabungkan kedua aspek tersebut melalui program outing class dan pelatihan kewirausahaan berbasis agrobisnis kelola sampah dengan maggot BSF.

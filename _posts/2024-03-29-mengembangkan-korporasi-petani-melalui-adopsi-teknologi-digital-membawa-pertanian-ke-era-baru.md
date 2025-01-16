@@ -4,6 +4,7 @@ title: "Mengembangkan Korporasi Petani melalui Adopsi Teknologi Digital: Membawa
 subtitle: Artikel
 nav: Artikel
 image: digitalisasi.jpg
+img-alt: Digitalisasi Korporasi Petani
 ---
 
 Pertanian telah menjadi tulang punggung perekonomian di banyak negara, menyediakan sumber penghidupan bagi jutaan petani di seluruh dunia. Namun, tantangan seperti perubahan iklim, peningkatan populasi, dan kebutuhan akan pangan yang terus meningkat memerlukan inovasi dalam menjaga pertumbuhan sektor pertanian. Salah satu solusi yang semakin relevan adalah pengembangan korporasi petani melalui adopsi teknologi digital.

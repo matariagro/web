@@ -4,6 +4,7 @@ title: "Korporasi Petani: Mendorong Profesionalisme dan Kemandirian Petani Indon
 subtitle: Korporasi Pertanian
 nav: Korporasi
 image: korporasi_petani_panen.jpg
+img-alt: Panen Padi
 ---
 
 Korporasi petani telah menjadi salah satu inovasi dalam pembangunan sektor pertanian di Indonesia. Konsep ini diamanatkan untuk diterapkan di seluruh negeri melalui Keputusan Menteri Pertanian No.18 tahun 2018, yang menggarisbawahi pentingnya pengembangan kawasan pertanian berbasis korporasi petani. Dengan korporasi petani, diharapkan lahirnya petani yang berorientasi pada aspek keuntungan dalam mengelola dan mengembangkan usaha pertani mereka. Peran lembaga ini semakin penting dalam meningkatkan motivasi dan profesionalisme para petani. Kendati demikian, lembaga petani tradisional seperti kelompok tani, gabungan kelompok tani, dan koperasi pertanian belum sepenuhnya mampu meningkatkan posisi tawar petani. Hingga kini, petani masih menghadapi kendala dalam peningkatan produksi dan perolehan keuntungan yang signifikan.

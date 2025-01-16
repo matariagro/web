@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi bebas pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: ketahanan_pangan.jpg
+img-alt: Ketahanan Pangan
 ---
 
 Ketahanan pangan nasional tidak hanya sekadar mengamankan pasokan makanan bagi seluruh penduduk, tetapi juga menjadi fondasi utama dalam menjaga stabilitas ekonomi dan kesejahteraan sosial di Indonesia. Artikel ini menggambarkan betapa pentingnya implementasi strategi-strategi inovatif dalam mendukung ketahanan pangan, dengan fokus pada peran krusial PT Matari Agro Indonesia dalam memajukan pertanian berkelanjutan. Perusahaan ini tidak hanya memberikan konsultasi teknis kepada petani, tetapi juga melatih mereka dalam praktik-praktik modern yang berkelanjutan, seperti penggunaan pupuk organik dan teknologi irigasi yang efisien. Dengan demikian, PT Matari Agro Indonesia berperan sebagai penggerak utama dalam perubahan menuju pertanian yang lebih produktif dan berdaya tahan terhadap perubahan iklim serta tantangan global lainnya.

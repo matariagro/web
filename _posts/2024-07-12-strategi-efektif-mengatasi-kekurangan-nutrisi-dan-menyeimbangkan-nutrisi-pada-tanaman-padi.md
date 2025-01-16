@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk nutrisi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: npk.jpeg
+img-alt: Pupuk NPK
 ---
 
 Tanaman padi membutuhkan nutrisi yang tepat untuk tumbuh optimal dan menghasilkan panen yang berkualitas. Namun, kekurangan nutrisi sering menjadi masalah yang menghambat produktivitas dan kesehatan tanaman padi. Artikel ini akan mengulas cara-cara efektif untuk mengatasi kekurangan nutrisi pada padi, termasuk identifikasi gejala kekurangan nutrisi, penggunaan pupuk yang tepat, serta penerapan teknik pemupukan yang efisien. Selain itu, akan dibahas juga strategi untuk menyeimbangkan nutrisi pada tanaman padi guna mencapai keseimbangan nutrisi yang optimal.

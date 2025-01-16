@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor hilirisasi padi perubahan iklim regenera
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: perubahan_iklim.jpeg
+img-alt: Perubahan Iklim
 ---
 
 Dalam menghadapi tantangan perubahan iklim dan kebutuhan akan praktik pertanian yang lebih berkelanjutan, PT Matari Agro Indonesia hadir dengan solusi berupa layanan konsultan dan pusat pelatihan pertanian. Layanan ini tidak hanya bertujuan untuk meningkatkan produktivitas pertanian tetapi juga mengurangi dampak negatif terhadap lingkungan. Sasaran kami mencakup individu yang peduli terhadap bidang pertanian, perusahaan pertanian dan perkebunan, serta pemerintah daerah di seluruh Indonesia.

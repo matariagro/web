@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi hama penyakit konsultan ketahanan pangan
 subtitle: Peluang Usaha
 nav: Agribisnis
 image: tanaman_hias.jpg
+img-alt: Tanaman Hias
 ---
 
 Pertanian memainkan peran krusial dalam perekonomian global dengan dampak yang signifikan terhadap pertumbuhan ekonomi suatu negara. Perkembangan pesat dalam sektor ini terjadi berkat adopsi teknologi modern dan perubahan tren konsumsi masyarakat yang semakin mengutamakan kualitas dan keberlanjutan. Artikel ini akan menggali beberapa potensi peluang usaha di pertanian, seperti budidaya tanaman hias untuk pasar dekoratif yang terus berkembang, produksi sayur organik yang memenuhi permintaan akan makanan sehat, serta penyediaan bibit tanaman berkualitas untuk mendukung ketahanan pangan nasional.

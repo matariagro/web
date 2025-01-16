@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Strategi
 image: produksi_kedelai.jpg
+img-alt: Produksi Kedelai
 ---
 
 

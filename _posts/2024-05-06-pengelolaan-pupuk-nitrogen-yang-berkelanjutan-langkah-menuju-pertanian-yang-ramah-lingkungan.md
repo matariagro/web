@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi pupuk regenerasi konsultan ketahanan 
 subtitle: Pupuk Pertanian
 nav: Pemupukan
 image: pupuk_nitrogen.jpg
+img-alt: Pupuk Nitrogen
 ---
 
 Pada tahun 2022, penelitian yang dipimpin oleh Menegat dan rekan dari University of Turin, Italy membuka mata terhadap jejak lingkungan yang dihasilkan dari produksi, transportasi, dan penggunaan pupuk nitrogen sintetis secara global. Analisis mendalam menyoroti dampak besar rantai pasok pupuk nitrogen sintetis terhadap emisi nitrogen dioksida (N2O) dan gas rumah kaca (GHG) secara keseluruhan, menempatkannya sebagai salah satu penyumbang utama beban karbon dunia. Hasil penelitian ini menegaskan perlunya tindakan proaktif untuk mengelola nitrogen secara berkelanjutan dalam pertanian.

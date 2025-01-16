@@ -8,6 +8,7 @@ tags: pertanian inovatif organik padi bebas pestisida konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sri_padi.jpg
+img-alt: SRI Padi
 ---
 
 Metode SRI atau System of Rice Intensification telah menjadi sorotan dalam dunia pertanian, tidak hanya karena berhasil meningkatkan produktivitas padi secara signifikan, tetapi juga karena pendekatannya yang inovatif dalam mengelola sumber daya pertanian secara efisien. Konsep utama dari SRI melibatkan penggunaan benih yang berkualitas tinggi, penanaman dengan jarak yang lebih luas, dan manajemen air yang hemat. Pendekatan ini tidak hanya menghasilkan hasil panen yang lebih tinggi, tetapi juga mengurangi dampak negatif terhadap lingkungan, seperti penggunaan air yang berlebihan dan penggunaan pupuk kimia yang berlebihan.

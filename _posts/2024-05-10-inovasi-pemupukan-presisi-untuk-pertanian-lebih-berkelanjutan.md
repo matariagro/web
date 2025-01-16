@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi transpalanter regenerasi konsultan ke
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: pemupukan_mesin.jpg
+img-alt: Pemupukan Mesin
 ---
 
 Pemupukan merupakan salah satu aspek penting dalam pertanian modern yang berkelanjutan. Di PT Matari Agro Indonesia, terobosan baru dalam bentuk strategi pemupukan presisi telah diterapkan untuk meminimalkan limbah nutrisi dan meningkatkan kualitas tanaman.

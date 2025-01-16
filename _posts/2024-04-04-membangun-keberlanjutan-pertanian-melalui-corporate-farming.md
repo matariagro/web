@@ -4,6 +4,7 @@ title: "Membangun Keberlanjutan Pertanian Melalui Corporate Farming"
 subtitle: Korporasi Pertanian
 nav: Korporasi
 image: korporasi_petani.jpg
+img-alt: Korporasi Petani
 ---
 
 Pertanian selalu menjadi tulang punggung perekonomian di banyak negara, termasuk Indonesia. Namun, petani sering kali menghadapi tantangan yang kompleks, mulai dari masalah internal hingga faktor eksternal yang mempengaruhi hasil panen dan keberlanjutan usaha pertanian mereka. Salah satu solusi yang muncul untuk mengatasi permasalahan tersebut adalah melalui corporate farming.

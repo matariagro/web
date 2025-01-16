@@ -6,6 +6,7 @@ desk: "Adopsi teknologi canggih seperti IoT, drone, dan sensor telah mengubah wa
 subtitle: Inovasi Teknologi
 nav: Teknologi
 image: iot_pertanian.jpg
+img-alt: IOT Pertanian
 ---
 
 Industri pertanian telah mengalami transformasi besar-besaran dengan adopsi teknologi canggih seperti IoT (Internet of Things), drone, dan sensor. Teknologi ini tidak hanya meningkatkan efisiensi produksi, tetapi juga membantu petani dalam mengatasi berbagai tantangan yang dihadapi dalam mengelola ladang mereka.

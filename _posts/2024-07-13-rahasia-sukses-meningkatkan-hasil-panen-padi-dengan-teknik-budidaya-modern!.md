@@ -8,6 +8,7 @@ tags: pertanian inovatif padi pupuk budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: budidaya_padi.jpg
+img-alt: Budidaya Padi
 ---
 
 Di tengah tantangan global terkait ketahanan pangan, teknik budidaya modern menjadi kunci utama untuk meningkatkan hasil panen padi secara signifikan. Artikel ini mengulas dengan mendalam berbagai strategi modern yang dapat diterapkan petani untuk mengoptimalkan produksi padi. Mulai dari pemilihan benih unggul yang sesuai dengan kondisi lokal, penerapan sistem tanam jajar legowo untuk efisiensi lahan, hingga penggunaan pemupukan berimbang dan pengendalian hama terpadu, setiap teknik dibahas secara rinci untuk memberikan panduan praktis kepada pembaca.

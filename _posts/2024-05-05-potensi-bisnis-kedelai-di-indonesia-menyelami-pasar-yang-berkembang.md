@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi kedelai regenerasi konsultan ketahana
 subtitle: Inovasi Pertanian
 nav: Strategi
 image: kedelai_nasional.jpeg
+img-alt: Kedelai Nasional
 ---
 
 Permintaan global terhadap kedelai terus meningkat seiring dengan pertumbuhan penduduk dan kesadaran akan manfaat kesehatan dari biji kedelai. Di Indonesia, konsumsi kedelai didominasi oleh produk tahu dan tempe, yang memberikan peluang besar bagi pelaku bisnis untuk memanfaatkan bahan baku lokal.

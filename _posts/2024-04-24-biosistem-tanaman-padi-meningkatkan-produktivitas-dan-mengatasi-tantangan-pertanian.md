@@ -8,6 +8,7 @@ tags: pertanian inovatif bioindustri berkelanjutan hortukultura konsultan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: padi_jarwo.jpg
+img-alt: Padi Jarwo
 ---
 
 Biosistem tanaman padi merujuk pada keseimbangan dan interaksi antara komponen-komponen dalam ekosistem padi, yang meliputi tanaman padi itu sendiri, tanah, air, serta faktor lingkungan lainnya. Dalam konteks pertanian, pemahaman yang mendalam tentang biosistem ini menjadi kunci dalam meningkatkan produktivitas dan mengatasi tantangan dalam produksi padi.

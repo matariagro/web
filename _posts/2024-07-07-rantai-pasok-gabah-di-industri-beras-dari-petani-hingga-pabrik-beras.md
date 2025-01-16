@@ -8,6 +8,7 @@ tags: pertanian inovatif padi dampak ekonomi konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: rantai_pasok_gabah.jpg
+img-alt: Rantai Pasok Gabah
 ---
 
 Industri beras di Indonesia memainkan peran vital dalam perekonomian dan ketahanan pangan nasional. Sebagai salah satu produsen beras terbesar di dunia, Indonesia mengandalkan rantai pasok gabah yang kompleks dan melibatkan banyak pihak. Proses ini dimulai dari petani yang menanam dan memanen padi, kemudian gabah dikumpulkan oleh pengepul, diproses oleh pengepul beras, dan akhirnya diolah di pabrik beras sebelum sampai ke konsumen. Setiap tahap dalam rantai pasok ini memiliki peran penting dan tantangan tersendiri yang harus diatasi untuk memastikan ketersediaan beras berkualitas bagi masyarakat.

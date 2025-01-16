@@ -8,6 +8,7 @@ tags: pertanian inovatif ekspor hilirisasi KUR regenerasi konsultan
 subtitle: Pertanian Milenial
 nav: Milenial
 image: sawah_milenial.png
+img-alt: Sawah Milenial
 ---
 
 Kementerian Pertanian RI, melalui Badan Penyuluhan dan Pengembangan SDM Pertanian (BPPSDMP), terus berupaya mendorong proses regenerasi petani dan mengembangkan usaha pertanian dengan memberikan akses permodalan, terutama melalui Kredit Usaha Rakyat (KUR). Salah satu inisiatif penting dalam mendorong minat generasi muda untuk berwirausaha di bidang pertanian adalah Program Youth Entrepreneurship and Employment Support Services (YESS), yang didukung oleh International Fund for Agricultural Development (IFAD).

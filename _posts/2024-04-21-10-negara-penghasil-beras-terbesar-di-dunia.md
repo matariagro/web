@@ -6,6 +6,7 @@ desk: "Beras adalah makanan pokok yang sangat penting bagi lebih dari 50% pendud
 subtitle: Produksi Beras
 nav: Produksi
 image: beras.jpeg
+img-alt: Beras
 ---
 
 Beras adalah makanan pokok yang sangat penting bagi lebih dari 50% penduduk dunia. Dibudidayakan pertama kali di Tiongkok sekitar 11.000 tahun yang lalu, beras menjadi komoditas yang sangat vital bagi keberlangsungan hidup banyak orang di seluruh dunia. Mari kita telusuri 10 negara penghasil beras terbanyak di dunia dan peran penting beras dalam perekonomian serta budaya masyarakat setempat.

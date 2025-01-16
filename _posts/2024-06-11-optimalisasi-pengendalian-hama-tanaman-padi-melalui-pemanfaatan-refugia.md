@@ -8,6 +8,7 @@ tags: pertanian inovatif organik refugia OPT padi beras terintegrasi konsultan k
 subtitle: Sistem Pengendalian
 nav: Pengendalian OPT
 image: refugia.jpg
+img-alt: Refugia
 ---
 
 Pertanian yang berkelanjutan menjadi kunci dalam menjaga ekosistem pertanian yang seimbang dan produktif. Dalam menghadapi serangan organisme pengganggu tanaman (OPT), pendekatan yang ramah lingkungan dan mengedepankan keberlanjutan ekosistem menjadi semakin penting. Salah satu konsep yang muncul dalam konteks ini adalah agroekologi, yang menekankan pentingnya menjaga keseimbangan alam dalam produksi tanaman budidaya.

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik sayur sayuran bawang merah terintegrasi konsult
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: bawang_merah.jpg
+img-alt: Bawang Merah
 ---
 
 Menanam bawang merah (*Allium cepa var. aggregatum*) dalam polybag tidak hanya memungkinkan bagi mereka yang memiliki lahan terbatas, tetapi juga merupakan langkah inovatif dalam berkebun di lingkungan rumah. PT Matari Agro Indonesia menghadirkan solusi melalui layanan konsultan dan pelatihan pertaniannya, yang dirancang untuk membantu garden people meraih kesuksesan dalam menanam bawang merah. Dengan panduan komprehensif ini, Anda akan dibimbing dari persiapan bibit yang tepat hingga proses perawatan dan panen, memastikan setiap tahapan berjalan dengan baik untuk menghasilkan bawang merah berkualitas tinggi.

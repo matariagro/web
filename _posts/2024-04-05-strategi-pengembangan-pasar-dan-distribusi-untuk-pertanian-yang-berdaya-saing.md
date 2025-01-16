@@ -6,6 +6,7 @@ desk: "Artikel ini membahas strategi pengembangan pasar lokal dan ekspor serta s
 subtitle: Strategi Pasar
 nav: Pasar
 image: sayuran.jpg
+img-alt: Sayuran
 ---
 
 Pasar lokal dan ekspor menjadi dua pilar utama dalam pengembangan industri pertanian di Indonesia. Dalam upaya meningkatkan daya saing produk pertanian, strategi pengembangan pasar dan distribusi menjadi kunci. "Pasar yang berkembang dan sistem distribusi yang efisien memainkan peran penting dalam memaksimalkan potensi pertanian Indonesia," ungkap Dr. Ahmad Rizal, seorang ekonom pertanian dari Universitas Indonesia.

@@ -8,6 +8,7 @@ tags: pertanian inovatif organik ekspor sayuran buah bunga konsultan ketahanan p
 subtitle: Inovasi Pertanian
 nav: Inovasi
 image: sayur_organik.jpg
+img-alt: Sayur Organik
 ---
 
 Budidaya tanaman hortikultura, yang meliputi sayuran, buah-buahan, dan bunga, merupakan kegiatan yang menarik dan bermanfaat bagi petani dan pecinta alam. Artikel ini bertujuan untuk memberikan panduan praktis bagi mereka yang tertarik untuk sukses dalam budidaya tanaman hortikultura, dengan fokus pada teknik bertani yang efektif dan berkelanjutan.
