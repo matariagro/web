@@ -4,11 +4,12 @@ title: "Pengembangan Agrowisata: Menjelajahi Keindahan Pertanian dan Mendukung P
 subtitle: Pengembangan Agrowisata
 nav: Konsultasi
 image: agrowisata.jpg
+img-alt: Agrowisata
 ---
 
 
 <h1>Pengembangan Agrowisata: Menjelajahi Keindahan Pertanian dan Mendukung Petani Lokal</h1>
-<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-right">
+<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-content-right">
 #### Memperkenalkan Agrowisata
 
 Agrowisata adalah bentuk pariwisata yang berkaitan dengan kegiatan pertanian. Lebih dari sekadar liburan, agrowisata memberikan pengalaman unik bagi pengunjung untuk menjelajahi keindahan alam pedesaan, belajar tentang proses pertanian, dan berinteraksi langsung dengan petani lokal. Selain memberikan pengalaman yang menarik bagi wisatawan, pengembangan agrowisata juga memiliki potensi besar untuk meningkatkan pendapatan petani dan mempromosikan kesadaran masyarakat tentang pentingnya pertanian berkelanjutan.

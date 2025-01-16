@@ -4,10 +4,11 @@ title: "Konsultasi Manajemen Usaha Pertanian: Membimbing Anda Menuju Kesuksesan 
 subtitle: Konsultan Pertanian
 nav: Konsultasi
 image: pengendalian_hama.jpg
+img-alt: Pengendalian Hama
 ---
 
 <h1>Pengendalian Hama dan Penyakit Tanaman: Meningkatkan Produktivitas dan Kualitas Panen Anda</h1>
-<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-right">
+<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-content-right">
 #### Tantangan dalam Pertanian Modern
 
 Di tengah tantangan yang dihadapi oleh para petani modern, pengendalian hama dan penyakit tanaman menjadi salah satu aspek yang paling vital dalam menjaga produktivitas dan kualitas hasil panen. Tanaman yang terinfeksi penyakit atau diserang hama dapat mengakibatkan kerugian besar bagi petani, baik dari segi kuantitas maupun kualitas hasil panen. Oleh karena itu, penting untuk memiliki strategi pengendalian yang efektif dan holistik.

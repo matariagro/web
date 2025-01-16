@@ -4,10 +4,11 @@ title: "Konsultasi Varietas Tanaman Unggul: Optimalisasi Hasil Pertanian Anda"
 subtitle: Varietas Tanaman Unggul
 nav: Konsultasi
 image: varietas_unggul.jpg
+img-alt: Vaietas Unggul
 ---
 
 <h1>Konsultasi Varietas Tanaman Unggul: Optimalisasi Hasil Pertanian Anda</h1>
-<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-right">
+<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-content-right">
 #### Mengapa Pemilihan Varietas Tanaman Penting?
 
 Dalam dunia pertanian, pemilihan varietas tanaman adalah langkah krusial yang dapat memengaruhi keseluruhan hasil panen dan keberhasilan usaha pertanian Anda. Varietas tanaman yang tepat akan memberikan potensi hasil yang optimal, resistensi terhadap penyakit dan cuaca ekstrem, serta memenuhi kebutuhan pasar yang beragam. Oleh karena itu, konsultasi tentang varietas tanaman unggul menjadi kunci dalam mencapai kesuksesan dalam pertanian modern.

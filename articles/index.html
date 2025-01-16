@@ -10,12 +10,11 @@ nav: Semua
 {% for post in paginator.posts %}
 <div class="card col-lg-3 col-md-3 col-sm-6 border-0">
   <div class="card-body">
-    <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.title }}" class="img-fluid img-thumbnail"></a>
+    <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><img src="{{ site.url }}/img/{{ post.image }}" alt="{{ post.img-alt }}" class="img-fluid img-thumbnail"></a>
     <a href="{{post.url | prepend: site.baseurl}}" title="Lihat Detail"><h5>{{post.title}}</h5></a>
   </div>
 </div>
 {% endfor %}
-
 
     <!-- Pagination links -->
     <div class="pagination">

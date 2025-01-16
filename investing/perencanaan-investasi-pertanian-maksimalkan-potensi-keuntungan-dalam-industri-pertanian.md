@@ -4,10 +4,11 @@ title: "Perencanaan Investasi Pertanian: Maksimalkan Potensi Keuntungan dalam In
 subtitle: Perencanaan Investasi
 nav: Konsultasi
 image: depok_tegalsari.jpg
+img-alt: Desa Depok dan tegal Sari
 ---
 
 <h1>Perencanaan Investasi Pertanian: Maksimalkan Potensi Keuntungan dalam Industri Pertanian</h1>
-<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-right">
+<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-content-right">
 Selamat datang di layanan konsultasi perencanaan investasi pertanian dari Matari Agro Indonesia! Kami mengerti bahwa investasi dalam sektor pertanian memerlukan pemahaman yang mendalam tentang pasar, risiko, dan strategi yang tepat untuk memastikan keberhasilan. Itulah mengapa kami hadir untuk membantu Anda merencanakan investasi Anda dengan cermat dan memberikan wawasan yang dibutuhkan untuk memaksimalkan potensi keuntungan Anda.
 
 #### 1. Menjelajahi Peluang Investasi yang Menjanjikan

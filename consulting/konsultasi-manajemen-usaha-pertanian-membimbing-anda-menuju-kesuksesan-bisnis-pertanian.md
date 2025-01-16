@@ -4,10 +4,11 @@ title: "Konsultasi Manajemen Usaha Pertanian: Membimbing Anda Menuju Kesuksesan 
 subtitle: Konsultan Pertanian
 nav: Konsultasi
 image: musdes.jpg
+img-alt: Musyawarah Desa
 ---
 
 <h1>Konsultasi Manajemen Usaha Pertanian: Membimbing Anda Menuju Kesuksesan Bisnis Pertanian</h1>
-<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.title }}" class="img-fluid rounded img-content-right">
+<img src="{{ site.url }}/img/{{ page.image }}" alt="{{ page.img-alt }}" class="img-fluid rounded img-content-right">
 Selamat datang di layanan konsultasi manajemen usaha pertanian dari Matari Agro Indonesia! Kami mengerti bahwa mengelola bisnis pertanian bukanlah hal yang mudah. Dalam dunia yang terus berkembang ini, Anda perlu memiliki pemahaman yang mendalam tentang manajemen bisnis, perencanaan keuangan yang matang, analisis risiko yang cermat, dan strategi pemasaran yang efektif. Itulah mengapa kami hadir untuk membimbing Anda melalui setiap langkah perjalanan bisnis Anda, membantu Anda mengatasi tantangan dan mencapai kesuksesan yang Anda impikan.
 
 #### 1. Menjadi Ahli dalam Perencanaan Keuangan Pertanian
