@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/pendampingan-kelompok-tani-dan-petani-kunci-sukses-pembangunan-industri-beras-di-kutai-timur</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2025-01-18</news:publication_date>
+                <news:title>Pendampingan Kelompok Tani dan Petani: Kunci Sukses Pembangunan Industri Beras di Kutai Timur</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/matari-agro-pendampingan-perencanaan-pembangunan-industri-beras-terintegrasi-di-kutai-timur</loc>
         <news:news>
             <news:publication>

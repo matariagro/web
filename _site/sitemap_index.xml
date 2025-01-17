@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/pendampingan-kelompok-tani-dan-petani-kunci-sukses-pembangunan-industri-beras-di-kutai-timur</loc>
+    <lastmod>2025-01-18</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/matari-agro-pendampingan-perencanaan-pembangunan-industri-beras-terintegrasi-di-kutai-timur</loc>
     <lastmod>2025-01-18</lastmod>
   </sitemap>
@@ -1317,6 +1322,13 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page16/</loc>
+      <lastmod></lastmod>
+    </sitemap>
+  
+
+  
+    <sitemap>
+      <loc>http://localhost:4000/articles/page17/</loc>
       <lastmod></lastmod>
     </sitemap>
   
