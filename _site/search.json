@@ -1,6 +1,16 @@
 [
   
   {
+    "title"    : "Matari Agro: Pendampingan Perencanaan Pembangunan Industri Beras Terintegrasi di Kutai Timur",
+    "image"    : "/img/pendampingan_kutim.jpeg",    
+    "category" : "Inovasi",
+    "tags"     : "pertanian, inovatif, padi, apung, budidaya, modern, konsultan, ketahanan, pangan",
+    "url"      : "/articles/matari-agro-pendampingan-perencanaan-pembangunan-industri-beras-terintegrasi-di-kutai-timur",
+    "date"     : "2025-01-18 00:00:00 +0700",
+    "desc"     : "Kabupaten Kutai Timur memiliki potensi besar untuk menjadi kawasan strategis dalam mendukung program ketahanan pangan nasional melalui pembukaan 100.000 hektar lahan untuk produksi pangan. Namun, potensi besar ini hanya dapat diwujudkan dengan perencanaan yang matang dan pelaksanaan yang terstruktur. Pendampingan tenaga ahli menjadi elemen kunci dalam memastikan keberhasilan program tersebut. Dalam proyek pembangunan industri beras yang begitu kompleks, kehadiran tenaga ahli yang kompeten sangat penting untuk mengidentifikasi tantangan, merumuskan solusi, dan memastikan implementasi berjalan sesuai dengan rencana."
+    } ,
+    
+  {
     "title"    : "Solusi Revolusioner: Budidaya Padi dengan Teknologi Rakit Apung untuk Lahan Rawa dan Banjir",
     "image"    : "/img/padi_apung.jpeg",    
     "category" : "Inovasi",

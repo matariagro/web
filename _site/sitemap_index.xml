@@ -2,6 +2,11 @@
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
   <sitemap>
+    <loc>http://localhost:4000/articles/matari-agro-pendampingan-perencanaan-pembangunan-industri-beras-terintegrasi-di-kutai-timur</loc>
+    <lastmod>2025-01-18</lastmod>
+  </sitemap>
+
+  <sitemap>
     <loc>http://localhost:4000/articles/solusi-revolusioner-budidaya-padi-dengan-teknologi-rakit-apung-untuk-lahan-rawa-dan-banjir</loc>
     <lastmod>2025-01-16</lastmod>
   </sitemap>
@@ -1312,13 +1317,6 @@
   
     <sitemap>
       <loc>http://localhost:4000/articles/page16/</loc>
-      <lastmod></lastmod>
-    </sitemap>
-  
-
-  
-    <sitemap>
-      <loc>http://localhost:4000/robots.txt</loc>
       <lastmod></lastmod>
     </sitemap>
   

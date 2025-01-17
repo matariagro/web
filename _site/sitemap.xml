@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/matari-agro-pendampingan-perencanaan-pembangunan-industri-beras-terintegrasi-di-kutai-timur</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2025-01-18</news:publication_date>
+                <news:title>Matari Agro: Pendampingan Perencanaan Pembangunan Industri Beras Terintegrasi di Kutai Timur</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/solusi-revolusioner-budidaya-padi-dengan-teknologi-rakit-apung-untuk-lahan-rawa-dan-banjir</loc>
         <news:news>
             <news:publication>
