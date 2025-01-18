@@ -307,8 +307,8 @@ h6,
 }
 
 .service-item .service-text .btn {
-    width: 31px;
-    height: 31px;
+    width: 30px;
+    height: 30px;
     display: inline-flex;
     align-items: center;
     color: var(--dark);
