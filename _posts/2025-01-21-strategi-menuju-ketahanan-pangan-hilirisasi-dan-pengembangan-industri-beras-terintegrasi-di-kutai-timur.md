@@ -7,7 +7,7 @@ category: Inovasi
 tags: pertanian inovatif hilirisasi industri padi gogo budidaya modern konsultan ketahanan pangan
 subtitle: Inovasi Pertanian
 nav: Inovasi
-image: FGD_industri_beras.jpeg
+image: hilirisasi_industri_beras.jpg
 img-alt: Hilirisasi Industri Beras
 ---
 
