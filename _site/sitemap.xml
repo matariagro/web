@@ -3,6 +3,18 @@
     xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
     
     <url>
+        <loc>http://localhost:4000/articles/waspada-kehadiran-capung-tanda-awal-serangan-hama-tanaman-padi-di-sawah</loc>
+        <news:news>
+            <news:publication>
+                <news:name>Matariagro.com</news:name>
+                <news:language>id</news:language>
+            </news:publication>
+                <news:publication_date>2025-01-23</news:publication_date>
+                <news:title>Waspada Kehadiran Capung: Tanda Awal Serangan Hama Tanaman Padi di Sawah</news:title>
+        </news:news>    
+    </url>
+    
+    <url>
         <loc>http://localhost:4000/articles/strategi-swasembada-pangan-optimalisasi-dan-modernisasi-lahan-marginal</loc>
         <news:news>
             <news:publication>
